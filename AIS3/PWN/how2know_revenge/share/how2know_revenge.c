@@ -13,7 +13,7 @@ int main()
     int fd;
     scmp_filter_ctx ctx;
 
-    fd = open("./flag", O_RDONLY);
+    fd = open("/home/chal/flag", O_RDONLY);
     if (fd == -1)
         perror("open"), exit(1);
     read(fd, flag, 0x30);
