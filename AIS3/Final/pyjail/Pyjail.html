@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Panel</title>
+		<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+	</head>
+
+	<body>
+		<header>
+			<nav>
+				<a href="/">Home</a>
+				<a href="/panel">Panel</a>
+				<a href="/help">Help</a>
+				<a href="/logout">Logout</a>
+			</nav>
+			<h1>Pyjail AD</h1>
+		</header>
+		<noscript><h1>Please enable JavaScript to use this website.</h1></noscript>
+		   
+<main>
+	<h2>Team Info</h2>
+	<ul>
+		<li>Team id: 6</li>
+		<li>Team name: --------passing_baseline_v2---------</li>
+		<li>Score: 0</li>
+	</ul>
+	<h2>Update jail</h2>
+	<form id="jail-form">
+		<p>
+			<label>Jail (Currently Active)</label>
+			<textarea name="jail"></textarea>
+		</p>
+		<button type="submit">Update</button>
+	</form>
+	<p>You can manage your patches <a target="_blank" href="http://10.6.0.1:8888/dashboard/challenge/3">here</a> too.</p>
+	<details>
+		<summary>Existing patches</summary>
+		<div id="patches-list"></div>
+	</details>
+	<h2>Attack</h2>
+	<span>Try you best to read target's <code>flag.txt</code>!</span>
+	<form id="attack-form">
+		<p>
+			<label>Target</label>
+			<select name="target" id="target">
+				
+				<option value="1">你自己想啊</option>
+				
+				<option value="2">oPz</option>
+				
+				<option value="3">w33d</option>
+				
+				<option value="4">1375</option>
+				
+				<option value="5">ARCSIN</option>
+				
+				<option value="6">--------passing_baseline_v2---------</option>
+				
+				<option value="7">我需要那個酷酷的學分</option>
+				
+				<option value="8">CATcheatTinFinal</option>
+				
+				<option value="9">pwn虎走起</option>
+				
+				<option value="10">JEWAWA</option>
+				
+				<option value="11">Maple瓜哥邪萬教我</option>
+				
+				<option value="12">PASTA</option>
+				
+				<option value="13">CTF新手 ٩(ˊᗜˋ*)و</option>
+				
+				<option value="14">救救通靈大師</option>
+				
+				<option value="15">0xdeadbeef</option>
+				
+				<option value="16">Starburst Kiwawa</option>
+				
+				<option value="17">Extremely Overcomplicated Frankenstein</option>
+				
+				<option value="18">手算 AES</option>
+				
+				<option value="19">Lucifer</option>
+				
+				<option value="20">AmreemapleSCImiddobyo</option>
+				
+				<option value="21">QQ</option>
+				
+				<option value="22">Telantes</option>
+				
+				<option value="23">我不想寫計畫書</option>
+				
+				<option value="24">NPC</option>
+				
+			</select>
+		</p>
+		<p>
+			<label>Code</label>
+			<textarea name="code"></textarea>
+		</p>
+		<button type="submit">Attack</button>
+	</form>
+
+	<template id="patch-tmpl">
+		<section>
+			<h4>
+				Patch <span class="patch-id"></span>
+				<a class="download" href="#" title="download" style="text-decoration: none;">⬇</a>
+			</h4>
+			<span>
+			<ul>
+				<li>Status: <span class="patch-status"></span></li>
+				<li>Active Round: <span class="patch-active-round"></span></li>
+				<li>Public: <span class="patch-public"></span></li>
+				<li>SHA-1: <span class="patch-hash"></span></li>
+				<li>Feedback: <pre class="patch-feedback"></pre></li>
+			</ul>
+		</section>
+	</template>
+</main>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.js"
+	integrity="sha512-8RnEqURPUc5aqFEN04aQEiPlSAdE0jlFS/9iGgUyNtwFnSKCXhmB6ZTNl7LnDtDWKabJIASzXrzD0K+LYexU9g=="
+	crossorigin="anonymous"
+	referrerpolicy="no-referrer"
+></script>
+<link
+	rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/codemirror.min.css"
+	integrity="sha512-uf06llspW44/LZpHzHT6qBOIVODjWtv4MxCricRxkzvopAlSWnTf6hpZTFxuuZcuNE9CBQhqE0Seu1CoRk84nQ=="
+	crossorigin="anonymous"
+	referrerpolicy="no-referrer"
+/>
+<link
+	rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/theme/monokai.min.css"
+	integrity="sha512-R6PH4vSzF2Yxjdvb2p2FA06yWul+U0PDDav4b/od/oXf9Iw37zl10plvwOXelrjV2Ai7Eo3vyHeyFUjhXdBCVQ=="
+	crossorigin="anonymous"
+	referrerpolicy="no-referrer"
+/>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/6.65.7/mode/python/python.min.js"
+	integrity="sha512-2M0GdbU5OxkGYMhakED69bw0c1pW3Nb0PeF3+9d+SnwN1ryPx3wiDdNqK3gSM7KAU/pEV+2tFJFbMKjKAahOkQ=="
+	crossorigin="anonymous"
+	referrerpolicy="no-referrer"
+></script>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"
+	integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA=="
+	crossorigin="anonymous"
+	referrerpolicy="no-referrer"
+></script>
+<script src="https://unpkg.com/xfetch-js@0.5.0/dist/xfetch.min.js"></script>
+<script>
+	const api_info = {"api_server": "http://10.6.0.1:8888", "challenge_id": 3, "id": 6, "token": "1c5284267eb843279c87e3b0cf7f901b"}
+	const api = xf.extend({
+		baseURI: api_info.api_server,
+		headers: {
+			Authorization: api_info.token
+		}
+	})
+	const sleep = ms => new Promise(resolve => setTimeout(resolve, ms))
+	const initCodeMirror = ta =>
+		CodeMirror.fromTextArea(ta, {
+			lineNumbers: true,
+			theme: 'monokai',
+			mode: 'python',
+			indentUnit: 4
+		})
+	const initJailForm = () => {
+		const jailForm = document.querySelector('#jail-form')
+		const editor = initCodeMirror(jailForm.jail)
+		editor.setSize(null, 500)
+		jailForm.onsubmit = async e => {
+			e.preventDefault()
+			const patch = editor.getValue()
+			const resp = await api
+				.post(`/patch/team/${api_info.id}/chal/${api_info.challenge_id}`, {
+					formData: {
+						file: new Blob([patch], { type: 'text/plain' })
+					}
+				})
+				.json()
+				.catch(err => err.response.json())
+			if (resp.message) {
+				swal({
+					title: 'Error',
+					text: resp.message,
+					icon: 'error'
+				})
+			} else {
+				swal({
+					title: 'Patch sent',
+					text: `The patch has been sent to the server for checking, please wait patiently for the result.`,
+					icon: 'info'
+				})
+				const result = await (async () => {
+					while (true) {
+						await sleep(1000)
+						const r = await api.get(`/patch/${resp.id}`).json()
+						if (r.status !== 'Pending') return r
+					}
+				})()
+				console.log('Patch result', result)
+				if (result.status === 'CheckFailed') {
+					swal({
+						title: 'Patch failed',
+						text: `The patch failed to pass the check, reason: ${result.checker_feedback}`,
+						icon: 'error'
+					})
+				} else {
+					swal({
+						title: 'Patch passed',
+						text: `The patch will be applied when next round starts.\nYou are free to apply other patches but only the last one will be used.`,
+						icon: 'success'
+					})
+				}
+			}
+		}
+		xf.get('/api/jail').json(r => {
+			editor.setValue(r.jail)
+		})
+	}
+	const initAttackForm = () => {
+		const attackForm = document.querySelector('#attack-form')
+		const editor = initCodeMirror(attackForm.code)
+		attackForm.onsubmit = e => {
+			e.preventDefault()
+			xf.post(`/api/attack/${attackForm.target.value}`, {
+				json: {
+					code: editor.getValue()
+				}
+			}).json(r => {
+				if (r.status === 'ok') {
+					swal({
+						title: 'Execution Result',
+						text: `Stdout: ${r.stdout}\nStderr: ${r.stderr}`,
+						icon: 'info'
+					})
+				} else {
+					swal({
+						title: r.message,
+						icon: 'error'
+					})
+				}
+			})
+		}
+		const DEFAULT_CODE = 'print("Hello World")\n'
+		editor.setValue(DEFAULT_CODE)
+		const updateCodeFromStorage = () => {
+			const teamKey = attackForm.target.value
+			const code = localStorage.getItem(`attack-code-${teamKey}`)
+			editor.setValue(code || DEFAULT_CODE)
+		}
+		const saveCodeToStorage = () => {
+			const teamKey = attackForm.target.value
+			localStorage.setItem(`attack-code-${teamKey}`, editor.getValue())
+		}
+		editor.on('change', saveCodeToStorage)
+		attackForm.target.onchange = updateCodeFromStorage
+		updateCodeFromStorage()
+	}
+	function download(content, mimeType, filename) {
+		const a = document.createElement('a')
+		const blob = new Blob([content], { type: mimeType })
+		const url = URL.createObjectURL(blob)
+		a.setAttribute('href', url)
+		a.setAttribute('download', filename)
+		a.click()
+		URL.revokeObjectURL(url)
+	}
+	const initShowPatches = async () => {
+		const patchesList = document.querySelector('#patches-list')
+		patchesList.innerHTML = ''
+		const tmpl = document.querySelector('#patch-tmpl')
+		const patches = await api.get('/patch/team/6/chal/3').json()
+		console.log('Patches', patches)
+		for (const patch of patches) {
+			const patchEl = tmpl.content.cloneNode(true)
+			patchEl.querySelector('.patch-id').textContent = patch.id
+			patchEl.querySelector('.patch-status').textContent = patch.status
+			patchEl.querySelector('.patch-active-round').textContent = patch.active_round ?? 'Never'
+			patchEl.querySelector('.patch-public').textContent = patch.public
+			patchEl.querySelector('.patch-hash').textContent = patch.hash
+			patchEl.querySelector('.patch-feedback').textContent = patch.checker_feedback || 'None'
+			patchEl.querySelector('.download').onclick = async e => {
+				e.preventDefault()
+				const text = await api.get(`/patch/${patch.id}/file`).text()
+				download(text, 'text/plain', `patch-${patch.id}.py`)
+			}
+			patchesList.appendChild(patchEl)
+		}
+	}
+	window.onload = () => {
+		initJailForm()
+		initAttackForm()
+		initShowPatches()
+	}
+</script>
+
+	</body>
+</html>
