@@ -1,0 +1,178 @@
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:n5+_T`|==;hLAE/@5:&h-@@aX2RE`h|FFhLA;E8YJ@&h:$E@f&s@8C'Fhd|!DD;hLAE6@5:&h"8@W<wzGdh|FFhLA;E8YK@&h:$E@f&pD[hd|BBhLA;E4@&h9P8H#d|hLA;E@&h9P.qPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|FPmmhLA;E_t&h35K|OFvJnCBT8reddshrimpandherringcomwindomainlocald|]PBBhLA;E4@&h9PbH#d|DdPhLA;E@&h9P84]PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|ZhLA;E@&h9PbwPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|8bmmhLA;E_t9&hl5K|3wtbK/uIWBreddshrimpandherringcomwindomainlocal|]b;hLAEt>&h5l3wtbK/uIWBreddshrimpandherringcomwindomainlocalQ}@aroot-serversnetnstldverisign-grscomxg:Q|ab]]hLA;EOt:&hm5;l=2a3XH03lreddshrimpandherringcomd|bBBhLA;E4@&h9PGH#d|bhLA;E@&h9P?|PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:`PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:rhLA;E@&h9PKF_ePGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|=xmmhLA;E_t&h5K|&/9MjYzoLjreddshrimpandherringcomwindomainlocal|]x;hLAEte(&h5u#&/9MjYzoLjreddshrimpandherringcomwindomainlocalQs@aroot-serversnetnstldverisign-grscomxg:Q||x]]hLA;EOt&h5;lD5Z+BtbAtareddshrimpandherringcomd|yBBhLA;E4@&h9PBoH#d|0yhLA;E@&h9P$fPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|"mmhLA;E_t&h5K|J1FjuRiR8reddshrimpandherringcomwindomainlocal|?;hLAEt&h5tUJ1FjuRiR8reddshrimpandherringcomwindomainlocalQ{@aroot-serversnetnstldverisign-grscomxg:Q|=C]]hLA;EOt&h5;lR?jVZNhQOTreddshrimpandherringcomd|BBhLA;E4@&h9PH#d|hLA;E@&h9PBojpWPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_t&h5K|MBJKiAFXreddshrimpandherringcomwindomainlocal|Q8;hLAEtq&h5MBJKiAFXreddshrimpandherringcomwindomainlocalQr@aroot-serversnetnstldverisign-grscomxg:Q|;]]hLA;EOt&h5;lZLRLdSKqreddshrimpandherringcom|;hLAE-at!&h5u7ZLRLdSKqreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Qd|>BBhLA;E4@&h9PH#d|hLA;E@&h9P"PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:LX|F66g];E(I@&h&g\abB{7P:Xd|BBhLA;E4@&h9P(H#d|hLA;E@&h9PPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|-mmhLA;E_t&h5K|5lZkiKa3reddshrimpandherringcomwindomainlocald|6BBhLA;E4@&h9PKH#d|hLA;E@&h9P)zPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|]mmhLA;E_t&h$5K|dNEQMIULqreddshrimpandherringcomwindomainlocal|;hLAEtR&h5$dNEQMIULqreddshrimpandherringcomwindomainlocalQq@aroot-serversnetnstldverisign-grscomxg:Q|A]]hLA;EOt&h%5;lC62fHPxt2Hreddshrimpandherringcom|;hLAEtO&h5%KC62fHPxt2Hreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0/:Q|hLA;Eut&h&5a2fHPxt2Hreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|[BBhLA;E4@&h9P.jH#d|ehLA;E@&h9PK(ZPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|W&mmhLA;E_u&h95K|8XyIkzP+reddshrimpandherringcomwindomainlocal|wK;hLAE:tB&h598XyIkzP+reddshrimpandherringcomwindomainlocalQy@aroot-serversnetnstldverisign-grscomxg:Q|QS]]hLA;EOu&h:5;l?iruXuMxNJreddshrimpandherringcomd|AYBBhLA;E4@&h9PIH#d|^hLA;E!@&h9P.kMPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&hK5K|vLzIOPkPbreddshrimpandherringcomwindomainlocal|?;hLAEItT&h5K>vLzIOPkPbreddshrimpandherringcomwindomainlocalQq@aroot-serversnetnstldverisign-grscomxg:Q|pC]]hLA;EOu&hL5;lgxp8M51breddshrimpandherringcomd|BBhLA;E4%@&h9PhH#d|hLA;E&@&h9PIUPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:]]hLA;EOu'&h^5;lsNRsUAHXxreddshrimpandherringcomd|+QBBhLA;E4*@&h9P6/H#d|ShLA;E+@&h9Ph}PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:X|M66g];E(J6@&h&ga,XFDP:XX|@N66;g]E(=@s&g&haXFD,PTAXX|UN66g];E(J7@&h&ga,XFDP:Xd|]lBBhLA;E42@&h9P<H#d|qhLA;E3@&h9P6/GA<PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|zmmhLA;E_uD&h~5K|OBky4GGyGXreddshrimpandherringcomwindomainlocald|BBhLA;E47@&h9Pe%H#d|hLA;E8@&h9P<SPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_uS&h5K|mqqZKNFcreddshrimpandherringcomwindomainlocal|;hLAEi't&h5"mqqZKNFcreddshrimpandherringcomwindomainlocalQu@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOuT&h5;lwhurTYxbnreddshrimpandherringcom|{;hLAEj't&h5IwhurTYxbnreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0/:Q|hLA;EuuU&h5aShurTYxbnreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|BBhLA;E4<@&h9PQH#d|hLA;E=@&h9Pe%dPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u_&h5K|3gEtiL6Ureddshrimpandherringcomwindomainlocal|!;hLAE=tI&h5A3gEtiL6UreddshrimpandherringcomwindomainlocalQw@aroot-serversnetnstldverisign-grscomxg:Qd|$BBhLA;E4A@&h9P5H#d|&hLA;EB@&h9PQPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|^mmhLA;E_uh&h5K|lUykMEuPbreddshrimpandherringcomwindomainlocal|M;hLAEt@&h5OlUykMEuPbreddshrimpandherringcomwindomainlocalQo@aroot-serversnetnstldverisign-grscomxg:Q|$]]hLA;EOui&h5;lusspm1e3reddshrimpandherringcomd|BBhLA;E4F@&h9PjH#d|hLA;EG@&h9P5-PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:a7fKrq7breddshrimpandherringcomd|+BBhLA;E4K@&h9PH#d|-hLA;EL@&h9PjuPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:H#d|DhLA;EQ@&h9PqPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:5PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:]]hLA;EOu&h5;lCeBXXXFyreddshrimpandherringcomd|BBhLA;E4Z@&h9PjH#d|hLA;E[@&h9PiJUPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|fmmhLA;E_u&h5K|92Gu7zRXLreddshrimpandherringcomwindomainlocal|;hLAEtlD&h5992Gu7zRXLreddshrimpandherringcomwindomainlocalQv@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EO_&h95;nZnR3X2Rlreddshrimpandherringcomd|rBBhLA;E4`@&h9PH#d|ehLA;Ea@&h9Pj0kPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_f&h95K~.ZnR3X2RlreddshrimpandherringcomwindomainlocalX|>L66;hLAE(@$[9&hP0ljPX|Q;hLAE:$`9&h5.ZnR3X2Rlreddshrimpandherringcomwindomainlocal'R@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h5;lvQ6gMW/greddshrimpandherringcomd|BBhLA;E4g@&h9POH#d|&"hLA;Eh@&h9PuPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&h5K|\N9teS0OvreddshrimpandherringcomwindomainlocalX|66;hLAE(@$[9&hPXNPX||;hLAEyt&h5F\N9teS0OvreddshrimpandherringcomwindomainlocalQv@aroot-serversnetnstldverisign-grscomxg:Q|I!]]hLA;EOu&h5;lbFbzJBzzBreddshrimpandherringcomd|<BBhLA;E4l@&h9P]EH#d|BhLA;Em@&h9PO'p+PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|kmmhLA;E_u&h5K|SmDzvZ71reddshrimpandherringcomwindomainlocal|&;hLAEtK&h5_SmDzvZ71reddshrimpandherringcomwindomainlocalQm@aroot-serversnetnstldverisign-grscomxg:Q|g*]]hLA;EOu&h5;lHPFD94NTpreddshrimpandherringcomd|BBhLA;E4q@&h9P'H#d|hLA;Er@&h9P]E!~PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|0mmhLA;E_u&h5K|EwV0JaDureddshrimpandherringcomwindomainlocald|BBhLA;E4v@&h9P{"!H#d|hLA;Ew@&h9P'PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|ymmhLA;E_u&h5K|aKMnpRkBreddshrimpandherringcomwindomainlocal|;hLAE]t&h57aKMnpRkBreddshrimpandherringcomwindomainlocalQm@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h5;lDttR69hjVreddshrimpandherringcomd|_GBBhLA;E4{@&h9Ps6H#d|yKhLA;E|@&h9P{""oz-PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&h5K|pfvMGQY0sreddshrimpandherringcomwindomainlocal|;hLAEntK&h5_pfvMGQY0sreddshrimpandherringcomwindomainlocalQ~@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h5;ltTTnvTinreddshrimpandherringcom|M;hLAE#.t,&h5tTTnvTinreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|RhLA;Euu&h5atTTnvTinreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|bBBhLA;E4@&h9Pc-H#d|ehLA;E@&h9Ps6p*PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|zmmhLA;E_u&h5K|kyF3zkFuGreddshrimpandherringcomwindomainlocalX|r88hLAhLA&&hXL|~**hLA;;&hhLA&L|hLA;E@&h9Pc.x?PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&h5K|UFq4pqcsreddshrimpandherringcomwindomainlocal|;hLAENt&h5-UFq4pqcsreddshrimpandherringcomwindomainlocalQu@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h5;lqmHFH7OxreddshrimpandherringcomX|F66hLA;E(@&h9Pdx"P<Xd|A;BBhLA;E4@&h9PH#d|~ihLA;E@&h9PCkhPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:KtD&h5_qaHARNwGWreddshrimpandherringcomwindomainlocalQs@aroot-serversnetnstldverisign-grscomxg:Q|h<]]hLA;EOu&h5;la817nStXreddshrimpandherringcomX|E66;hLAE(@$[9&hPiC-PXd||BBhLA;E4@&h9P0RH#d|hLA;E@&h9Py(PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&h5K|APeOZIsZ8reddshrimpandherringcomwindomainlocal|;hLAElt>&h5KAPeOZIsZ8reddshrimpandherringcomwindomainlocalQs@aroot-serversnetnstldverisign-grscomxg:Q|P]]hLA;EOu&h5;lpDt02i0Lreddshrimpandherringcom|hLA;E@&h9P0RPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_u&h5K|o#JnZqfeEBreddshrimpandherringcomwindomainlocal|;hLAEt&h5co#JnZqfeEBreddshrimpandherringcomwindomainlocalQr@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h5;lLC5AR00mreddshrimpandherringcomX|<66;hLAE(@$[9&hP0RP^Xd|BBhLA;E4@&h9PSiH#d|hLA;E@&h9PRC5PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|fmmhLA;E_u&h5K|5ga9YWjoreddshrimpandherringcomwindomainlocal|;hLAEtV2&h5Pi5ga9YWjoreddshrimpandherringcomwindomainlocalQr@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EO&h9!5;nYWRiZWVmreddshrimpandherringcomX|66;hLAE(@$[9&hPC6mSPqXd|aBBhLA;E4@&h9PH#d|PhLA;E@&h9PSieWPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|mmhLA;E_&h9#5K~*KYWRiZWVmreddshrimpandherringcomwindomainlocalX|66hLA;E(@&h9PSieXP<XX|66;hLAE(@$[9&hPeXSiP&X|;hLAE<1$^9&h5#*KYWRiZWVmreddshrimpandherringcomwindomainlocal'R@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h$5;lwT1Fqpwjureddshrimpandherringcomd|wBBhLA;E4@&h9PxIH#d|0;hLAEMt&h5$ewT1Fqpwjureddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0/:Q|5hLA;Euu&h%5a;T1Fqpwjureddshrimpandherringcomus-west-1ec2-utilitiesamazonawscom|hLA;E@&h9PJPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|mmhLA;E_u&h,5K|bjm+OqSx7reddshrimpandherringcomwindomainlocal|;hLAEt&h5,<qbjm+OqSx7reddshrimpandherringcomwindomainlocalQk@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOu&h-5;lV0XjJNSRreddshrimpandherringcomX|]l66;hLAE(@$[9&hPJxPHXd|5vBBhLA;E4@&h9P2EH#d|QhLA;E@&h9PxI>RM_PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|N8mmhLA;E_u&h55K|3<5gvgR+3UreddshrimpandherringcomwindomainlocalX|I66;hLAE(@$[9&hP>RNBxKPidX|"];hLAEte<&h553<5gvgR+3UreddshrimpandherringcomwindomainlocalQt@aroot-serversnetnstldverisign-grscomxg:Q|Oa]]hLA;EOu&h65;lvdGM6BgJreddshrimpandherringcomX|66MY2;E(J@&h&i8%P<Xd|'BBMY2;E4J@&h&iuH#dd|BB;MY2E4@@l&i&hjxvi:#dX|J66MY2;E(J@&h&ivjxP<Xp|>NN;MY2E@:@@2~&i&h%8PW?:[h/-qpX|>66;MY2E(:@@2&i&h%8PXX|[66MY2;E(J@&h&i8%P<Xd|BBhLA;E4@&h9PH#d|hLA;E@&h9P2F3PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|@hLA;E@&h9P@l{PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_v&hG5K|Q1L7fBbdreddshrimpandherringcomwindomainlocal|;hLAE6Xt&h5GQ1L7fBbdreddshrimpandherringcomwindomainlocalQk@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOv&hH5;lqODQ0m9DKreddshrimpandherringcomd|;BBhLA;E4@&h9P'H#d|hLA;E@&h9P5ZPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_v&hP5K|JUKUkUYnreddshrimpandherringcomwindomainlocal|$C;hLAES&t&h5P&)JUKUkUYnreddshrimpandherringcomwindomainlocalQ|@aroot-serversnetnstldverisign-grscomxg:Qd|FBBhLA;E4@&h9P,@H#d|I]]hLA;EOv&hQ5;lueWUnpoWHreddshrimpandherringcom|IhLA;E@&h9P'9IUrPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|WmmhLA;E_v&hV5K|`Zf688UTzreddshrimpandherringcomwindomainlocal|,;hLAE8t&h5V`Zf688UTzreddshrimpandherringcomwindomainlocalQ|@aroot-serversnetnstldverisign-grscomxg:Q|v2]]hLA;EOv&hW5;l#uFH0VpwOreddshrimpandherringcom|^;hLAEtX&h5W#uFH0VpwOreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|ybhLA;Euv&hX5auFH0VpwOreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|zBBhLA;E4@&h9P}{H#d|I~hLA;E@&h9P,@U9PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:LX|66g];E(J@&h&g\acv{FP:Xd|cBBhLA;E4@&h9PZ\H#d|GhLA;E@&h9P}{[6iPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag::&h5fliN4OTru2reddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|hLA;Euv'&hg5aXiN4OTru2reddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|`BBhLA;E4@&h9P\H#d|hLA;E@&h9PZ\0,PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|wwmmhLA;E_v1&hq5K|$15ShcZekSreddshrimpandherringcomwindomainlocal|;hLAEt[;&h5qi$15ShcZekSreddshrimpandherringcomwindomainlocalQ{@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOv2&hr5;lcM6XVMW0Nreddshrimpandherringcom|;hLAEMet&h5rDcM6XVMW0Nreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Qd|#BBhLA;E4@&h9PKH#d|#hLA;E@&h9P\^PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:zX|;hLAEFt&h5z06iKi0zDDreddshrimpandherringcomwindomainlocalQj@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOv;&h{5;lx5KkdeHbreddshrimpandherringcom||G;hLAENtE&h5{-x5KkdeHbreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|KhLA;Euv<&h|5ax5KkdeHbreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|_BBhLA;E4@&h9P>^pqH#d|qahLA;E@&h9PKLfPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_vC&h5K|~NoqVsSW2reddshrimpandherringcomwindomainlocald|]BBhLA;E4@&h9P8]H#d|;hLA;E@&h9P>^prSPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|QmmhLA;E_vL&h5K|QZ7XVpozreddshrimpandherringcomwindomainlocalX|T66;hLAE(@$[9&hPTb>^r4PX|v;hLAEtB&h5QZ7XVpozreddshrimpandherringcomwindomainlocalQr@aroot-serversnetnstldverisign-grscomxg:Q||!{YYhLA;EK&h957jhfQ==reddshrimpandherringcom|d|BBhLA;E4@&h9P[5H#d|hLA;E@&h9P8]/BPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|53mmhLA;E_vO&h5K|ZvT6zzM2Jreddshrimpandherringcomwindomainlocal|W;hLAEt&h5ZvT6zzM2JreddshrimpandherringcomwindomainlocalQr@aroot-serversnetnstldverisign-grscomxg:Q|x\]]hLA;EOvP&h5;l5yXzo0cCLreddshrimpandherringcom|;hLAEztz&h55yXzo0cCLreddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|hLA;EuvQ&h5a~wyXzo0cCLreddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|BBhLA;E4@&h9PDH#d|ihLA;E@&h9P[6vxPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:]]hLA;EOvY&h5;lwLVUgWoureddshrimpandherringcomX|(466;hLAE(@$[9&hPv[\Pa7X|;hLAEWt&h5wLVUgWoureddshrimpandherringcom*=agtld-serversnetnstldverisign-grs*_0>:Q|hLA;EuvZ&h5a&wLVUgWoureddshrimpandherringcomus-west-1ec2-utilitiesamazonawscomd|q*BBhLA;E4@&h9P:|H#d|0hLA;E@&h9PDjw5PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'d|6BBhLA;E4@&h9Pzh"H#d|7mmhLA;E_vd&h5K|5s1VHzRn6reddshrimpandherringcomwindomainlocal|'hLA;E@&h9P:|$}LPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|SmmhLA;E_vj&h5K|Aecb6fGRcreddshrimpandherringcomwindomainlocal|V;hLAE>t%&h5:Aecb6fGRcreddshrimpandherringcomwindomainlocalQi@aroot-serversnetnstldverisign-grscomxg:Q|]]hLA;EOvk&h5;lN+6v2HTZreddshrimpandherringcomd|BBhLA;E4@&h9P|WH#d|hLA;E@&h9Pzh"}PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|GmmhLA;E_vs&h5K|(5FALrYGVreddshrimpandherringcomwindomainlocal|6;hLAEvtp&h5Qa(5FALrYGVreddshrimpandherringcomwindomainlocalQz@aroot-serversnetnstldverisign-grscomxg:Q|O]]hLA;EOvt&h5;lYeu71Cs0VreddshrimpandherringcomX|866;hLAE(@$[9&hP}zh$P[Xd|[BBhLA;E4@&h9POM?H#d|`hLA;E@&h9P|XMyPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|}mmhLA;E_v|&h5K|0gHMI0EIreddshrimpandherringcomwindomainlocal|;hLAEt1&&h50gHMI0EIreddshrimpandherringcomwindomainlocalQo@aroot-serversnetnstldverisign-grscomxg:Q|A]]hLA;EOv}&h5;l@4n+wg52sreddshrimpandherringcomd|]BBhLA;E4@&h9P%H#d|hLA;E@&h9POM@TPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|mmhLA;E_v&h5K|7rbh2L8TFpreddshrimpandherringcomwindomainlocald|BBhLA;E4@&h9PH#d|hLA;E@&h9P&2]IPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|CmmhLA;E_v&h5K|2CscKL+3reddshrimpandherringcomwindomainlocal|$;hLAEAt&h52CscKL+3reddshrimpandherringcomwindomainlocalQh@aroot-serversnetnstldverisign-grscomxg:Q|g.]]hLA;EOv&h5;lL/5yYuufreddshrimpandherringcomd|93BBhLA;E4@&h9P{6H#d|5hLA;E@&h9Pby:PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|FmmhLA;E_v&h5K|+1X/s/2vyreddshrimpandherringcomwindomainlocal|hLA;E@&h9P{62/{PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'|`9mmhLA;E_v&h5K|SJBfOkBIEreddshrimpandherringcomwindomainlocal|f;hLAEZt5&h5rSJBfOkBIEreddshrimpandherringcomwindomainlocalQ~@aroot-serversnetnstldverisign-grscomxg:Q|'j]]hLA;EOv&h5;l0bLbK94Zreddshrimpandherringcomd|BBhLA;E4@&h9PH#d|hLA;E@&h9P_wdTWPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonPx*<'d|?&BBhLA;E4@&h9PH#d|.mmhLA;E_v&h5K|dGQ3caS/1reddshrimpandherringcomwindomainlocal|.hLA;E@&h9PX(PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|F"mmhLA;E_v&h5K||xA3F0VZ8reddshrimpandherringcomwindomainlocal|s";hLAE;t&h5Y|xA3F0VZ8reddshrimpandherringcomwindomainlocalQn@aroot-serversnetnstldverisign-grscomxg:Q|x"]]hLA;EOv&h5;ll7hTDJh3reddshrimpandherringcomd|"BBhLA;E4!@&h9PtyH#d|"hLA;E"@&h9PSPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteryw~<'|%mmhLA;E_v&h5K|JM9QZU6ePreddshrimpandherringcomwindomainlocal|.%;hLAEt35&h5;JM9QZU6ePreddshrimpandherringcomwindomainlocalQx@aroot-serversnetnstldverisign-grscomxg:Q||VI%YYhLA;EK&&h957j@fQ==reddshrimpandherringcom|d|O%BBhLA;E4'@&h9P[VH#d|2R%hLA;E(@&h9PtyyPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:hostmasteramazonLx*<'|'&iihLA;E[-&h95GztfQ==reddshrimpandherringcomwindomainlocalX|&66;hLAE(@$[9&hPztzPX|';hLAE>$\<9&h5tfQ==reddshrimpandherringcomwindomainlocal'Q@aroot-serversnetnstldverisign-grscomxg:Qd|"'BBhLA;E4.@&h9P@J1H#d|'hLA;E/@&h9P[WZ<PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{0020d021e9e38dbb5a5fa432175089d8b76e4a900618c95f8cae14fedaa45b63}(X|(66hLA;E(1@&h9P]Z<P<XX|m(66hLA;E(2@&h9P]Z<P<XX|g)66;hLAE(@$[9&hPZ<]PXd|1*BBhLA;E43@&h9P`H#d|W3*hLA;E4@&h9P@J2PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{69e96b10f560a6a0656a6d950e73e41bcf4226c424bb5622839dda0c66755b14}(X|r*66hLA;E(6@&h9P@JsP<XX|^+66hLA;E(7@&h9P@JsP<XX|+66;hLAE(@$[9&hPs@JP_Xd|,BBhLA;E48@&h9P6xH#d|t,hLA;E9@&h9P`\#PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{34c6ca47d858ab18aa2008f4ac31c31570c46186939e6b46458b19082122d4bd}(X|q-66hLA;E(;@&h9Pa]P<XX|M-66hLA;E(<@&h9Pa]P<XX|.66;hLAE(@$[9&hP]aP'Xd|dv/BBhLA;E4=@&h9PCBH#d|x/hLA;E>@&h9P6y=\PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{ebfcebe696b1fdbba2abb3b003165152456bd83b6ddfbf180ca366de0dec1b0c}(X|uA066hLA;E(@@&h9P8:=?P<XX|iE066hLA;E(A@&h9P8:=?P<XX|166;hLAE(@$[9&hP=?8;PXd|2BBhLA;E4B@&h9P^fH#d|Z2hLA;EC@&h9PCC*PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{aa125aaeb4723f69dceaa90125a8099a6f3fe0259e068fd82dcbeb76131448bb}(X|'266hLA;E(E@&h9PC*P<XX|266hLA;E(F@&h9PC*P<XX|v366MY2;E(J/@&h&is#(+wVkP<XX|0366;hLAE(@$[9&hP*CP@lXd|34BBhLA;E4G@&h9P~gH#d|4hLA;EH@&h9P^gLWPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:LX|"766g];E(J@&h&ga)rDom=P:Xd|Z7BBhLA;E4L@&h9PH#d|]7hLA;EM@&h9P~h`PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{00ae773ce4a4b3cf3287f072c13ec7139a74207de635de9d115087bc4f312bae}(X|'#866hLA;E(O@&h9P)`yP<XX|(866hLA;E(P@&h9P)`yP<XX|866;hLAE(@$[9&hP`y*PXd|9BBhLA;E4Q@&h9PH#d|[9hLA;ER@&h9PjPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{7e808778b7250893922a17d53f10365b009a7624935850ac5c8140461e49d579}(X|:66hLA;E(T@&h9PkP<XX|:66hLA;E(U@&h9PkP<XX|;66;hLAE(@$[9&hPkP_HXd|C<BBhLA;E4V@&h9PH#d|\<hLA;EW@&h9PO}PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{33e80d6e9f56c1f7705c73566d347ccb32b4662171f224b6dfcb6c8fce4f1601}(X|z=66hLA;E(Y@&h9PO`P<XX|i=66hLA;E(Z@&h9PO`P<XX|F>66;hLAE(@$[9&hPO`PXd|;?BBhLA;E4[@&h9PpH#d|M=?hLA;E\@&h9P6PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{5d921ffbe2709ba82d09603a095530aedae41ab96fd052140cbc64319b7ab0ac}(X|@66hLA;E(^@&h9PUP<XX|@66hLA;E(_@&h9PUP<XX|1@66;hLAE(@$[9&hPVPCXd|@BBBhLA;E4`@&h9P#O+H#d|EBhLA;Ea@&h9PpBPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{977b385d5dd6abde9cb89ee940b5cfb7179d73d989c6993346d278bff003c154}(X|C66hLA;E(c@&h9PpVBP<XX|`C66hLA;E(d@&h9PpVBP<XX|C66;hLAE(@$[9&hPBpWP~Xd|-DBBhLA;E4e@&h9PeH#d|KDhLA;Ef@&h9P#O,l}PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{ca7d3b029817de8f318d8fa521ad1b569f4e8a37358373193522cc7f5628ed49}(X|/E66hLA;E(h@&h9P#Ol}qP<XX|E66hLA;E(i@&h9P#Ol}qP<XX|F66;hLAE(@$[9&hPl}q#OPgdXd|"GBBhLA;E4j@&h9P1DH#d|GhLA;Ek@&h9PepPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{a820680ab6444b1daf5281192f337aefb4aa95a313c9f270804ef7826ecc298c}(X|H66hLA;E(m@&h9PepvP<XX|H66hLA;E(n@&h9PepvP<XX|I66;hLAE(@$[9&hPpvePXd|JBBhLA;E4o@&h9PS5H#d|iJhLA;Ep@&h9P1D!HPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{998d01dadf1b44eb4ec7b7e8fa11f11bcd2d7d86f3f9e4966dde22d4a84ca113}(X|`yK66hLA;E(r@&h9P1EHP<XX|K66hLA;E(s@&h9P1EHP<XX|CL66;hLAE(@$[9&hPH1EPOXd|ZMBBhLA;E4t@&h9PMH#d|[MhLA;Eu@&h9PS6S2HPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{cb8fe3ec65f890e2f0570c98c4edd3fe4115bc059ac2afb39300c7b66f2302c4}(X|l%N66hLA;E(w@&h9PTS3+P<XX|6N66hLA;E(x@&h9PTS3+P<XX|[N66;hLAE(@$[9&hPS3+TPGXd|lOBBhLA;E4y@&h9PH#d|MOhLA;Ez@&h9PNxJPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{bc2af8cbe0ae0befdd28b14412295243354cd3c7cc74e88d8facb2fd5e6ef34d}(X|vP66hLA;E(|@&h9PxKP<XX|P66hLA;E(}@&h9PxKP<XX|3Q66;hLAE(@$[9&hPxKP)Xd|RBBhLA;E4~@&h9PkH#d|,RhLA;E@&h9P2PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{09082a0313e16fc36f8076ff86e54e83048a8568f5c2294fea5fb3bcd212e7f2}(X|pS66hLA;E(@&h9PS2P<XX|yS66hLA;E(@&h9PS2P<XX|R>T66;hLAE(@$[9&hP2TP3Xd|UBBhLA;E4@&h9PXH#d|5UhLA;E@&h9PkQPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{2386746aeb258914349dc81a85cb5de72e47930c7f11759b4ad9f864efa7b5aa}(X|lV66hLA;E(@&h9PkQP<XX|V66hLA;E(@&h9PkQP<XX|CW66;hLAE(@$[9&hPQkP1Xd|SXBBhLA;E4@&h9PdvH#d|TXhLA;E@&h9PYHPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{173306d7b886423d9f79d3d0d05209807ae7b83c445931319830e4e0ad2d2f09}(X|Y66hLA;E(@&h9PIP<XX|Y66hLA;E(@&h9PIP<XX|3Y66;hLAE(@$[9&hPIPXd|[BBhLA;E4@&h9P{H#d|[hLA;E@&h9Pdv+D@PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{6cb98e2295bbe1f15fd8b8b5908de360d386b98a0ce7e0407e001b453b05be22}(X|O\66hLA;E(@&h9Pdx+DAlP<XX|{\66hLA;E(@&h9Pdx+DAlP<XX|?]66;hLAE(@$[9&hP+DAldxPJXd|J{^BBhLA;E4@&h9PfH#d||^hLA;E@&h9P{PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:ahLA;E@&h9Pg"YPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{044ffca72f0f191b0715ff1a9bff182c810cb2786370cbf8cdc1943c2e7aedf6}(X|a66hLA;E(@&h9P("YP<XX|ha66hLA;E(@&h9P("YP<XX|b66;hLAE(@$[9&hP"Y)PqXd|mcBBhLA;E4@&h9P!H#d|chLA;E@&h9PEEPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{b278104c2602442e3db401749c30527d80ba560f9a02c939cb4ff6ea189a140d}(X|wd66hLA;E(@&h9PmEEP<XX|d66hLA;E(@&h9PmEEP<XX|Ye66;hLAE(@$[9&hPEEnPF}Xd|LtfBBhLA;E4@&h9PH#d|wfhLA;E@&h9P!;YPGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{7282e048d6d32383b65f3a03b1101219ac73f7f538446b78d1b2b334e0985447}(X|YAg66hLA;E(@&h9P!A;YP<XX|Jg66hLA;E(@&h9P!A;YP<XX|$h66;hLAE(@$[9&hP;Y!BPXd|iBBhLA;E4@&h9PP2H#d|"ihLA;E@&h9P*PGET/flagHTTP/1.1
+filename:/home/sbk6401/CTF/Tools/Find flag script/shark2.pcapng
+flag:picoCTF{98406c4acbf0f57b3ccbc923aab5a603d70f86d507f422d9bd8656398f53433e}(X|Ei66hLA;E(@&h9P*P<XX|F>j66hLA;E(@&h9P*P<XX|k66;hLAE(@$[9&hP*PXd|kBBhLA;E4@&h9P!0^+H#d|hkhLA;E@&h9PP2!?)PGET/flagHTTP/1.1
