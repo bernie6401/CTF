@@ -1,0 +1,109 @@
+io/github/nandandesai/pico/exceptions/LoginFailedException.java
+ io.github.nandandesai.pico.exceptions.LoginFailedException
+io/github/nandandesai/pico/validators/ValidPath.java
+ io.github.nandandesai.pico.validators.ValidPath
+io/github/nandandesai/pico/security/BookPdfAccessCheck.java
+ io.github.nandandesai.pico.security.BookPdfAccessCheck
+io/github/nandandesai/pico/dto/RoleDto.java
+ io.github.nandandesai.pico.dto.RoleDto
+io/github/nandandesai/pico/controllers/BookController.java
+ io.github.nandandesai.pico.controllers.BookController
+io/github/nandandesai/pico/exceptions/ResourceNotFoundException.java
+ io.github.nandandesai.pico.exceptions.ResourceNotFoundException
+io/github/nandandesai/pico/configs/BookShelfConfig.java
+ io.github.nandandesai.pico.configs.BookShelfConfig
+ io.github.nandandesai.pico.configs.BookShelfConfig$1
+io/github/nandandesai/pico/validators/ImageConstraintValidator.java
+ io.github.nandandesai.pico.validators.ImageConstraintValidator
+io/github/nandandesai/pico/models/Book.java
+ io.github.nandandesai.pico.models.Book
+io/github/nandandesai/pico/controllers/UserController.java
+ io.github.nandandesai.pico.controllers.UserController
+io/github/nandandesai/pico/repositories/BookRepository.java
+ io.github.nandandesai.pico.repositories.BookRepository
+io/github/nandandesai/pico/security/TokenException.java
+ io.github.nandandesai.pico.security.TokenException
+io/github/nandandesai/pico/dto/requests/AddBookRequest.java
+ io.github.nandandesai.pico.dto.requests.AddBookRequest
+io/github/nandandesai/pico/exceptions/InternalServerException.java
+ io.github.nandandesai.pico.exceptions.InternalServerException
+io/github/nandandesai/pico/security/SecurityConfig.java
+ io.github.nandandesai.pico.security.SecurityConfig
+io/github/nandandesai/pico/validators/ValidPassword.java
+ io.github.nandandesai.pico.validators.ValidPassword
+io/github/nandandesai/pico/validators/PdfConstraintValidator.java
+ io.github.nandandesai.pico.validators.PdfConstraintValidator
+io/github/nandandesai/pico/configs/UserDataPaths.java
+ io.github.nandandesai.pico.configs.UserDataPaths
+io/github/nandandesai/pico/dto/requests/UserLoginRequest.java
+ io.github.nandandesai.pico.dto.requests.UserLoginRequest
+io/github/nandandesai/pico/utils/FileOperation.java
+ io.github.nandandesai.pico.utils.FileOperation
+io/github/nandandesai/pico/controllers/GeneralErrorController.java
+ io.github.nandandesai.pico.controllers.GeneralErrorController
+io/github/nandandesai/pico/dto/requests/UpdateUserPasswordRequest.java
+ io.github.nandandesai.pico.dto.requests.UpdateUserPasswordRequest
+io/github/nandandesai/pico/exceptions/DuplicateEntityException.java
+ io.github.nandandesai.pico.exceptions.DuplicateEntityException
+io/github/nandandesai/pico/exceptions/ValidationExceptionHandler.java
+ io.github.nandandesai.pico.exceptions.ValidationExceptionHandler
+io/github/nandandesai/pico/exceptions/CommonExceptionHandler.java
+ io.github.nandandesai.pico.exceptions.CommonExceptionHandler
+io/github/nandandesai/pico/security/models/JwtUserInfo.java
+ io.github.nandandesai.pico.security.models.JwtUserInfo
+io/github/nandandesai/pico/security/UserSecurityDetailsService.java
+ io.github.nandandesai.pico.security.UserSecurityDetailsService
+io/github/nandandesai/pico/security/SecretGenerator.java
+ io.github.nandandesai.pico.security.SecretGenerator
+io/github/nandandesai/pico/security/ReauthenticationFilter.java
+ io.github.nandandesai.pico.security.ReauthenticationFilter
+io/github/nandandesai/pico/validators/PasswordConstraintValidator.java
+ io.github.nandandesai.pico.validators.PasswordConstraintValidator
+io/github/nandandesai/pico/validators/ValidImage.java
+ io.github.nandandesai.pico.validators.ValidImage
+io/github/nandandesai/pico/models/Role.java
+ io.github.nandandesai.pico.models.Role
+io/github/nandandesai/pico/services/UserService.java
+ io.github.nandandesai.pico.services.UserService
+io/github/nandandesai/pico/dto/requests/UpdateUserRoleRequest.java
+ io.github.nandandesai.pico.dto.requests.UpdateUserRoleRequest
+io/github/nandandesai/pico/dto/responses/Response.java
+ io.github.nandandesai.pico.dto.responses.Response
+io/github/nandandesai/pico/BookShelfBaseServerApplication.java
+ io.github.nandandesai.pico.BookShelfBaseServerApplication
+io/github/nandandesai/pico/dto/requests/AddUserPhotoRequest.java
+ io.github.nandandesai.pico.dto.requests.AddUserPhotoRequest
+io/github/nandandesai/pico/dto/UserDto.java
+ io.github.nandandesai.pico.dto.UserDto
+io/github/nandandesai/pico/security/JwtService.java
+ io.github.nandandesai.pico.security.JwtService
+io/github/nandandesai/pico/services/BookService.java
+ io.github.nandandesai.pico.services.BookService
+io/github/nandandesai/pico/validators/ValidPdf.java
+ io.github.nandandesai.pico.validators.ValidPdf
+io/github/nandandesai/pico/validators/PathConstraintValidator.java
+ io.github.nandandesai.pico.validators.PathConstraintValidator
+io/github/nandandesai/pico/models/User.java
+ io.github.nandandesai.pico.models.User
+io/github/nandandesai/pico/dto/responses/ResponseType.java
+ io.github.nandandesai.pico.dto.responses.ResponseType
+io/github/nandandesai/pico/dto/PDF.java
+ io.github.nandandesai.pico.dto.PDF
+io/github/nandandesai/pico/repositories/RoleRepository.java
+ io.github.nandandesai.pico.repositories.RoleRepository
+io/github/nandandesai/pico/security/models/UserAuthority.java
+ io.github.nandandesai.pico.security.models.UserAuthority
+io/github/nandandesai/pico/exceptions/ValidationException.java
+ io.github.nandandesai.pico.exceptions.ValidationException
+io/github/nandandesai/pico/dto/Photo.java
+ io.github.nandandesai.pico.dto.Photo
+io/github/nandandesai/pico/dto/BookDto.java
+ io.github.nandandesai.pico.dto.BookDto
+io/github/nandandesai/pico/dto/requests/UserSignUpRequest.java
+ io.github.nandandesai.pico.dto.requests.UserSignUpRequest
+io/github/nandandesai/pico/repositories/UserRepository.java
+ io.github.nandandesai.pico.repositories.UserRepository
+io/github/nandandesai/pico/security/models/UserSecurityDetails.java
+ io.github.nandandesai.pico.security.models.UserSecurityDetails
+io/github/nandandesai/pico/dto/responses/ErrorResponse.java
+ io.github.nandandesai.pico.dto.responses.ErrorResponse
