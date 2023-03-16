@@ -60,7 +60,8 @@ def flag(file_list,flag):
         except:
             print('err')
 
-flag_txt = ['flag{', '666c6167', 'flag', 'Zmxh', '&#102', '666C6167', 'fl4g']
+# flag_txt = ['flag{', '666c6167', 'flag', 'Zmxh', '&#102', '666C6167', 'fl4g']
+flag_txt = ['pico', 'flag', 'f14g']
 
 #清空输出的文本文件
 clear_txt()
