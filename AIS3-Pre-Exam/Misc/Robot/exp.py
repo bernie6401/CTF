@@ -1,7 +1,8 @@
 from pwn import *
 
 context.arch = 'amd64'
-r = remote("chals1.ais3.org", 12348)
+# r = remote("chals1.ais3.org", 12348)
+r = process('./robot')
 
 r.recvline()
 r.recvline()

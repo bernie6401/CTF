@@ -1,8 +1,10 @@
 from pwn import *
-r = process("./pwntools")
-r = remote("120.114.62.210", 2116)
+
 
 context.arch = 'amd64'
+r = process("./pwntools")
+#r = remote("120.114.62.210", 2116)
+
 
 secret_num = 0x79487FF
 r.sendline(p64(secret_num))
