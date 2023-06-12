@@ -1,6 +1,6 @@
 from pwn import *
 r = process("./pwntools")
-r = remote("120.114.62.210", 2116)
+# r = remote("120.114.62.210", 2116)
 
 context.arch = 'amd64'
 
