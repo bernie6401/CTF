@@ -39,4 +39,5 @@ for j in tqdm(product(string.digits, repeat=6), total=10 ** 6):
     if dec_msg2 in my_dict:
         cipher1 = DES.new(my_dict[dec_msg2], DES.MODE_ECB)
         print("flag = ", bytes.fromhex(cipher1.decrypt(cipher2.decrypt(flag)).hex()).decode('cp437'))
+        break
 
