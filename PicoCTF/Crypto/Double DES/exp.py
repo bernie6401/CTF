@@ -21,9 +21,9 @@ log.info("Encrypted Message is: {}".format(enc_message))
 r.close()
 
 
-for i in trange(999999):
+for i in trange(999999, 999999//2, -1):
     key1 = ddes.pad("".join("{:0>6d}".format(i)))
-    for j in trange(999999):
+    for j in trange(999999, 999999//2, -1):
         key2 = ddes.pad("".join("{:0>6d}".format(j)))
         cipher1 = DES.new(key1, DES.MODE_ECB)
         enc_msg1 = cipher1.encrypt(message)
