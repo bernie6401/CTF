@@ -25,23 +25,12 @@ enc_message = bytes.fromhex("6ee2234a9e61e816")
 flag = bytes.fromhex("0446d14e0b7dbd6202a704e86d05747382cc26567449bbebb3ab76f42ce8be4957c2731923859baf")
 
 
-<<<<<<< HEAD
-for i in trange(999999, 999999//2, -1):
-    key1 = ddes.pad("".join("{:0>6d}".format(i)))
-    for j in trange(999999, 999999//2, -1):
-        key2 = ddes.pad("".join("{:0>6d}".format(j)))
-        cipher1 = DES.new(key1, DES.MODE_ECB)
-        enc_msg1 = cipher1.encrypt(message)
-        cipher2 = DES.new(key2, DES.MODE_ECB)
-        enc_msg2 = cipher2.decrypt(binascii.unhexlify(enc_message))
-=======
 my_dict = {}
 for i in tqdm(product(string.digits, repeat=6), total=10 ** 6):
     key1 = ddes.pad("".join(i))
     cipher1 = DES.new(key1, DES.MODE_ECB)
     enc_msg1 = cipher1.encrypt(message)
     my_dict[enc_msg1] = key1
->>>>>>> 7f2d39dc57e9f015a77a2e7a130579fdccc133ef
 
 for j in tqdm(product(string.digits, repeat=6), total=10 ** 6):
     key2 = ddes.pad("".join(j))
@@ -50,4 +39,5 @@ for j in tqdm(product(string.digits, repeat=6), total=10 ** 6):
     if dec_msg2 in my_dict:
         cipher1 = DES.new(my_dict[dec_msg2], DES.MODE_ECB)
         print("flag = ", bytes.fromhex(cipher1.decrypt(cipher2.decrypt(flag)).hex()).decode('cp437'))
+        break
 
