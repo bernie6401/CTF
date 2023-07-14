@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jul 14 11:39:25 2023
+Invocation: foremost -v miao~.jpg 
+Output directory: /home/sbk6401/CTF/Adworld/Misc/miao~/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: miao~.jpg
+Start: Fri Jul 14 11:39:25 2023
+Length: 1 MB (1242752 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      55 KB 	          0 	 
+1:	00000111.wav 	       1 MB 	      57212 	 
+Finish: Fri Jul 14 11:39:25 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+rif:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Jul 14 11:39:25 2023
