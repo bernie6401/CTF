@@ -4,15 +4,15 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-#define BUFSIZE 100
+#define BUFSIZE 512
 
-
-long increment(long in) {
-	return in + 1;
-}
 
 long get_random() {
-	return rand() % BUFSIZE;
+	return rand;
+}
+
+int get_version() {
+	return 2;
 }
 
 // void print(long n)
@@ -33,8 +33,7 @@ long get_random() {
 // }
 
 int do_stuff() {
-	long ans = get_random();
-	ans = increment(ans);
+	long ans = (get_random() % 4096) + 1;
 	// print(ans);
 	int res = 0;
 	
@@ -59,8 +58,10 @@ int do_stuff() {
 void win() {
 	char winner[BUFSIZE];
 	printf("New winner!\nName? ");
-	fgets(winner, 360, stdin);
-	printf("Congrats %s\n\n", winner);
+	gets(winner);
+	printf("Congrats: ");
+	printf(winner);
+	printf("\n\n");
 }
 
 int main(int argc, char **argv){
@@ -72,7 +73,8 @@ int main(int argc, char **argv){
 	
 	int res;
 	
-	printf("Welcome to my guessing game!\n\n");
+	printf("Welcome to my guessing game!\n");
+	printf("Version: %x\n\n", get_version());
 	
 	while (1) {
 		res = do_stuff();
