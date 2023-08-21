@@ -11,7 +11,7 @@ def sub_lists (l):
     return comb
 
 def main():
-    r = remote("saturn.picoctf.net", 64350)
+    r = remote("saturn.picoctf.net", 65518)
 
     c = int(r.recvline().strip().decode().split(" ")[-1])
     d = int(r.recvline().strip().decode().split(" ")[-1])
@@ -21,7 +21,7 @@ def main():
     k_phi = d * e - 1
     print("k_phi = ", k_phi)
 
-    k_phi_factor = eval(input())
+    k_phi_factor = eval(input("Please go to the online tool page and choose comma separated factors and paste the fatorize result here: "))
     combos = sub_lists(k_phi_factor)
 
     '''Find (p-1)'''

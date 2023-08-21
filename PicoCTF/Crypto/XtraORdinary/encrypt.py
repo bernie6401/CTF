@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 from random import randint
-
-with open('flag.txt', 'rb') as f:
+root_path = "D:/NTU/CTF/PicoCTF/Crypto/XtraORdinary/"
+with open(root_path + 'test_flag.txt', 'rb') as f:
     flag = f.read()
 
-with open('secret-key.txt', 'rb') as f:
+with open(root_path + 'test_key.txt', 'rb') as f:
     key = f.read()
 
 def encrypt(ptxt, key):
@@ -39,5 +39,5 @@ for random_str in random_strs:
                     for m in range(randint(0, pow(2, 0))):
                         ctxt = encrypt(ctxt, random_str)
 
-with open('output.txt', 'w') as f:
+with open('test_output.txt', 'w') as f:
     f.write(ctxt.hex())
