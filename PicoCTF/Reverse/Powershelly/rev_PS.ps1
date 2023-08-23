@@ -1,11 +1,11 @@
-$input = ".\input.txt"
+$input = ".\PicoCTF\Reverse\Powershelly\input.txt"
 
 $out = Get-Content -Path $input
 $enc = [System.IO.File]::ReadAllBytes("$input")
 $encoding = [system.Text.Encoding]::UTF8
 $total = 264
-$t = ($total + 1) * 5
-$numLength = ($total * 30 ) + $t
+$t = ($total + 1) * 5 #1325
+$numLength = ($total * 30 ) + $t - 2# 9245
 if ($out.Length -gt 5 -or $enc.count -ne $numLength)
 {
   Write-Output "Wrong format 5"
@@ -32,11 +32,11 @@ for ($i=0; $i -lt $out.Length ; $i++)
   {
     for ($j=0; $j -lt $r.Length ; $j++)
     {
-    if ($r[$j].Length -ne 6)
-    {
-      Write-Output "Wrong Format 6" $r[$j].Length
-      Exit
-    }
+      if ($r[$j].Length -ne 6)
+      {
+        Write-Output "Wrong Format 6" $r[$j].Length
+        Exit
+      }
       $blocks[$j] += $r[$j]
     }
   }
@@ -44,11 +44,11 @@ for ($i=0; $i -lt $out.Length ; $i++)
   {
     for ($j=0; $j -lt $r.Length ; $j++)
     {
-    if ($r[$j].Length -ne 6)
-    {
-      Write-Output "Wrong Format 6" $r[$j].Length
-      Exit
-    }
+      if ($r[$j].Length -ne 6)
+      {
+        Write-Output "Wrong Format 6" $r[$j].Length
+        Exit
+      }
       $blocks[$j] = @()
       $blocks[$j] += $r[$j]
     }
@@ -97,7 +97,7 @@ function Scramble {
       }
       else
       {
-      $n = "00"
+        $n = "00"
       }
       $bm[$y] = $n
     }
@@ -122,11 +122,11 @@ for ($i=0; $i -lt $blocks.count ; $i++)
   $fun = Scramble -block $blocks[$i] -seed $seeds[$i]
   if($i -eq 263)
   {
-  Write-Output $seeds[$i]
-  Write-Output $randoms[$i]
-  Write-Output $fun
+    Write-Output $seeds[$i]
+    Write-Output $randoms[$i]
+    Write-Output $fun
   }
   $result = $fun -bxor $result -bxor $randoms[$i]
   $output_file += $result
 }
-  Add-Content -Path output.txt -Value $output_file
+Add-Content -Path output_test.txt -Value $output_file
