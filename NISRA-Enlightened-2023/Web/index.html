@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" class="h-100">
+
+  <head>
+    <title>Home</title>
+    <?php include("website_head.php"); ?>
+    <!-- Custom styles for this template -->
+    <link href="./css/index.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  </head>
+
+  <body class="d-flex h-100 text-center text-white bg-dark">
+    <div class="cover-container-adjust d-flex w-100 h-100 p-3 mx-auto flex-column">
+      
+      <main>
+        <h1 class="h3 mb-3 h1-adjust">SBK Blog</h1>
+        <div class="padding-left-mid signin-part">
+          <form method="POST" action="login.php" name="login">
+            <div class="text-black" style="text-shadow:0 0 0">
+              <div class="form-floating form-floating-adjust">
+                <input class="form-control input-adjust" id="floatingInput" placeholder="Username" type="text" name="username" required></input>
+                <input type="submit" value="name"></input>
+              </div>
+            </div>
+            <p>Interest</p>
+            <ul>
+                <li>Novel</li>
+                <li>Photo</li>
+                <li>Badminton</li>
+                <li>Billiard</li>
+            </ul>
+          </form>
+        </div>
+      </main>
+
+      <footer class="mt-auto text-white-50">
+        <p>NTUEE, by <a href="https://github.com/bernie6401" class="text-white">@SBK</a>.</p>
+      </footer>
+    </div>
+  </body>
+</html>
