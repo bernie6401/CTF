@@ -1,0 +1,20 @@
+from gmpy2 import *
+from Crypto.Util.number import long_to_bytes
+
+a = 2
+n = 2
+N = "87e3eee5158054fbdaeb3d80f2b6bab594ca86126136f4b0b60a7d026b313f78040b6281560bcd2f3aceb09409b30af7ce9f5248f061edc39da988d7ba71b2ed6ef06f99a747b2543d608afee7a7d1710049630fbd7b289b7f1ea84ce4094ab2def4a9a033a76908652872d3011aa06987abc27f7db6fbb0f3673c715965f2e06b52c85d7b14b7348f0b9c8ee31c5b87fa833617989efc88c66b7ae57f172a77d75e4cfb27b2a7cefc04356fbe419e3750219168ac86641eb577b079868498ae8081f1c3c25f09f04f049f189976c2ad81c518670fc8af1460de055bb816c5dc583c5a04249f6825505150df9c100967119df7063e64dee4856fd11312a46cb5"
+e = 65537
+c = "2c98d8baa4e40fa330f1688051420e10d430da8d9ffe39156761cee2a2ca2aa5abcdfda603fbfbd334d4334fac7f21e93ac8f6aa80c3254875d810ecea90458aabdbd5b4071badc86ff91409a497d16b1de9f1ca81441600524cf8dcc85bbbfd04a3cf0692cd152f94ac89492e4f52dff2e45713b8e12c9c1ce7e095226eb6275db2d909502fdbb32b4dca6048364abe700329ae6c269abc4d231a924bd348e068529ae56057ffac5cbd0b81be96684c9e080d5ff1bf9c7a56cbc54973703985f32b1ec2db87cf95fa15ba2d95dddec8a29043c64ebdad60469ad2edf50db9c62f5c20744a65b87e14929b5dbf238db2d77df7a003ac1a94e100212ed6434e98"
+c = int(c, 16)
+N = int(N, 16)
+while True:
+    a = powmod(a, n, N)
+    res = gcd(a-1, N)
+    if res != 1 and res != N:
+        q = N // res
+        d = invert(e, (res-1)*(q-1))
+        m = powmod(c, d, N)
+        print(bytes.fromhex('{:x}'.format(m)).decode('cp437'))
+        break
+    n += 1

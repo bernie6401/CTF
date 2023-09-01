@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Aug 31 16:00:18 2023
+Invocation: foremost -v pwd.jpg 
+Output directory: /mnt/d/NTU/CTF/NISRA-Enlightened-2023/Misc/FindPassword/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: pwd.jpg
+Start: Thu Aug 31 16:00:19 2023
+Length: 32 KB (33184 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      22 KB 	          0 	 
+1:	00000045.zip 	       9 KB 	      23482 	 
+Finish: Thu Aug 31 16:00:19 2023
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Thu Aug 31 16:00:19 2023
