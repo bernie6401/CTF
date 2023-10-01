@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2023/09/25 13:55:54 (CST)</CreatedDate>
+  <ModifiedDate>2023/09/25 13:55:56 (CST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.21.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.21.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>picoctf-2022-forensics-operation-oni_20230925_135554</Name>
+    <DisplayName>picoCTF-2022-Forensics-Operation-Oni</DisplayName>
+    <Number/>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>

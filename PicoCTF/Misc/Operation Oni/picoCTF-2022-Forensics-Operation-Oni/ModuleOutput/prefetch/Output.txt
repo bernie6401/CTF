@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\Bernie\AppData\Local\Temp\Autopsy\picoctf-2022-forensics-operation-oni_20230925_135554\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  D:\NTU\CTF\PicoCTF\Misc\Operation Oni\picoCTF-2022-Forensics-Operation-Oni\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

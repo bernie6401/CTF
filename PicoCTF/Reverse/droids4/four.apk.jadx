@@ -1,0 +1,75 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "four.apk"
+  ],
+  "treeExpansions": [
+    [
+      "com.hellocmu.picoctf",
+      "Source code",
+      "four.apk"
+    ],
+    [
+      "Resources",
+      "four.apk"
+    ],
+    [
+      "resources.arsc",
+      "Resources",
+      "four.apk"
+    ],
+    [
+      "res",
+      "resources.arsc",
+      "Resources",
+      "four.apk"
+    ],
+    [
+      "values",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "four.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.hellocmu.picoctf.FlagstaffHill",
+      "subPath": "java",
+      "caret": 1333,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.hellocmu.picoctf.MainActivity",
+      "subPath": "java",
+      "caret": 303,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/values/strings.xml",
+      "subPath": "",
+      "caret": 2524,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "four.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
