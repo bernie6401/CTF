@@ -1,0 +1,262 @@
+0x000000003de0aa28      2      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\User Accounts.lnk
+0x000000003de10ec8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x000000003de2bf80     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_Calendar_2_3A90548322635D4FBB36DD13D69206F7.dat
+0x000000003de2cd90      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Protect\SYNCHIST
+0x000000003de2d1f0      8      0 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\7e4dca80246863e3.automaticDestinations-ms
+0x000000003de2f268      8      0 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Protect\CREDHIST
+0x000000003de319d0      2      1 R--rwd \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Roaming\Microsoft\Credentials
+0x000000003de33630      2      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\Temp.lnk
+0x000000003de54038      7      0 R--rwd \Device\HarddiskVolume2\Users\Public\desktop.ini
+0x000000003de54520      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Protect\S-1-5-21-2967323044-1603262412-578360305-1140\8b9d3030-40d3-47df-8900-bc6e57d37924
+0x000000003de575d0      7      0 R--rwd \Device\HarddiskVolume2\Users\desktop.ini
+0x000000003de57a30      2      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Burn\Burn\desktop.ini
+0x000000003de58c60      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Desktop\desktop.ini
+0x000000003de59858      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x000000003de5ab18      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Internet Explorer.lnk
+0x000000003de5b7a8      8      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+0x000000003de5c1a0      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003de5c5d0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Desktop
+0x000000003de5c750      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Burn
+0x000000003de5cef0      2      1 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop
+0x000000003de5f478      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Desktop.ini
+0x000000003de5f530      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\desktop.ini
+0x000000003de5fdd0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+0x000000003de60450      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini
+0x000000003de60b60      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini
+0x000000003de617a8      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+0x000000003de618f0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+0x000000003de626f0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Desktop.ini
+0x000000003de74758      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+0x000000003de761a0      9      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012015100920151010\index.dat
+0x000000003de763b0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x000000003de766b8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0x000000003de77800      8      0 R--rwd \Device\HarddiskVolume2\Users\zerocool\AppData\Roaming\Microsoft\Windows\SendTo\Desktop.ini
+0x000000003de77928      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu
+0x000000003de77bc0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu
+0x000000003de7b328      7      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+0x000000003de7bbc8      6      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003de7d8d8      8      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003de7db08      8      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003de82ad8      8      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003de861d8      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries\desktop.ini
+0x000000003de86ef0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries\Music.library-ms
+0x000000003de8a038      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Documents\desktop.ini
+0x000000003de8af80      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries\Documents.library-ms
+0x000000003de8c038      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003de8c1d8      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries\Pictures.library-ms
+0x000000003de8c5c8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries
+0x000000003de8c680      7      0 R--rwd \Device\HarddiskVolume2\Users\Public\Music\desktop.ini
+0x000000003de8d038      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Music\desktop.ini
+0x000000003de8d998      7      0 R--rwd \Device\HarddiskVolume2\Users\Public\Pictures\desktop.ini
+0x000000003de8dde8      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\ntuser.dat.LOG1
+0x000000003dec0800      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Downloads\desktop.ini
+0x000000003dec21f0      2      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links\RecentPlaces.lnk
+0x000000003dec3698      2      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links\Desktop.lnk
+0x000000003dec3ef0      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links\desktop.ini
+0x000000003dec4a88      1      1 -W-rw- \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\FXSAPIDebugLogFile.txt
+0x000000003dec6c58      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Videos\desktop.ini
+0x000000003ded0910      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links\Downloads.lnk
+0x000000003defa5d0      8      0 R--rw- \Device\HarddiskVolume2\Windows\Media\Windows User Account Control.wav
+0x000000003df12c38      1      1 R--rw- \Device\HarddiskVolume2\Users\frontdesk\Downloads
+0x000000003df12dd0      2      0 RW-rwd \Device\HarddiskVolume2\Users\anyconnect\AnyConnect\AnyConnectInstaller.exe
+0x000000003df1c990      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\WER\ERC
+0x000000003df1cf00      4      0 R--r-d \Device\HarddiskVolume2\Users\anyconnect\AnyConnect\AnyConnectInstaller.exe
+0x000000003df1eec8      7      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\5afe4de1b92fc382.customDestinations-ms
+0x000000003df23d20      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\696F3DE637E6DE85B458996D49D759AD
+0x000000003df35038      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+0x000000003df35298      9      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Outlook\outlook2.srs
+0x000000003df39398      2      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Internet Explorer.lnk
+0x000000003df3bf80      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Favorites\desktop.ini
+0x000000003e03ddb8     17      1 RW-r-- \Device\HarddiskVolume2\Windows\System32\winevt\Logs\Microsoft-Windows-User Profile Service%4Operational.evtx
+0x000000003e04c258      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_8222F284E4A423382D50E1EADE5CC052
+0x000000003e056f80      8      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\1.bat
+0x000000003e0b9f80      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Videos\desktop.ini
+0x000000003e0bc5e0      7      0 R--r-d \Device\HarddiskVolume2\Users\frontdesk\Downloads\AnyConnectInstaller.exe
+0x000000003e0e1038      8      0 RW--wd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\UProof\CUSTOM.DIC
+0x000000003e0e7a70     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_AvailabilityOptions_2_59C1BBDBDA5089428FDD31AECD2F46CA.dat
+0x000000003e111038      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\1DAF2884EC4DFA96BA4A58D4DBC9C406
+0x000000003e156bb0      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003e16e270      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Control Panel.lnk
+0x000000003e17a468      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\ntuser.dat.LOG1
+0x000000003e17a9a0      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794923-6e39-11e5-8c79-000c2970e589}.TM
+0x000000003e17aa58      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794923-6e39-11e5-8c79-000c2970e589}.TMContainer00000000000000000002.regtrans-ms
+0x000000003e17ab10      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794923-6e39-11e5-8c79-000c2970e589}.TM
+0x000000003e17eb40      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Credentials
+0x000000003e1c6708      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003e1c6928      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003e1c6b48      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003e1e0488     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_ConversationPrefs_2_3A0588AC8C8A734CBB15A45230DC1442.dat
+0x000000003e1e1a60      7      0 R--r-- \Device\HarddiskVolume2\ProgramData\Microsoft\User Account Pictures\user.bmp
+0x000000003e1e2580      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\SendTo\Desktop.ini
+0x000000003e1e5f40     10      1 RW-rw- \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\ExchangePerflog_8484fa318652fe45c4ce420b.dat
+0x000000003e1eef80      8      0 RW---- \Device\HarddiskVolume2\Users\frontdesk\Downloads\wce.exe
+0x000000003e1f0450      8      0 -W---- \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\ALLSAFECYBERSEC+frontdesk.bmp
+0x000000003e1f1148      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x000000003e1f1578      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794923-6e39-11e5-8c79-000c2970e589}.TMContainer00000000000000000001.regtrans-ms
+0x000000003e1f1630      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x000000003e1f19c8      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794923-6e39-11e5-8c79-000c2970e589}.TM.blf
+0x000000003e1f1ec8      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x000000003e1f1f80      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003e1f2320      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Credentials
+0x000000003e1f6f80      5      0 R--r-d \Device\HarddiskVolume2\Windows\System32\HotStartUserAgent.dll
+0x000000003e2559b0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Downloads\AnyConnectInstaller.exe
+0x000000003e26eba0      8      0 R--r-- \Device\HarddiskVolume2\Windows\System32\Microsoft\Protect\S-1-5-18\User\04ece708-132d-4bf0-a647-e3329269a012
+0x000000003e29c480      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003e29c538      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\ntuser.dat.LOG2
+0x000000003e29c5f0      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x000000003e2ab938      7      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Searches\desktop.ini
+0x000000003e2ace28      8      0 R--r-d \Device\HarddiskVolume2\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+0x000000003e2ae8e0      8      0 RWD--- \Device\HarddiskVolume2\Users\anyconnect\AnyConnect\AnyConnectInstaller.exe
+0x000000003e2bff00     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_ContactPrefs_2_68ADBD6B9F3C074D8E170F05E88529F6.dat
+0x000000003e2e29b8      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794ab1-6e39-11e5-8c79-000c2970e589}.TM
+0x000000003e2e6b80      7      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003e2e6c38      8      0 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003e2ea478      2      0 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_WorkHours_1_9E98F95BCD3F49489CFA3999B260F0E9.dat
+0x000000003e31de38      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\SendTo\Fax Recipient.lnk
+0x000000003e377c30      2      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\w.lnk
+0x000000003e38d038      2      0 R--r-d \Device\HarddiskVolume2\Windows\System32\Tasks\Microsoft\Windows\User Profile Service\HiveUploadTask
+0x000000003e396bb8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+0x000000003e3985a0      7      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\696F3DE637E6DE85B458996D49D759AD
+0x000000003e3c7818      2      0 R--r-d \Device\HarddiskVolume2\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask
+0x000000003e3d26e8     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TableViewPreviewPrefs_2_029E33BB3FAD604E9F3AB1EFDAD506D4.dat
+0x000000003e3db7d0      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x000000003e3f0f80      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\WER\ReportArchive
+0x000000003e7c61e0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Desktop
+0x000000003e7c63b8      7      0 R--rwd \Device\HarddiskVolume2\Users\Public\Desktop\desktop.ini
+0x000000003e7c6700      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
+0x000000003e7c6cd8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Burn
+0x000000003e7e8698      9      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003e7e8938      9      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003e7ead08      8      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\f55a39a9c62ecb4895f295d8e6c47f96 - Autodiscover.xml
+0x000000003e7eae50      9      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003e7ee608      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_8CEB4A21CDB54E28DE6A1217AA511A0B
+0x000000003ec28f40      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Office\15.0\WebServiceCache\AllUsers\support.content.office.microsoft.com\en-us-static-AF102819889.xml0
+0x000000003ec2dcc0      8      0 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\mapisvc.inf
+0x000000003ecec2b0      8      0 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\Frontdesk@allsafecybersec.com - outlook2.ost
+0x000000003ed32280      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0x000000003ed57968      4      0 R--r-d \Device\HarddiskVolume2\Users\frontdesk\Downloads\AnyConnectInstaller.exe
+0x000000003eed93c0      8      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\1033\StructuredQuerySchema.bin
+0x000000003eefb640      2      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Libraries\Videos.library-ms
+0x000000003eefb6f8      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\desktop.ini
+0x000000003eefcdc8      8      0 R--r-d \Device\HarddiskVolume2\Users\frontdesk\TeamViewerQS_en.exe
+0x000000003ef0ac40      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+0x000000003ef2c828      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Pictures\desktop.ini
+0x000000003ef2caf8      7      0 R--rwd \Device\HarddiskVolume2\Users\Public\Documents\desktop.ini
+0x000000003ef78508      2      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+0x000000003ef788f8      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x000000003ef7d1b0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent
+0x000000003ef83d08      8      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\Desktop\cmd.lnk
+0x000000003ef86c30      1      1 RW---- \Device\HarddiskVolume2\Users\frontdesk\NTUSER.DAT
+0x000000003ef8fec8      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Office\15.0\WebServiceCache\AllUsers\office15client.microsoft.com\config15--lcid=1033&syslcid=1033&uilcid=1033&build=15.0.4420&crev=10
+0x000000003ef900b8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk
+0x000000003efa9d58      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk
+0x000000003efaabc0      8      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\a.bat
+0x000000003efad1a0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links
+0x000000003eff2648      8      0 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\B912B2C6928A18B8CD7D50CF08BEA95B_A9C610BEA212EBFF4FEA0E3E4F18B1D2
+0x000000003f44ae88      8      0 RW--wd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Office\15.0\7dfa93e0\Proofing\RoamingCustom.dic
+0x000000003f4509c8      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\94308059B57B3142E455B38A6EB92015
+0x000000003f4baa00     10      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_RssRule_2_A4B9CD4BB199B14E9EF61F80B8BD5512.dat
+0x000000003f4bca20      8      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\~Frontdesk@allsafecybersec.com - outlook2.ost.tmp
+0x000000003f4bce58      5      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\GDIPFONTCACHEV1.DAT
+0x000000003fa11980      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C46E7B0F942663A1EDC8D9D6D7869173_42820CDFEA41DC84AAB89A6B63561873
+0x000000003fa15968      3      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData
+0x000000003fa1edb0      8      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\TeamViewer_Desktop.exe
+0x000000003fa22940      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_845DC97FEFEA05BEDC3BC06E5F0D1788
+0x000000003fa23688      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\C46E7B0F942663A1EDC8D9D6D7869173_D9B9F37ECE595B0B7B6AA12451D392CF
+0x000000003fa252d8      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\B912B2C6928A18B8CD7D50CF08BEA95B_A9C610BEA212EBFF4FEA0E3E4F18B1D2
+0x000000003fa25a08      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\D47DBD2F9E3365FBBE008D71FB06716F_D33192D58AA9CA2B9097E848E9FE86DE
+0x000000003fa2e2d8      1      1 -W-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\TeamViewer\TeamViewer10_Logfile.log
+0x000000003fa2e870      8      0 RW---- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\828298824EA5549947C17DDABF6871F5_334ED69A36BF882B447815998BE46E97
+0x000000003fa2f038      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\FE0DA2326A35120037F66779D450C7D6_1B661BB7CE078EAF7200357724F17C59
+0x000000003fa355a0      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\EDC238BFF48A31D55A97E1E93892934B_C20E0DA2D0F89FE526E1490F4A2EE5AB
+0x000000003fa42638      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\82414F9D7AB8999991FFEB2BC378A4EB_93C3E147D4FB7063513D65EB905CAEE3
+0x000000003fa485f8      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\705A76DE71EA2CAEBB8F0907449CE086_C6BEF881A0EA3ED6996C8AEE6874F18E
+0x000000003fa4da40      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\40E450F7CE13419A2CCC2A5445035A0A_F663F250E172D75637EE387588AB955D
+0x000000003fa4f5d0      4      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\tv_w32.exe
+0x000000003fa564e0      1      1 -W-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\TeamViewer\TeamViewer10_Logfile.log
+0x000000003fa6f1b8      3      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003fa723e0      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7396C420A8E1BC1DA97F1AF0D10BAD21
+0x000000003fa7bc08      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\40E450F7CE13419A2CCC2A5445035A0A_06F02B1F13AB4B11B8FC669BDE565AF1
+0x000000003fa8f760      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\94308059B57B3142E455B38A6EB92015
+0x000000003fa90100      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003fa90e58      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003fa970d0      3      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003faa6aa8     12      1 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Terminal Server Client\Cache\bcache24.bmc
+0x000000003faaf2d8      7      0 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1bc392b8e104a00e.automaticDestinations-ms
+0x000000003fb79428      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fc2e478      8      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Office\MSO1033.acl
+0x000000003fc33420      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Private Character Editor.lnk
+0x000000003fc33a08      8      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\TeamViewerQS_en.exe
+0x000000003fc33c50      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat
+0x000000003fc35880      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Downloads
+0x000000003fc35de0      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x000000003fc36868      4      1 RW-r-d \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\RoamCache\Stream_TCPrefs_2_6BDDD5C95088F84890F233D3C45BDB30.dat
+0x000000003fc3d868      3      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003fc56a80      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0x000000003fc575b8      7      0 R--r-d \Device\HarddiskVolume2\Users\frontdesk\Downloads\wce.exe
+0x000000003fc57e50      1      1 R--rw- \Device\HarddiskVolume2\Users\frontdesk\Documents
+0x000000003fc5adf0      2      0 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\Appearance and Personalization.lnk
+0x000000003fc61be0      5      4 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Outlook\Frontdesk@allsafecybersec.com - outlook2.ost
+0x000000003fc61d00      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT
+0x000000003fc64d68      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Contacts\desktop.ini
+0x000000003fc67080      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+0x000000003fc6f438      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003fc6f4f0      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\History\desktop.ini
+0x000000003fc76038      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility\Ease of Access.lnk
+0x000000003fc83038      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\Desktop\desktop.ini
+0x000000003fc8e1f8      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003fc8f470      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fc8f598      1      1 RW-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003fc9b038      1      1 -W-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\TeamViewer\TeamViewer10_Logfile.log
+0x000000003fca9038      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\computer.lnk
+0x000000003fcabd08      2      0 R--rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Command Prompt.lnk
+0x000000003fcaef80      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.db
+0x000000003fcc2848      2      1 R--rwd \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Credentials
+0x000000003fcc9038      8      0 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1b4dd67f29cb1962.automaticDestinations-ms
+0x000000003fccabc8      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003fcdedc8      8      0 RW-r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\918e0ecb43d17e23.automaticDestinations-ms
+0x000000003fce8428      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Links
+0x000000003fce8610      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk
+0x000000003fd03a90      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\index.dat
+0x000000003fd03dd0      6      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Temp\ose00000.exe
+0x000000003fd05b10      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\3388ECC3F7BC4A9271C10ED8621E5A65_EAB16BFB11501B6E7DF3938BFC951B9E
+0x000000003fd087a0      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Roaming\Microsoft\Windows\Cookies\index.dat
+0x000000003fd09138      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003fd0a478      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\Local\Microsoft\Windows\History\History.IE5\index.dat
+0x000000003fd0b5c8      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\FB788E090BC1F3AA2FBC9E8FB2859601
+0x000000003fd2a3a0      5      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\TeamViewer_StaticRes.dll
+0x000000003fd304b0      3      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\tv_w32.dll
+0x000000003fd57ae8      6      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\TeamViewer.exe
+0x000000003fd57c90      3      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\SystemCertificates\My
+0x000000003fd5bbb8     16      0 -W-rw- \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\TeamViewer\TeamViewer10_Logfile.log
+0x000000003fd68798      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0x000000003fd8a3c8      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0x000000003fd8b530      4      0 R--rwd \Device\HarddiskVolume2\Windows\assembly\NativeImages_v2.0.50727_32\ehiUserXp\b3d97406a8ca9fd1afbc4ed43d0381c9\ehiUserXp.ni.dll
+0x000000003fd93e48      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794ab1-6e39-11e5-8c79-000c2970e589}.TMContainer00000000000000000002.regtrans-ms
+0x000000003fd945d8      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\696F3DE637E6DE85B458996D49D759AD
+0x000000003fd94ae8      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\696F3DE637E6DE85B458996D49D759AD
+0x000000003fd96e18      2      0 R--r-d \Device\HarddiskVolume2\Users\frontdesk\Searches\Indexed Locations.search-ms
+0x000000003fda0eb8      8      0 R--rwd \Device\HarddiskVolume2\Users\front-desk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\94308059B57B3142E455B38A6EB92015
+0x000000003fda5780      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db
+0x000000003fda7430      8      0 R--rwd \Device\HarddiskVolume2\Users\zerocool\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+0x000000003fdaa7f8      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794ab1-6e39-11e5-8c79-000c2970e589}.TM.blf
+0x000000003fdabb08      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\ntuser.dat.LOG2
+0x000000003fdb01e8      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0x000000003fdb0dc0      2      1 RW-r-- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794ab1-6e39-11e5-8c79-000c2970e589}.TMContainer00000000000000000001.regtrans-ms
+0x000000003fdb1b28      2      1 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Downloads
+0x000000003fdb1cf8      2      0 R--rwd \Device\HarddiskVolume2\Users\Public\Libraries\desktop.ini
+0x000000003fdb23f8      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003fdbd1b0      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db
+0x000000003fdbf5a0      1      1 RW---- \Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0x000000003fdc2190      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\8890A77645B73478F5B1DED18ACBF795_1E5D470765E0BE1964814B1F5A3581DC
+0x000000003fdc2d00      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\887FDFEF9DC62EF73EB288690D5944B1_26350B9AC9702B04A41390C833041875
+0x000000003fdcab70      8      0 RW-rwd \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\tvinfo.ini
+0x000000003fdcb4f0      3      0 R--r-d \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer\TeamViewer_Resource_en.dll
+0x000000003fdcb680      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\1060B7ADDE0FF6DE85637BF89FC4CEBC_D1A3B048114F06D2461F4D94ABFDAE6C
+0x000000003fdd4148      1      1 RW-rwd \Device\clfs\Device\HarddiskVolume2\Users\Administrator.front-desk-PC\AppData\Local\Microsoft\Windows\UsrClass.dat{0a794ab1-6e39-11e5-8c79-000c2970e589}.TM
+0x000000003fdd4af0      1      1 RW-rwd \Device\HarddiskVolume2\Users\frontdesk\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0x000000003fdd4e10      2      1 RW-rw- \Device\clfs\Device\HarddiskVolume2\Users\Administrator.front-desk-PC\NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM
+0x000000003fdd5f80      1      1 R--rw- \Device\Mup\;Z:000000000002e898\10.1.1.21\c$\Users\gideon
+0x000000003fded840      1      1 R--rw- \Device\HarddiskVolume2\Users\FRONTD~1\AppData\Local\Temp\TeamViewer
+0x000000003fdfe990      2      0 R--r-- \Device\HarddiskVolume2\Users\frontdesk\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\0F1583FFF42FFF476A09801ACB69213F_E3F4A8C96454D7D3441D2C1BCE81F875
+0x000000003ffac740      8      0 R--rwd \Device\HarddiskVolume2\Users\frontdesk\Saved Games\desktop.ini
