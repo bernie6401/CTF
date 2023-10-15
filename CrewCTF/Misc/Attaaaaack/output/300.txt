@@ -1,0 +1,2887 @@
+AutoHotkeysd-C
+AutoHotkeys
+AutoHotkeys
+TWMKey
+System\CurrentControlSet\Control\Keyboard Layouts\%.8x
+	TKeyEvent
+TKeyPressEvent
+HelpKeyword nA
+80211_SHARED_KEY
+KEYNAME
+KEYNAME
+KEYNAME
+KEYNAME
+RegOpenKeyExA
+RegCloseKey
+GetKeyboardType
+keybd_event
+VkKeyScanA
+MapVirtualKeyA
+LoadKeyboardLayoutA
+GetKeyboardState
+GetKeyboardLayoutNameA
+GetKeyboardLayoutList
+GetKeyboardLayout
+GetKeyState
+GetKeyNameTextA
+ActivateKeyboardLayout
+RegQueryInfoKeyA
+RegOpenKeyExA
+RegOpenKeyA
+RegFlushKey
+RegEnumKeyExA
+RegDeleteKeyA
+RegCreateKeyExA
+RegCreateKeyA
+RegCloseKey
+UntKeylogger
+UntControlKey
+	msctls_hotkey32
+AltTab_KeyHookWnd
+KEYNAME={MicroUpdate}
+KEYNAME={MicroUpdate}
+KEYNAME
+KEYNAME
+KEYNAME
+KEYNAME={MicroUpdate}
+GetKeyState
+RegCreateKeyA
+RegOpenKeyA
+RegCreateKeyW
+RegOpenKeyW
+RegCreateKeyExW
+RegCloseKey
+RegOpenKeyExW
+GetAsyncKeyState
+RegCreateKeyW
+RegOpenKeyW
+RegEnumKeyW
+RegCloseKey
+RegOpenKeyA
+o create pszKeyName
+IRegOpenKeyAcm: Unable to create gszAcmProfileKey
+IRegOpenKeyAcm: Unable to open current user profile.
+RegCreateKeyW
+RegCreateKeyA
+RegDeleteKeyA
+RegEnumKeyExA
+RegOpenKeyA
+RegOpenKeyExA
+RegEnumKeyExW
+RegOpenKeyExW
+RegDeleteKeyW
+RegOpenKeyW
+RegCloseKey
+RegCreateKeyExW
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExW
+RegOpenKeyExW
+RegCloseKey
+GetKeyState
+RegOpenKeyExA
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExW
+RegCreateKeyW
+GetKeyState
+GetAsyncKeyState
+GetKeyNameTextW
+MapVirtualKeyW
+GetKeyboardLayout
+SetKeyboardState
+GetKeyboardState
+RegCloseKey
+RegOpenKeyExW
+RegOpenKeyExW
+RegNotifyChangeKeyValue
+RegCloseKey
+RegOpenKeyExA
+RegCloseKey
+RegCreateKeyExW
+RegCloseKey
+RegQueryInfoKeyW
+RegQueryInfoKeyW
+RegSetKeySecurity
+RegGetKeySecurity
+RegEnumKeyExW
+RegOpenKeyExW
+RegCloseKey
+RegCreateKeyExW
+RegQueryInfoKeyW
+RegCloseKey
+RegOpenKeyExW
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExW
+GdipGetStringFormatHotkeyPrefix
+GdipSetImageAttributesColorKeys
+GdipSetStringFormatHotkeyPrefix
+CryptDestroyKey
+CryptImportKey
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExW
+GetKeyState
+            publicKeyToken="6595b64144ccf1df"
+PSGetNameFromPropertyKey
+PSGetPropertyKeyFromName
+PSPropertyBag_ReadPropertyKey
+PSPropertyBag_WritePropertyKey
+PSPropertyKeyFromString
+PSStringFromPropertyKey
+RegCloseKey
+RegOpenKeyExW
+RegEnumKeyW
+RegCreateKeyExW
+RegEnumKeyA
+RegDeleteKeyExA
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegDeleteKeyExW
+RegOpenKeyExA
+            publicKeyToken="6595b64144ccf1df"
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExW
+GetAsyncKeyState
+GetKeyboardLayout
+SetKeyboardState
+GetKeyboardState
+OemKeyScan
+VkKeyScanW
+MapVirtualKeyW
+GetKeyNameTextW
+GetKeyState
+RCODE_BADKEY
+RegEnumKeyExW
+RegCloseKey
+RegOpenKeyExW
+RegDeleteKeyExW
+RegCreateKeyExW
+NtOpenKey
+NtQueryValueKey
+RegOpenKeyExA
+RegCreateKeyExW
+RegCloseKey
+RegOpenKeyExW
+RegEnumKeyExW
+RegDeleteKeyExW
+RegCloseKey
+RegOpenKeyExW
+SdbDeletePermLayerKeys
+SdbGetPermLayerKeys
+SdbMakeIndexKeyFromString
+SdbSetPermLayerKeys
+NtEnumerateValueKey
+NtQueryKey
+NtCreateKey
+NtSetValueKey
+NtDeleteValueKey
+NtSetInformationKey
+NtDeleteKey
+NtOpenKey
+NtQueryValueKey
+RtlFormatCurrentUserKeyPath
+RegOpenKeyExA
+RegOpenKeyExW
+RegGetKeySecurity
+RegCloseKey
+KEYW
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegSetKeySecurity
+RegCreateKeyExW
+RegLoadKeyW
+RegCloseKey
+CM_Delete_Class_Key
+CM_Delete_Class_Key_Ex
+CM_Delete_DevNode_Key
+CM_Delete_DevNode_Key_Ex
+CM_Delete_Device_Interface_KeyA
+CM_Delete_Device_Interface_KeyW
+CM_Delete_Device_Interface_Key_ExA
+CM_Delete_Device_Interface_Key_ExW
+CM_Get_Class_Key_NameA
+CM_Get_Class_Key_NameW
+CM_Get_Class_Key_Name_ExA
+CM_Get_Class_Key_Name_ExW
+CM_Get_Class_Property_Keys
+CM_Get_Class_Property_Keys_Ex
+CM_Get_DevNode_Property_Keys
+CM_Get_DevNode_Property_Keys_Ex
+CM_Get_Device_Interface_Property_KeysW
+CM_Get_Device_Interface_Property_Keys_ExW
+CM_Open_Class_KeyA
+CM_Open_Class_KeyW
+CM_Open_Class_Key_ExA
+CM_Open_Class_Key_ExW
+CM_Open_DevNode_Key
+CM_Open_DevNode_Key_Ex
+CM_Open_Device_Interface_KeyA
+CM_Open_Device_Interface_KeyW
+CM_Open_Device_Interface_Key_ExA
+CM_Open_Device_Interface_Key_ExW
+CM_Write_UserPowerKey
+RegOpenKeyExW
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyExW
+RegCloseKey
+advapi32.RegCloseKey
+RegCreateKeyExA
+advapi32.RegCreateKeyExA
+RegCreateKeyExW
+advapi32.RegCreateKeyExW
+RegDeleteKeyExA
+advapi32.RegDeleteKeyExA
+RegDeleteKeyExW
+advapi32.RegDeleteKeyExW
+RegEnumKeyExA
+advapi32.RegEnumKeyExA
+RegEnumKeyExW
+advapi32.RegEnumKeyExW
+RegFlushKey
+advapi32.RegFlushKey
+RegGetKeySecurity
+advapi32.RegGetKeySecurity
+RegLoadAppKeyA
+advapi32.RegLoadAppKeyA
+RegLoadAppKeyW
+advapi32.RegLoadAppKeyW
+RegLoadKeyA
+advapi32.RegLoadKeyA
+RegLoadKeyW
+advapi32.RegLoadKeyW
+RegNotifyChangeKeyValue
+advapi32.RegNotifyChangeKeyValue
+RegOpenKeyExA
+advapi32.RegOpenKeyExA
+RegOpenKeyExW
+advapi32.RegOpenKeyExW
+RegQueryInfoKeyA
+advapi32.RegQueryInfoKeyA
+RegQueryInfoKeyW
+advapi32.RegQueryInfoKeyW
+RegRestoreKeyA
+advapi32.RegRestoreKeyA
+RegRestoreKeyW
+advapi32.RegRestoreKeyW
+RegSaveKeyExA
+advapi32.RegSaveKeyExA
+RegSaveKeyExW
+advapi32.RegSaveKeyExW
+RegSetKeySecurity
+advapi32.RegSetKeySecurity
+RegUnLoadKeyA
+advapi32.RegUnLoadKeyA
+RegUnLoadKeyW
+advapi32.RegUnLoadKeyW
+DevObjCreateDevRegKey
+DevObjCreateDeviceInterfaceRegKey
+DevObjDeleteDevRegKey
+DevObjDeleteDeviceInterfaceRegKey
+DevObjGetClassPropertyKeys
+DevObjGetDeviceInterfacePropertyKeys
+DevObjGetDevicePropertyKeys
+DevObjOpenClassRegKey
+DevObjOpenDevRegKey
+DevObjOpenDeviceInterfaceRegKey
+RegEnumKeyExW
+RegCloseKey
+CM_Delete_Device_Interface_Key_ExW
+CM_Open_Device_Interface_Key_ExW
+CM_Delete_DevNode_Key_Ex
+CM_Get_Device_Interface_Property_Keys_ExW
+CM_Get_DevNode_Property_Keys_Ex
+CM_Open_Class_Key_ExW
+CM_Open_DevNode_Key_Ex
+CM_Get_Class_Property_Keys_Ex
+OpenRegKey
+NtQueryValueKey
+NtOpenKey
+NtSetValueKey
+NtEnumerateValueKey
+NtCreateKey
+NtDeleteKey
+NtEnumerateKey
+NtNotifyChangeKey
+NtDeleteValueKey
+NtQueryMultipleValueKey
+SHRegCloseUSKey
+shlwapi.SHRegCloseUSKey
+SHRegEnumUSKeyA
+shlwapi.SHRegEnumUSKeyA
+SHRegEnumUSKeyW
+shlwapi.SHRegEnumUSKeyW
+SHRegOpenUSKeyA
+shlwapi.SHRegOpenUSKeyA
+SHRegOpenUSKeyW
+shlwapi.SHRegOpenUSKeyW
+RegOpenKeyExW
+RegCloseKey
+KEYW
+CtfImmGetCompatibleKeyboardLayout
+CtfImmSetDefaultRemoteKeyboardLayout
+GetKeyboardLayoutCP
+ImmCreateSoftKeyboard
+ImmDestroySoftKeyboard
+ImmGetHotKey
+ImmGetVirtualKey
+ImmProcessKey
+ImmSetHotKey
+ImmShowSoftKeyboard
+ImmSimulateHotKey
+ImmWINNLSGetIMEHotkey
+USER32.CliImmSetHotKey
+keybd_event
+UnloadKeyboardLayout
+LoadKeyboardLayoutW
+GetKeyboardLayoutList
+GetKeyboardLayout
+MapVirtualKeyW
+GetKeyboardState
+RegDeleteKeyExW
+RegCloseKey
+RegCreateKeyExW
+RegEnumKeyExW
+RegOpenKeyExW
+CtfImeProcessCicHotkey
+TF_SetDefaultRemoteKeyboardLayout
+TF_GetCompatibleKeyboardLayout
+CtfImeProcessKey
+TF_MapCompatibleKeyboardTip
+CM_Delete_Class_Key
+CM_Delete_Class_Key_Ex
+CM_Delete_DevNode_Key
+CM_Delete_DevNode_Key_Ex
+CM_Delete_Device_Interface_KeyA
+CM_Delete_Device_Interface_KeyW
+CM_Delete_Device_Interface_Key_ExA
+CM_Delete_Device_Interface_Key_ExW
+CM_Get_Class_Key_NameA
+CM_Get_Class_Key_NameW
+CM_Get_Class_Key_Name_ExA
+CM_Get_Class_Key_Name_ExW
+CM_Open_Class_KeyA
+CM_Open_Class_KeyW
+CM_Open_Class_Key_ExA
+CM_Open_Class_Key_ExW
+CM_Open_DevNode_Key
+CM_Open_DevNode_Key_Ex
+CM_Open_Device_Interface_KeyA
+CM_Open_Device_Interface_KeyW
+CM_Open_Device_Interface_Key_ExA
+CM_Open_Device_Interface_Key_ExW
+CM_Write_UserPowerKey
+SetupDiCreateDevRegKeyA
+SetupDiCreateDevRegKeyW
+SetupDiCreateDeviceInterfaceRegKeyA
+SetupDiCreateDeviceInterfaceRegKeyW
+SetupDiDeleteDevRegKey
+SetupDiDeleteDeviceInterfaceRegKey
+SetupDiGetClassPropertyKeys
+SetupDiGetClassPropertyKeysExW
+SetupDiGetDeviceInterfacePropertyKeys
+SetupDiGetDevicePropertyKeys
+SetupDiOpenClassRegKey
+SetupDiOpenClassRegKeyExA
+SetupDiOpenClassRegKeyExW
+SetupDiOpenDevRegKey
+SetupDiOpenDeviceInterfaceRegKey
+cfgmgr32.CM_Get_Class_Key_Name_ExW
+cfgmgr32.CM_Open_Class_KeyA
+cfgmgr32.CM_Open_Class_KeyW
+cfgmgr32.CM_Open_Class_Key_ExA
+cfgmgr32.CM_Open_Class_Key_ExW
+cfgmgr32.CM_Open_DevNode_Key
+cfgmgr32.CM_Open_DevNode_Key_Ex
+cfgmgr32.CM_Open_Device_Interface_KeyA
+cfgmgr32.CM_Open_Device_Interface_KeyW
+cfgmgr32.CM_Open_Device_Interface_Key_ExA
+cfgmgr32.CM_Open_Device_Interface_Key_ExW
+RegOpenKeyExW
+RegCreateKeyExW
+RegCloseKey
+RegQueryInfoKeyW
+CM_Open_Class_Key_ExW
+CM_Delete_Class_Key_Ex
+DevObjCreateDeviceInterfaceRegKey
+DevObjOpenDevRegKey
+DevObjCreateDevRegKey
+DevObjDeleteDeviceInterfaceRegKey
+DevObjOpenDeviceInterfaceRegKey
+DevObjDeleteDevRegKey
+DevObjGetClassPropertyKeys
+DevObjOpenClassRegKey
+DevObjGetDevicePropertyKeys
+DevObjGetDeviceInterfacePropertyKeys
+                publicKeyToke%N
+KEYWX
+GetKeyboardLayout
+GetKeyboardLayoutList
+RegOpenKeyExW
+RegCloseKey
+KEYWT
+RegEnumKeyA
+RegEnumKeyW
+NtQueryKey
+NtOpenKey
+ZwDeleteKey
+ZwDeleteValueKey
+ZwOpenKey
+ZwCreateKey
+ZwEnumerateKey
+ZwQueryValueKey
+RegCloseKey
+RegCreateKeyExA
+RegEnumKeyExW
+RegDeleteKeyExA
+RegQueryInfoKeyW
+RegQueryInfoKeyA
+RegOpenKeyExW
+RegOpenKeyExA
+RegCreateKeyExW
+RegDeleteKeyExW
+GetKeyState
+RegEnumKeyExW
+RegQueryInfoKeyW
+RegFlushKey
+RegDeleteKeyW
+RegCreateKeyExW
+RegOpenKeyW
+RegOpenKeyExW
+RegCloseKey
+GetUserClassesRootKeyWWW
+@phKeyWWW
+6ReleaseUserClassesRootKeyWWW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExW
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExA
+SHDeleteKeyW
+SHRegEnumUSKeyW
+SHRegCloseUSKey
+SHRegOpenUSKeyW
+RegCreateKeyExW
+RegQueryInfoKeyA
+RegEnumKeyExA
+RegDeleteKeyExA
+RegOpenKeyExA
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExA
+SHRegDeleteEmptyUSKeyW
+SHRegQueryInfoUSKeyW
+SHRegCreateUSKeyW
+GetAsyncKeyState
+CryptDeriveKey
+CryptDestroyKey
+CryptDuplicateKey
+CryptExportKey
+CryptGenKey
+CryptGetKeyParam
+CryptGetUserKey
+CryptHashSessionKey
+CryptImportKey
+CryptSetKeyParam
+EncryptedFileKeyInfo
+FreeEncryptedFileKeyInfo
+GetServiceKeyNameA
+GetServiceKeyNameW
+RegCloseKey
+RegCreateKeyA
+RegCreateKeyExA
+RegCreateKeyExW
+RegCreateKeyTransactedA
+RegCreateKeyTransactedW
+RegCreateKeyW
+RegDeleteKeyA
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegDeleteKeyTransactedA
+RegDeleteKeyTransactedW
+RegDeleteKeyValueA
+RegDeleteKeyValueW
+RegDeleteKeyW
+RegDisableReflectionKey
+RegEnableReflectionKey
+RegEnumKeyA
+RegEnumKeyExA
+RegEnumKeyExW
+RegEnumKeyW
+RegFlushKey
+RegGetKeySecurity
+RegLoadAppKeyA
+RegLoadAppKeyW
+RegLoadKeyA
+RegLoadKeyW
+RegNotifyChangeKeyValue
+RegOpenKeyA
+RegOpenKeyExA
+RegOpenKeyExW
+RegOpenKeyTransactedA
+RegOpenKeyTransactedW
+RegOpenKeyW
+RegOverridePredefKey
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegQueryReflectionKey
+RegRenameKey
+RegReplaceKeyA
+RegReplaceKeyW
+RegRestoreKeyA
+RegRestoreKeyW
+RegSaveKeyA
+RegSaveKeyExA
+RegSaveKeyExW
+RegSaveKeyW
+RegSetKeySecurity
+RegSetKeyValueA
+RegSetKeyValueW
+RegUnLoadKeyA
+RegUnLoadKeyW
+SetUserFileEncryptionKey
+SetUserFileEncryptionKeyEx
+CryptDeriveKey
+CryptDestroyKey
+CryptDuplicateKey
+CryptExportKey
+CryptGenKey
+CryptGetUserKey
+CryptHashSessionKey
+CryptImportKey
+CryptSetKeyParam
+CryptGetKeyParam
+NtOpenKey
+NtQueryValueKey
+NtQueryKey
+NtCreateKey
+NtSetValueKey
+NtDeleteKey
+NtEnumerateKey
+RtlFormatCurrentUserKeyPath
+NtRenameKey
+NtLoadKeyEx
+NtCreateKeyTransacted
+NtOpenKeyTransacted
+NtQueryMultipleValueKey
+NtOpenKeyEx
+NtOpenKeyTransactedEx
+NtReplaceKey
+NtSaveKey
+NtSaveMergedKeys
+RegSaveKeyExW
+RegNotifyChangeKeyValue
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegSaveKeyExA
+RegGetKeySecurity
+RegSetKeySecurity
+RegRestoreKeyA
+RegRestoreKeyW
+RegLoadKeyA
+RegLoadKeyW
+RegOpenKeyExW
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegEnumKeyExA
+RegEnumKeyExW
+RegCreateKeyExA
+RegCreateKeyExW
+RegFlushKey
+RegOpenKeyExA
+RegUnLoadKeyA
+RegUnLoadKeyW
+RegCloseKey
+D3DKMTAcquireKeyedMutex
+D3DKMTCreateKeyedMutex
+D3DKMTDestroyKeyedMutex
+D3DKMTOpenKeyedMutex
+D3DKMTReleaseKeyedMutex
+SetOPMSigningKeyAndSequenceNumbers
+UpdateICMRegKeyA
+UpdateICMRegKeyW
+NtOpenKey
+NtQueryValueKey
+RegOpenKeyExW
+RegCloseKey
+RegEnumKeyExW
+RegEnumKeyExA
+RegOpenKeyExW
+RegQueryInfoKeyA
+RegCloseKey
+RegCreateKeyExA
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegCreateKeyExW
+RegOpenKeyExA
+RegCreateKeyExA
+RegCloseKey
+RegOpenKeyExA
+RegDeleteKeyExA
+RegNotifyChangeKeyValue
+RegGetKeySecurity
+RegEnumKeyExA
+KEYW
+RegCloseKey
+RegOpenKeyExW
+RegOpenKeyExA
+RegCloseKey
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+CM_Open_DevNode_Key
+DSStrToHashKeyExternal
+DSNAMEToHashKeyExternal
+AttrTypeToKey
+FreeEncryptedFileKeyInfo
+EncryptedFileKeyInfo
+GetConsoleKeyboardLayoutNameA
+GetConsoleKeyboardLayoutNameW
+RegCloseKey
+RegCreateKeyExA
+RegCreateKeyExW
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegEnumKeyExA
+RegEnumKeyExW
+RegFlushKey
+RegGetKeySecurity
+RegLoadKeyA
+RegLoadKeyW
+RegNotifyChangeKeyValue
+RegOpenKeyExA
+RegOpenKeyExW
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegRestoreKeyA
+RegRestoreKeyW
+RegSaveKeyExA
+RegSaveKeyExW
+RegSetKeySecurity
+RegUnLoadKeyA
+RegUnLoadKeyW
+SetConsoleKeyShortcuts
+NtNotifyChangeKey
+NtCreateKeyTransacted
+NtDeleteValueKey
+NtEnumerateKey
+RtlFormatCurrentUserKeyPath
+NtEnumerateValueKey
+NtCreateKey
+NtSetValueKey
+NtFlushKey
+NtOpenKey
+NtQueryValueKey
+LdrQueryImageFileKeyOption
+NtOpenKeyTransacted
+NtQueryKey
+NtOpenKeyEx
+NtOpenKeyTransactedEx
+NtDeleteKey
+NtLoadKey
+NtUnloadKey
+NtNotifyChangeMultipleKeys
+NtRestoreKey
+NtSaveKeyEx
+OpenRegKey
+I_RpcBindingInqSecurityContextKeyInfo
+NtQueryValueKey
+NtOpenKey
+RegQueryInfoKeyA
+RegOpenKeyExA
+RegOpenKeyExW
+RegCloseKey
+RegCreateKeyExA
+RegDeleteKeyExA
+CtfImeProcessCicHotkey
+CtfImeProcessKey
+TF_GetCompatibleKeyboardLayout
+TF_MapCompatibleKeyboardTip
+TF_SetDefaultRemoteKeyboardLayout
+RegCreateKeyExW
+RegOpenKeyExW
+RegCloseKey
+RegDeleteKeyExW
+RegEnumKeyExW
+RegQueryInfoKeyW
+RtlFormatCurrentUserKeyPath
+NtOpenKey
+NtQueryValueKey
+GetKeyboardLayoutList
+LoadKeyboardLayoutW
+GetKeyboardState
+ActivateKeyboardLayout
+GetKeyState
+GetKeyboardLayout
+keybd_event
+ImmGetHotKey
+AssocGetDetailsOfPropKey
+RegSetKeyValueW
+RegCreateKeyW
+EncryptedFileKeyInfo
+FreeEncryptedFileKeyInfo
+RegEnumKeyW
+PSPropertyKeyFromString
+PSStringFromPropertyKey
+PSGetNameFromPropertyKey
+PSGetPropertyKeyFromName
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExW
+RegDeleteKeyExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegOpenKeyExA
+RegQueryInfoKeyA
+SHDeleteKeyA
+AssocQueryStringByKeyW
+SHRegCloseUSKey
+SHRegEnumUSKeyW
+SHRegOpenUSKeyA
+AssocQueryKeyW
+SHDeleteKeyW
+SHRegOpenUSKeyW
+SHEnumKeyExW
+MapVirtualKeyW
+GetAsyncKeyState
+GetKeyboardLayout
+ActivateKeyboardLayout
+GetKeyState
+            publicKeyToken="6595b64144ccf1df"
+ActivateKeyboardLayout
+CliImmSetHotKey
+GetAsyncKeyState
+GetKeyNameTextA
+GetKeyNameTextW
+GetKeyState
+GetKeyboardLayout
+GetKeyboardLayoutList
+GetKeyboardLayoutNameA
+GetKeyboardLayoutNameW
+GetKeyboardState
+GetKeyboardType
+LoadKeyboardLayoutA
+LoadKeyboardLayoutEx
+LoadKeyboardLayoutW
+MapVirtualKeyA
+MapVirtualKeyExA
+MapVirtualKeyExW
+MapVirtualKeyW
+OemKeyScan
+RegisterHotKey
+SetKeyboardState
+UnloadKeyboardLayout
+UnregisterHotKey
+VkKeyScanA
+VkKeyScanExA
+VkKeyScanExW
+VkKeyScanW
+WINNLSGetIMEHotkey
+keybd_event
+CtfImmGetCompatibleKeyboardLayout
+CtfImmSetDefaultRemoteKeyboardLayout
+ImmProcessKey
+RtlCheckRegistryKey
+NtCreateKey
+NtSetValueKey
+NtDeleteValueKey
+NtEnumerateKey
+NtOpenKey
+NtQueryValueKey
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyExW
+LdrOpenImageFileOptionsKey
+LdrQueryImageFileKeyOption
+NtCompactKeys
+NtCompressKey
+NtCreateKey
+NtCreateKeyTransacted
+NtCreateKeyedEvent
+NtDeleteKey
+NtDeleteValueKey
+NtEnumerateKey
+NtEnumerateValueKey
+NtFlushKey
+NtLoadKey
+NtLoadKey2
+NtLoadKeyEx
+NtLockProductActivationKeys
+NtLockRegistryKey
+NtNotifyChangeKey
+NtNotifyChangeMultipleKeys
+NtOpenKey
+NtOpenKeyEx
+NtOpenKeyTransacted
+NtOpenKeyTransactedEx
+NtOpenKeyedEvent
+NtQueryKey
+NtQueryMultipleValueKey
+NtQueryOpenSubKeys
+NtQueryOpenSubKeysEx
+NtQueryValueKey
+NtReleaseKeyedEvent
+NtRenameKey
+NtReplaceKey
+NtRestoreKey
+NtSaveKey
+NtSaveKeyEx
+NtSaveMergedKeys
+NtSetInformationKey
+NtSetValueKey
+NtUnloadKey
+NtUnloadKey2
+NtUnloadKeyEx
+NtWaitForKeyedEvent
+RtlCheckRegistryKey
+RtlCreateRegistryKey
+RtlFormatCurrentUserKeyPath
+RtlpCleanupRegistryKeys
+RtlpNtCreateKey
+RtlpNtEnumerateSubKey
+RtlpNtMakeTemporaryKey
+RtlpNtOpenKey
+RtlpNtQueryValueKey
+RtlpNtSetValueKey
+ZwCompactKeys
+ZwCompressKey
+ZwCreateKey
+ZwCreateKeyTransacted
+ZwCreateKeyedEvent
+ZwDeleteKey
+ZwDeleteValueKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwFlushKey
+ZwLoadKey
+ZwLoadKey2
+ZwLoadKeyEx
+ZwLockProductActivationKeys
+ZwLockRegistryKey
+ZwNotifyChangeKey
+ZwNotifyChangeMultipleKeys
+ZwOpenKey
+ZwOpenKeyEx
+ZwOpenKeyTransacted
+ZwOpenKeyTransactedEx
+ZwOpenKeyedEvent
+ZwQueryKey
+ZwQueryMultipleValueKey
+ZwQueryOpenSubKeys
+ZwQueryOpenSubKeysEx
+ZwQueryValueKey
+ZwReleaseKeyedEvent
+ZwRenameKey
+ZwReplaceKey
+ZwRestoreKey
+ZwSaveKey
+ZwSaveKeyEx
+ZwSaveMergedKeys
+ZwSetInformationKey
+ZwSetValueKey
+ZwUnloadKey
+ZwUnloadKey2
+ZwUnloadKeyEx
+ZwWaitForKeyedEvent
+!(askd.Flags & ACTIVATION_CONTEXT_SECTION_KEYED_DATA_FLAG_FOUND_IN_SYSTEM_DEFAULT)
+SXS: Unabel to query location from storage root subkey %wZ; Status = 0x%08lx
+SXS: Unable to open storage root subkey %wZ; Status = 0x%08lx
+SXS: Unable to open registry key %wZ Status = 0x%08lx
+SXS: Attempt to get storage location from subkey %wZ failed; Status = 0x%08lx
+SXS: Unable to enumerate assembly storage subkey #%lu Status = 0x%08lx
+RegCreateKeyW
+RegOpenKeyW
+RegCreateKeyA
+RegEnumKeyW
+RegDeleteKeyW
+RegFlushKey
+RegNotifyChangeKeyValue
+RegOpenKeyExA
+RegEnumKeyExA
+RegCloseKey
+RegOpenKeyExW
+RegQueryInfoKeyA
+RegCreateKeyExW
+GetKeyState
+AssocQueryKeyA
+AssocQueryKeyW
+AssocQueryStringByKeyA
+AssocQueryStringByKeyW
+SHCopyKeyA
+SHCopyKeyW
+SHDeleteEmptyKeyA
+SHDeleteEmptyKeyW
+SHDeleteKeyA
+SHDeleteKeyW
+SHDeleteOrphanKeyA
+SHDeleteOrphanKeyW
+SHEnumKeyExA
+SHEnumKeyExW
+SHQueryInfoKeyA
+SHQueryInfoKeyW
+SHRegCloseUSKey
+SHRegCreateUSKeyA
+SHRegCreateUSKeyW
+SHRegDeleteEmptyUSKeyA
+SHRegDeleteEmptyUSKeyW
+SHRegDuplicateHKey
+SHRegEnumUSKeyA
+SHRegEnumUSKeyW
+SHRegOpenUSKeyA
+SHRegOpenUSKeyW
+SHRegQueryInfoUSKeyA
+SHRegQueryInfoUSKeyW
+USER32.VkKeyScanW
+PSPropertyBag_ReadPropertyKey
+PSPropertyBag_WritePropertyKey
+PSGetPropertyKeyFromName
+RegEnumKeyW
+RegEnumKeyA
+CertGetEnhancedKeyUsage
+ActivateKeyboardLayout
+GetKeyboardLayout
+RegOpenKeyExA
+RegQueryInfoKeyA
+RegDeleteKeyExA
+RegCreateKeyExA
+RegCloseKey
+RegCreateKeyExW
+RegOpenKeyExW
+RegEnumKeyExW
+RegDeleteKeyExW
+RegQueryInfoKeyW
+RegEnumKeyExA
+            publicKeyToken="6595b64144ccf1df"
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+Key 
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+ZwLockProductActivationKeys
+ZwEnumerateKey
+ZwSetValueKey
+ZwFlushKey
+ZwQueryValueKey
+ZwCreateKey
+ZwOpenKey
+Key 4
+Key `
+Key 
+CIM_Key
+CIM_Key
+Key 4
+Key `
+ProcessStartKey
+ProcessStartKey
+CmCallbackGetKeyObjectID
+CmKeyObjectType
+FsRtlDeleteKeyFromTunnelCache
+FsRtlFastUnlockAllByKey
+FsRtlOplockKeysEqual
+IoGetOplockKeyContext
+IoOpenDeviceInterfaceRegistryKey
+IoOpenDeviceRegistryKey
+IoSetOplockKeyContext
+IoStartNextPacketByKey
+KeInsertByKeyDeviceQueue
+KeRemoveByKeyDeviceQueue
+KeRemoveByKeyDeviceQueueIfBusy
+RtlCheckRegistryKey
+RtlCreateRegistryKey
+RtlFormatCurrentUserKeyPath
+TmDereferenceEnlistmentKey
+TmReferenceEnlistmentKey
+ZwCreateKey
+ZwCreateKeyTransacted
+ZwDeleteKey
+ZwDeleteValueKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwFlushKey
+ZwLoadKey
+ZwLoadKeyEx
+ZwLockProductActivationKeys
+ZwNotifyChangeKey
+ZwOpenKey
+ZwOpenKeyEx
+ZwOpenKeyTransacted
+ZwOpenKeyTransactedEx
+ZwQueryKey
+ZwQueryValueKey
+ZwRenameKey
+ZwReplaceKey
+ZwRestoreKey
+ZwSaveKey
+ZwSaveKeyEx
+ZwSetValueKey
+ZwUnloadKey
+ZwUnloadKeyEx
+ZwCreateKey
+ZwDeleteValueKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwLoadKey
+ZwNotifyChangeKey
+ZwOpenKey
+ZwQueryKey
+ZwQueryValueKey
+ZwReplaceKey
+ZwRestoreKey
+ZwSetValueKey
+ZwUnloadKey
+Key 
+Keye
+Key 
+Keye
+lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+GetKeyboardLayout
+GetKeyboardLayoutList
+nkeyboard
+nkeyboard
+nkeyboard
+ZwQueryValueKey
+IoOpenDeviceRegistryKey
+ZwSetValueKey
+ZwOpenKey
+KeyName
+LdrOpenImageFileOptionsKey
+LdrQueryImageFileKeyOption
+NtCompactKeys
+NtCompressKey
+NtCreateKey
+NtCreateKeyTransacted
+NtCreateKeyedEvent
+NtDeleteKey
+NtDeleteValueKey
+NtEnumerateKey
+NtEnumerateValueKey
+NtFlushKey
+NtLoadKey
+NtLoadKey2
+NtLoadKeyEx
+NtLockProductActivationKeys
+NtLockRegistryKey
+NtNotifyChangeKey
+NtNotifyChangeMultipleKeys
+NtOpenKey
+NtOpenKeyEx
+NtOpenKeyTransacted
+NtOpenKeyTransactedEx
+NtOpenKeyedEvent
+NtQueryKey
+NtQueryMultipleValueKey
+NtQueryOpenSubKeys
+NtQueryOpenSubKeysEx
+NtQueryValueKey
+NtReleaseKeyedEvent
+NtRenameKey
+NtReplaceKey
+NtRestoreKey
+NtSaveKey
+NtSaveKeyEx
+NtSaveMergedKeys
+NtSetInformationKey
+NtSetValueKey
+NtUnloadKey
+NtUnloadKey2
+NtUnloadKeyEx
+NtWaitForKeyedEvent
+RtlCheckRegistryKey
+RtlCreateRegistryKey
+RtlFormatCurrentUserKeyPath
+READ_KEY
+ZwOpenKey
+KEYWD
+Keyboard
+KEYWp
+RegCloseKey
+RegOpenKeyExW
+RegCreateKeyExW
+RegDeleteKeyExW
+RegEnumKeyExW
+ZwQueryValueKey
+ZwSetValueKey
+IoOpenDeviceRegistryKey
+ZwQueryValueKey
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+KeywordM
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Name is a free-form string defining a label for the location. It is a part of the key for the object.
+Position is a free-form string indicating the placement of a physical element.  It can specify slot information on a hosting board, mounting site in a cabinet, or latitude and longitude information, for example, from a GPS. It is part of the key of the CIM_Location object.
+CreationClassName indicates the name of the class or the subclass used in the creation of an instance. When used with the other key properties of this class, this property allows all instances of this class and its subclasses to be uniquely identified.
+OtherIdentifyingInfo captures additional data, beyond asset tag information, that could be used to identify a physical element. One example is bar code data associated with an element that also has an asset tag. Note that if only bar code data is available and is unique/able to be used as an element key, this property would be NULL and the bar code data used as the class key, in the tag property.
+An arbitrary string that uniquely identifies the physicalelement and serves as the element's key.  The Tag property can contain information such as asset tag or serial number data. The key for CIM_PhysicalElement is placed very high in the object hierarchy in order to independently identify the hardware/entity, regardless of physical placement in or on cabinets, adapters, etc.  For example, a removable component that can be hot swapped, may be taken from its containing (scoping) package and be temporarily unused.  The object still continues to exist - and may even be inserted into a different scoping container.  Therefore, the key for physicalelement is an arbitrary string and is defined independently of any placement or location-oriented hierarchy.
+Win32Registry|HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class|DriverDesc
+Win32Registry|HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class|InfPath
+Win32Registry|HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class|InfSection
+CIM_Keyboard
+Win32_Keyboard
+CIM_Key
+CIM_Key
+The Name property defines the label by which the statistic or metric is known. When subclassed, the property can be overridden to be a Key property. 
+The inherited Name property serves as part of the key for the CIM_DeviceErrorCounts instance.  The object is scoped by the logical device to which the statistics apply. 
+CreationClassName indicates the name of the class or the subclass used in the creation of an instance. When used with the other key properties of this class, this property allows all instances of this class and its subclasses to be uniquely identified.
+SectionKey
+This is the key of the section of the setting entry to be modified.
+CreationClassName indicates the name of the class or the subclass used in the creation of an instance. When used with the other key properties of this class, this property allows all instances of this class and its subclasses to be uniquely identified.
+CreationClassName indicates the name of the class or the subclass used in the creation of an instance. When used with the other key properties of this class, this property allows all instances of this class and its subclasses to be uniquely identified.
+CIM_StorageError defines blocks of media or memory space that are mapped 'out of use' due to errors. The Key of the class is the StartingAddress property of the bytes in error.
+SupportAccessID is an arbitrary, free form string defined by the product vendor or by the organization that deploys the product.  This property, since it is a key, should be unique throughout the enterprise.
+An identifier used in conjunction with other keys to uniquely identify the check
+SectionKey
+Key of section containing the settings to be checked.
+RegCreateKeyExW
+RegCloseKey
+RegOpenKeyExW
+            publicKeyToken="6595b64144ccf1df"
+SetupDiOpenClassRegKey
+SetupDiOpenDevRegKey
+RegCloseKey
+RegDeleteKeyW
+RegCreateKeyExW
+RegOpenKeyExW
+            publicKeyToken="6595b64144ccf1df"
+RegEnumKeyExW
+RegEnumKeyExA
+RegOpenKeyExW
+RegQueryInfoKeyA
+RegCloseKey
+RegCreateKeyExA
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegCreateKeyExW
+RegOpenKeyExA
+CertGetIntendedKeyUsage
+JetMakeKey
+    publicKeyToken="6595b64144ccf1df"    
+            publicKeyToken="6595b64144ccf1df"
+RegEnumKeyExW
+RegEnumKeyExA
+RegOpenKeyExW
+RegQueryInfoKeyA
+RegCloseKey
+RegCreateKeyExA
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegCreateKeyExW
+RegOpenKeyExA
+CertGetIntendedKeyUsage
+JetMakeKey
+VmrdReg_TestLock: access violation accessing key lock bit
+VmrdReg_TestLock: deleting locked key has unexpected status 0x%x
+VmrdReg_TestLock: Error 0x%x deleting test key after unlock
+VmrdReg_RestoreKeys: Alignment error reading key '%ws'
+VmrdReg_RestoreKeys failed with status 0x%x
+VmrdRegIsKnownKey called with NULL keyname
+VmrdRegDeleteLockedKey: Error 0x%x opening key %ws
+VmrdRegDeleteLockedKey: Error 0x%x from RefObjByHandle for %ws
+VmrdRegDeleteLockedKey: Error 0x%x deleting key %ws
+VmrdRegDeleteLockedKey failed with status 0x%x
+VmrdRegClearknownKeys: error 0x%x opening key %ws
+VmrdRegSaveKey: Error 0x%x querying key info for %ws
+VmrdRegClearKnownKeys failed with status 0x%x
+VmrdRegSetWPAKey: Error 0x%x creating key %ws
+VmrdRegSetWPAKey: Error 0x%x setting value %ws of key %ws
+VmrdRegSetWPAKey failed with status 0x%x
+Unable to lock and unlock a test registry key; disabling driver
+VmrdSaveWPAFilesAndKeys failed with error 0x%0x
+VmrdRestoreWPAFilesAndKeys failed with error 0x%0x
+%s: can't open key to record cache relocation, status=0x%x
+VmrdReg_SaveWPAKeys: no action; prev boot mode is unknown
+VmrdReg_SaveWPAKeys failed with error 0x%0x
+VmrdRegSaveKey: Recursion depth (%u) beyond acceptable limit
+VmrdRegSaveKey: Error 0x%x opening key %ws
+VmrdRegSaveKey: Error 0x%x querying key info
+VmrdRegSaveKey: Error 0x%x querying value %u of %ws
+VmrdRegSaveKey failed with error 0x%0x
+VmrdReg_TestLock: Error 0x%x creating key %ws
+KEYWX
+ZwQueryValueKey
+ZwOpenKey
+CryptDeriveKey
+CryptDestroyKey
+CryptDuplicateKey
+CryptExportKey
+CryptGenKey
+CryptGetKeyParam
+CryptGetUserKey
+CryptHashSessionKey
+CryptImportKey
+CryptSetKeyParam
+EncryptedFileKeyInfo
+FreeEncryptedFileKeyInfo
+GetServiceKeyNameA
+GetServiceKeyNameW
+RegCloseKey
+RegCreateKeyA
+RegCreateKeyExA
+RegCreateKeyExW
+RegCreateKeyTransactedA
+RegCreateKeyTransactedW
+RegCreateKeyW
+RegDeleteKeyA
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegDeleteKeyTransactedA
+RegDeleteKeyTransactedW
+RegDeleteKeyValueA
+RegDeleteKeyValueW
+RegDeleteKeyW
+RegDisableReflectionKey
+RegEnableReflectionKey
+RegEnumKeyA
+RegEnumKeyExA
+RegEnumKeyExW
+RegEnumKeyW
+RegFlushKey
+RegGetKeySecurity
+RegLoadAppKeyA
+RegLoadAppKeyW
+RegLoadKeyA
+RegLoadKeyW
+RegNotifyChangeKeyValue
+RegOpenKeyA
+RegOpenKeyExA
+RegOpenKeyExW
+RegOpenKeyTransactedA
+RegOpenKeyTransactedW
+RegOpenKeyW
+RegOverridePredefKey
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegQueryReflectionKey
+RegRenameKey
+RegReplaceKeyA
+RegReplaceKeyW
+RegRestoreKeyA
+RegRestoreKeyW
+RegSaveKeyA
+RegSaveKeyExA
+RegSaveKeyExW
+RegSaveKeyW
+RegSetKeySecurity
+RegSetKeyValueA
+RegSetKeyValueW
+RegUnLoadKeyA
+RegUnLoadKeyW
+SetUserFileEncryptionKey
+SetUserFileEncryptionKeyEx
+TermsrvSetKeySecurity
+TermsrvRestoreKey
+TermsrvDeleteKey
+TermsrvSetValueKey
+CryptDeriveKey
+CryptDestroyKey
+CryptDuplicateKey
+CryptExportKey
+CryptGenKey
+CryptGetUserKey
+CryptHashSessionKey
+CryptImportKey
+CryptSetKeyParam
+CryptGetKeyParam
+NtOpenKey
+NtQueryValueKey
+NtQueryKey
+NtCreateKey
+NtSetValueKey
+NtDeleteKey
+NtEnumerateKey
+RtlFormatCurrentUserKeyPath
+NtRenameKey
+NtLoadKeyEx
+NtCreateKeyTransacted
+NtOpenKeyTransacted
+NtQueryMultipleValueKey
+NtOpenKeyEx
+NtOpenKeyTransactedEx
+NtReplaceKey
+NtSaveKey
+NtSaveMergedKeys
+RegSaveKeyExW
+RegNotifyChangeKeyValue
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegSaveKeyExA
+RegGetKeySecurity
+RegSetKeySecurity
+RegRestoreKeyA
+RegRestoreKeyW
+RegLoadKeyA
+RegLoadKeyW
+RegOpenKeyExW
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegEnumKeyExA
+RegEnumKeyExW
+RegCreateKeyExA
+RegCreateKeyExW
+RegFlushKey
+RegOpenKeyExA
+RegUnLoadKeyA
+RegUnLoadKeyW
+RegCloseKey
+KEYWt
+KEYWX
+KEYW
+KEYW,
+KEYW
+KEYWX
+FxRegKey
+WDFKEY
+ERROR: ZwOpenKey (%wZ) failed with Status 0x%x
+ERROR: ZwQueryValueKey failed with Status 0x%x
+Couldn't find control Key -- using default service name %wZ
+ERROR: ZwQueryValueKey failed with status 0x%x
+ERROR: ZwQueryValueKey (%wZ) failed with Status 0x%x
+WdfLdr: ZwOpenKey(%wZ) failed: %08X
+KEYW0
+SCSIOP_REPORT_KEY
+SCSIOP_SEND_KEY
+SCSI_SENSEQ_KEY_NOT_PRESENT
+SCSI_SENSEQ_KEY_NOT_ESTABLISHED
+ecvp_dsa pubkey
+WfpRegOpenKey
+ZwOpenKey
+session key to server-to-client signing key magic constant
+session key to client-to-server signing key magic constant
+session key to server-to-client sealing key magic constant
+session key to client-to-server sealing key magic constant
+Pku2uInitDefault:QueryValueKey failed:0x%x
+Pku2uInitDefault:OpenKey failed:0x%x
+NegoExtsInitDefault:QueryValueKey failed:0x%x
+NegoExtsInitDefault:OpenKey failed:0x%x
+FwpmSecureSocketDeleteByKeyAsync0
+WfpRegOpenKey
+ZwOpenKey
+IPSecInitiateTransportKeying
+IPSecInitiateTunnelKeying
+IPSecInitiateKeyingWhenNoSaPresent
+IPSecRekeyOutboundSa
+IPSecRekeyInboundSa
+IPSecRekeySa
+IPSecCopyKeyModuleBlob
+IPSecCreateKeyObject
+BCryptGenerateSymmetricKey
+IdpCheckAllowedKeyMods
+FwpsCalloutUnregisterByKey0
+FwpmCalloutDeleteByKey0
+FwppProxyProviderDeleteByKey
+FwpmProviderDeleteByKey0
+FwppProxyProviderGetByKey
+FwpmProviderGetByKey0
+FwppProxyProviderGetSecurityInfoByKey
+FwpmProviderGetSecurityInfoByKey0
+FwppProxyProviderSetSecurityInfoByKey
+FwpmProviderSetSecurityInfoByKey0
+FwppProxyProviderContextDeleteByKey
+FwpmProviderContextDeleteByKey0
+FwppProxyProviderContextGetByKey
+FwpmProviderContextGetByKey1
+FwppProxyProviderContextGetSecurityInfoByKey
+FwpmProviderContextGetSecurityInfoByKey0
+FwppProxyProviderContextSetSecurityInfoByKey
+FwpmProviderContextSetSecurityInfoByKey0
+FwpmProviderContextGetByKey0
+FwppProxySubLayerDeleteByKey
+FwpmSubLayerDeleteByKey0
+FwppProxySubLayerGetByKey
+FwpmSubLayerGetByKey0
+FwppProxySubLayerGetSecurityInfoByKey
+FwpmSubLayerGetSecurityInfoByKey0
+FwppProxySubLayerSetSecurityInfoByKey
+FwpmSubLayerSetSecurityInfoByKey0
+FwppProxyLayerGetByKey
+FwpmLayerGetByKey0
+FwppProxyLayerGetSecurityInfoByKey
+FwpmLayerGetSecurityInfoByKey0
+FwppProxyLayerSetSecurityInfoByKey
+FwpmLayerSetSecurityInfoByKey0
+FwppProxyCalloutDeleteByKey
+FwppProxyCalloutGetByKey
+FwpmCalloutGetByKey0
+FwppProxyCalloutGetSecurityInfoByKey
+FwpmCalloutGetSecurityInfoByKey0
+FwppProxyCalloutSetSecurityInfoByKey
+FwpmCalloutSetSecurityInfoByKey0
+FwppProxyFilterDeleteByKey
+FwpmFilterDeleteByKey0
+FwppProxyFilterGetByKey
+FwpmFilterGetByKey0
+FwppProxyFilterGetSecurityInfoByKey
+FwpmFilterGetSecurityInfoByKey0
+FwppProxyFilterSetSecurityInfoByKey
+FwpmFilterSetSecurityInfoByKey0
+FwppProxyBfeIPsecTunnelDeleteByKey
+FwpmIPsecTunnelDeleteByKey0
+FwppProxySecureSocketDeleteByKey
+FwpmSecureSocketDeleteByKeyAsync0
+FwppDeepCopyToVerIndependent_IKEEXT_PRESHARED_KEY_AUTHENTICATION0
+FwppDeepCopyToVerIndependent_IPSEC_KEYING_POLICY0
+FwppDeepCopyToVerIndependent_IPSEC_KEYMODULE_STATE0
+FwppDeepCopyFromVerIndependent_IKEEXT_PRESHARED_KEY_AUTHENTICATION0
+FwppDeepCopyFromVerIndependent_IKEEXT_IP_VERSION_SPECIFIC_KEYMODULE_STATISTICS0
+FwppDeepCopyFromVerIndependent_IKEEXT_KEYMODULE_STATISTICS0
+FwppDeepCopyFromVerIndependent_IPSEC_KEYING_POLICY0
+FwppDeepCopyFromVerIndependent_IPSEC_KEYMODULE_STATE0
+FwppAllocAndDeepCopyToVerIndependent_IPSEC_KEYING_POLICY0
+FwppAllocAndDeepCopyToVerIndependent_IPSEC_KEYMODULE_STATE0
+FwppAllocAndDeepCopyFromVerIndependent_IKEEXT_PRESHARED_KEY_AUTHENTICATION0
+FwppAllocAndDeepCopyFromVerIndependent_IPSEC_KEYING_POLICY0
+FwppAllocAndDeepCopyFromVerIndependent_IPSEC_KEYMODULE_STATE0
+KeyboardController
+Keyb
+KeyboardPeripheral
+Keyb
+Keyb
+Key 
+Key 
+(WKey
+!Key
+PNDRKey
+Keyword
+Keyw!
+MatchAllKeyword
+MatchAnyKeyword
+Keyw
+Keyword
+Keyb
+KeyboardClass
+\Device\KeyboardClass0
+Keyb
+\Device\KeyboardClass1
+agsabiliKey
+MKey
+@key
+PORTKEYWORDSe
+HotKey
+peInitialKeyboardIndicators8
+Hot Keys
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+ExtendedEditKey
+ExtendedEditKeyCustom
+Keyboard
+Keyb88
+KeyboardDelay
+KeyboardSpeed
+!Do not use this registry key
+Keyboard Preference
+Keyboard Response
+Last BounceKey Setting
+MouseKeys
+Keyb
+StickyKeys
+ToggleKeys
+Keyb
+peInitialKeyboardIndicators8
+Hot Keys
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+ExtendedEditKey
+ExtendedEditKeyCustom
+Keyboard
+Keyb88
+KeyboardDelay
+KeyboardSpeed
+!Do not use this registry key
+Keyboard Preference
+Keyboard Response
+Last BounceKey Setting
+MouseKeys
+Keyb
+StickyKeys
+ToggleKeys
+S8key
+S9key
+Keyb
+Keyboard Layout
+KeyboardLayout
+@key
+Keyw
+Keyw
+Keyw
+Key 4
+Key P
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+Keyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+Key 4
+Key P
+get_KeyProjection
+DesignerStateDataSourceSchemaKey
+DesignerStateDataSourceTableNameKey
+DesignerStateDataSourceContextTypeNameKey
+RemoveProjectionDeleteKey
+System.Web.UI.Design.WebControls.ILinqDataSourcePropertyItem.get_IsPrimaryKey
+KeyValuePair`2
+Key 
+Key 4
+Key P
+Key 
+Key 
+Key 
+Key 
+System.Runtime.Remoting, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+Accessibility, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Configuration.Install, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+Microsoft.VisualBasic, Version=8.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+MiguiControls, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.Vsa.Vb.CodeDOMProcessor, Version=8.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Configuration, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+naphlpr, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+IMEAPI.CImeKeyMapViewJK.1
+IMEAPI.CImeKeyMapViewJK
+Key 
+HKeyRoot2
+KEYSi
+@key
+uKey
+@keyiso.dll,-100ttp.
+@keyiso.dll,
+n!#ATTRIBUTE:SIGA:MISL:RunKeySet:S1
+]!#ATTRIBUTE:SIGA:MISL:RunKeySet:S2
+!AGroup:RenosPC_regkey
+4!AGROUP:RunKeyPath
+Key 
+Key 4
+Key P
+CIM_Key
+CIM_Key
+CompactByPKey
+HOT KEYS
+NdisMinorVersionKey
+{491E922F-5643-4AF4-A7EB-4E7A138D8174}Key
+HotKey
+HotKey
+GroupByKey:PID
+GroupByKey:FMTID
+GroupByKey:PID
+GroupByKey:FMTID
+GroupByKey:PID
+GroupByKey:FMTID
+GroupByKey:PID
+GroupByKey:FMTID
+GroupByKey:PID
+GroupByKey:FMTID
+GroupByKey:PID
+GroupByKey:FMTID
+peInitialKeyboardIndicators8
+Hot Keys
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+00Key Modifiers000
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+ExtendedEditKey
+ExtendedEditKeyCustom
+Keyboard
+KeyboardDelay
+KeyboardSpeed
+!Do not use this registry key
+Keyboard Preference
+Keyboard Response
+Last BounceKey Setting
+MouseKeys
+Keyb
+StickyKeys
+ToggleKeys
+Keyb
+Keyb
+S1key
+S3key
+S4key
+S6key
+S7key
+S8key
+S9key
+Quick.ZkeyAsWildCard
+Keyb
+Keyboard Layout
+KeyboardLayout
+Keyb88
+Keyboard
+Keyb
+GroupByKey:FMTID
+GroupByKey:PID
+keyPathi
+BTH_ERROR_PAIRING_WITH_UNIT_KEY_NOT_SUPPORTED
+BTH_ERROR_UNIT_KEY_NOT_USED
+BTH_ERROR_KEY_MISSING
+Send_Keypress_Notification
+Delete_Stored_Link_Key
+Write_Stored_Link_Key
+Read_Stored_Link_Key
+Create_New_Unit_Key
+User_Passkey_Request_Negative_Reply
+User_Passkey_Request_Reply
+Master_Link_Key
+Change_Connection_Link_Key
+Link_Key_Request_Negative_Reply
+Link_Key_Request_Reply
+KeypressNotification
+UserPasskeyNotification
+UserPasskeyRequest
+LinkKeyNotification
+LinkKeyRequest
+ReturnLinkKeys
+MasterLinkKeyComplete
+ChangeConnectionLinkKeyComplete
+IoOpenDeviceRegistryKey
+ZwSetValueKey
+ZwQueryValueKey
+ZwEnumerateValueKey
+ZwQueryKey
+ZwDeleteValueKey
+ZwDeleteKey
+ZwOpenKey
+ZwEnumerateKey
+ZwCreateKey
+STATUS_LOCAL_USER_SESSION_KEY
+STATUS_SXS_KEY_NOT_FOUND
+STATUS_SMARTCARD_NO_KEYSET
+STATUS_SMARTCARD_NO_KEY_CONTAINER
+STATUS_NO_KERB_KEY
+STATUS_CSS_KEY_NOT_ESTABLISHED
+STATUS_CSS_KEY_NOT_PRESENT
+STATUS_SAM_NEED_BOOTKEY_FLOPPY
+STATUS_SAM_NEED_BOOTKEY_PASSWORD
+STATUS_NO_USER_KEYS
+STATUS_NO_USER_SESSION_KEY
+STATUS_KEY_HAS_CHILDREN
+STATUS_KEY_DELETED
+BTH_ERROR_PAIRING_WITH_UNIT_KEY_NOT_SUPPORTED
+BTH_ERROR_UNIT_KEY_NOT_USED
+BTH_ERROR_KEY_MISSING
+ZwSetValueKey
+IoOpenDeviceRegistryKey
+ZwQueryValueKey
+ZwOpenKey
+RegOpenDeviceKey
+RegCloseKey
+Security Signature Key Upgradey
+KEYFLDIDS
+KEYMOST
+KEYFLDIDS
+KEYMOST
+KEYPRIMARY
+KEYSECONDARY
+KeyMost
+KeyFldIDs
+KeyMost
+KeyFldIDs
+keyPrimary
+keySecondary
+READ_KEY
+Unable to lock and unlock a test registry key; disabling driver
+VmrdSaveWPAFilesAndKeys failed with error 0x%0x
+VmrdRestoreWPAFilesAndKeys failed with error 0x%0x
+%s: can't open key to record cache relocation, status=0x%x
+VmrdReg_SaveWPAKeys: no action; prev boot mode is unknown
+VmrdReg_SaveWPAKeys failed with error 0x%0x
+VmrdRegSaveKey: Recursion depth (%u) beyond acceptable limit
+VmrdRegSaveKey: Error 0x%x opening key %ws
+VmrdRegSaveKey: Error 0x%x querying key info
+VmrdRegSaveKey: Error 0x%x querying value %u of %ws
+VmrdRegSaveKey failed with error 0x%0x
+VmrdReg_TestLock: Error 0x%x creating key %ws
+VmrdReg_TestLock: access violation accessing key lock bit
+VmrdReg_TestLock: deleting locked key has unexpected status 0x%x
+VmrdReg_TestLock: Error 0x%x deleting test key after unlock
+VmrdReg_RestoreKeys: Alignment error reading key '%ws'
+VmrdReg_RestoreKeys failed with status 0x%x
+VmrdRegIsKnownKey called with NULL keyname
+VmrdRegDeleteLockedKey: Error 0x%x opening key %ws
+VmrdRegDeleteLockedKey: Error 0x%x from RefObjByHandle for %ws
+VmrdRegDeleteLockedKey: Error 0x%x deleting key %ws
+VmrdRegDeleteLockedKey failed with status 0x%x
+VmrdRegClearknownKeys: error 0x%x opening key %ws
+VmrdRegSaveKey: Error 0x%x querying key info for %ws
+VmrdRegClearKnownKeys failed with status 0x%x
+VmrdRegSetWPAKey: Error 0x%x creating key %ws
+VmrdRegSetWPAKey: Error 0x%x setting value %ws of key %ws
+VmrdRegSetWPAKey failed with status 0x%x
+IoOpenDeviceRegistryKey
+RtlCreateRegistryKey
+RtlCheckRegistryKey
+ZwCreateKey
+ZwOpenKey
+ZwQueryValueKey
+ZwFlushKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwSetValueKey
+ZwCreateKey failed with scode 0x%x
+ZwOpenKey failed with scode 0x%x
+Could not find \ in the keyname looking for Report Type
+Could not find \ in the keyname looking for Reportid
+ZwQueryKey failed with 0x%x
+ZwQueryKey failed while determining the size with 0x%x
+ZwCreateKey failed with scode 0x%x for the report id
+ZwCreateKey failed with scode 0x%x for the report type
+ZwCreateKey failed with scode 0x%x for the root
+Key id length exceeded
+Key key length exceeded
+StringCchCopy failed for key with 0x%x
+ParseKeyName failed with 0x%x
+WerpGetRegistryKey failed for the busy key 0x%x
+ZwDeleteKey failed with 0x%x
+ZwOpenKey
+ZwEnumerateKey
+ZwQueryValueKey
+ZwFlushKey
+RtlCreateRegistryKey
+RtlCheckRegistryKey
+ZwCreateKey
+ZwQueryKey
+ZwDeleteKey
+ZwQueryValueKey
+ZwOpenKey
+KeyedEvent
+]$ZKey
+keyboard
+On the client side, this is the receive key; on the server side, it is the send key.
+On the client side, this is the send key; on the server side, it is the receive key.
+ZwEnumerateValueKey
+ZwOpenKey
+ZwSetValueKey
+ZwCreateKey
+ZwQueryValueKey
+ZwEnumerateKey
+ZwQueryKey
+ZwDeleteKey
+IoOpenDeviceRegistryKey
+IoOpenDeviceInterfaceRegistryKey
+dKEY
+ZwQueryValueKey
+IoOpenDeviceRegistryKey
+ZwSetValueKey
+KEYWp
+ZwQueryValueKey
+IoOpenDeviceRegistryKey
+ZwSetValueKey
+GroupByKey:PID
+OverrideKeyboardIdentifier
+OverrideKeyboardType
+OverrideKeyboardSubtype
+Keys
+ZwQueryValueKey
+ZwOpenKey
+IoOpenDeviceRegistryKey
+ZwCreateKey
+IoOpenDeviceInterfaceRegistryKey
+ZwQueryKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwSetValueKey
+ZwDeleteKey
+ZwSetValueKey
+ZwCreateKey
+USBD_GetRegistryKeyValue
+ZwQueryValueKey
+IoOpenDeviceRegistryKey
+ZwSetValueKey
+IoOpenDeviceRegistryKey
+ZwQueryValueKey
+ZwOpenKey
+ZwOpenKey
+ExtendedEditKey
+oKey
+ZKey
+RequireStrongKey
+Keyword
+DIRECTSWITCHHOTKEYSl
+KEYBOARD LAYOUToNm
+ExtendedSubCommandsKey
+KEYBOARD LAYOUTSNm
+SHELL/Key
+adLastCrawlTimePhaKey
+KeyboardDelay
+Keyboard
+KeyboardSpeed
+Hot Keys
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+jKey Modifierso
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+Key Modifiers
+Virtual Key
+InitialKeyboardIndicators
+Keyboard Preference
+Keyboard Response
+Last BounceKey Setting
+MouseKeys
+StickyKeys
+ToggleKeys
+Keyboard Layout
+KeyboardLayout
+@keyiso.dll,-101
+@keyiso.dll,-100
+SeyGKey
+KeyboardDataQueueSize>
+MatchAllKeyworda
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+leMatchAnyKeyword
+MatchAllKeyword
+PowerKey-BB-SS-00
+PowerKey-BB-RC6-0C
+PowerKey-BB-RC6-29
+PowerKey-BB-QP-0C
+PowerKey-BB-QP-29
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+TrustedTypesKeyList
+TrustedTypesKeyList
+MatchAnyKeyword
+KeyPath
+KeyRoot
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeywordA
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeywordy
+TimeZoneKeyName
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeywordl
+PrMatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeywordW
+MatchAnyKeywords
+ MatchAllKeyword!
+MatchAllKeyword
+ySMatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeywordc
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeywordl
+MatchAllKeyworde
+-5MatchAnyKeywordF
+MatchAnyKeywordG
+MatchAnyKeywordy
+MatchAllKeywordl
+MatchAllKeyword
+MatchAllKeyword
+DFMatchAnyKeyword
+MatchAllKeyword3
+MatchAnyKeywordl
+MatchAllKeyword
+MatchAnyKeyworde
+MatchAllKeywordr
+MatchAnyKeywordl
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+PrMatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAllKeyword
+KeyboardLayout-
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+TimeZoneKeyName
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeywordP
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+KeywordM
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+Keyword
+PowerKey
+PowerKey
+PowerKeyRC6
+PowerKeyRC5
+PowerKeyNEC
+PS2_KEYBOARD
+PowerKey
+PowerKey-BB-SS-00
+PowerKey-BB-RC6-0C
+PowerKey-BB-RC6-29
+PowerKey-BB-QP-0C
+PowerKey-BB-QP-29
+PowerKey-SF-SS-00
+PowerKey-SF-RC6-0C
+PowerKey-SF-RC6-29
+PowerKey-SF-QP-0C
+PowerKey-SF-QP-29
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+Keyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+Keywords
+Keywords
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+Keywords
+MatchAnyKeyword
+Keyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+Keyword
+MatchAnyKeyword
+Keyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeywordR
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+Keywords
+Keywords
+Keywords
+ Keywords
+Keywords
+Keywords
+Keywords
+ Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+Keywords
+MatchAnyKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+-4MatchAnyKeyword5
+MatchAllKeyworde
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+KeyboardDataQueueSize
+KeyboardDeviceBaseName
+Keyword
+KeyboardType Mapping
+Keyboard Layout
+DosKeybCodes
+DosKeybIDs
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+MatchAnyKeyword
+0.MatchAllKeywordK
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+MatchAnyKeyword
+Keywords
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+KeyboardLayout
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+Keyword
+Keyword
+MatchAnyKeyword
+leMatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword&
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeywordW
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyboard Class
+Keyboard PortZ
+Keyword
+MatchAnyKeyword
+MatchAllKeyword 
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeywordy
+MatchAllKeywordr
+Keyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeywordl
+dyMatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+KeyIso
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+UseNewKey
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyworde
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+RequireStrongKey
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keywords
+MatchAnyKeyword
+Keyword
+MatchAnyKeyword
+MatchAnyKeyword
+?MatchAllKeywordk
+MatchAnyKeyword 
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+KeyType
+KeyType
+KeyType
+KeyType
+KeyType
+KeyType
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+KeyType
+KeyType
+KeyType
+KeyType
+KeyType
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+KeysNotToRestore
+MatchAnyKeyword
+MatchAllKeyword
+bKeyword`
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAllKeyword
+KeyedEvent
+Keywords
+Keywords
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+MatchAllKeyword
+llMatchAnyKeyword
+PrMatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+bKeyword`
+Keyword
+MatchAnyKeyword
+41MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+PortKeywords
+MatchAnyKeyword
+MatchAllKeyword
+KeyExchangeAlgorithms
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+a5MatchAnyKeyword
+LeMatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+a3MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeywordd
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+LeMatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAllKeywordy
+MatchAnyKeyword
+MatchAllKeyword
+Keyword
+Key Management Service
+Keyword;
+Keyword
+Keyword
+MatchAnyKeyword
+MatchAllKeyword
+MatchAnyKeyword
+MatchAnyKeyword
+erMatchAnyKeyword
+MatchAllKeyword
+Keyword
+ehiwmp, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil4 
+Microsoft.MediaCenter.Bml, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+KeywordsLower
+KeywordsUpper
+KeywordsLower
+KeywordsUpper
+KeywordsLower
+KeywordsUpper
+KeyRenameHistory
+keyboard.drv
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+HKeyRoot
+InitialKeyboardIndicators
+UserDebuggerHotKey
+KeyboardLayout.ini\
+Keyboard Layout
+AppKey
+DiskJockey.exe
+HKeyRoot
+ExtendedSubCommandsKey
+ExtendedSubCommandsKey
+ShowTabletKeyboard
+KeywordsLower
+KeywordsUpper
+DefaultPrivateKeyLenBits
+RequireOnCardPrivateKeyGenf
+AllowPrivateSignatureKeyImportn
+AllowPrivateExchangeKeyImport
+msft:rm/algorithm/pkey/2005
+Key Presence
+Key Namehbin
+Registry Keys
+Registry Keys
+Key Namep
+Key Presence
+PropertyKeyCollection.PropertyKeyCollection.1
+KeywordsLower
+KeywordsUpper
+KeyFileName
+x86_microsoft-windows-i..l-keyboard-00000480_31bf3856ad364e35_none_88d4686899e772b7
+x86_microsoft-windows-dims-keyroam_31bf3856ad364e35_none_d8dbbfd6bc7294b8
+x86_microsoft-windows-i..l-keyboard-0000081a_31bf3856ad364e35_none_86c233d29b75464b
+x86_microsoft-windows-i..l-keyboard-0001045b_31bf3856ad364e35_none_b4229b92b96cd0a3
+x86_microsoft-windows-i..l-keyboard-00000485_31bf3856ad364e35_none_889e58cc9a0ffe6c
+x86_microsoft-windows-i..l-keyboard-00050409_31bf3856ad364e35_none_6b8932b12fdfe683
+x86_microsoft-windows-i..l-keyboard-00000412_31bf3856ad364e35_none_88bebb4699f7be88
+x86_microsoft-windows-i..l-keyboard-0000044a_31bf3856ad364e35_none_86c294a49b74d73c
+x86_microsoft-windows-i..l-keyboard-00010407_31bf3856ad364e35_none_b5f37eb8b8102d65
+x86_microsoft-windows-i..l-keyboard-00000407_31bf3856ad364e35_none_8888a9c49a204d16
+x86_microsoft-windows-i..l-keyboard-0001042e_31bf3856ad364e35_none_b402261cb9852d01
+x86_microsoft-windows-i..l-keyboard-00000414_31bf3856ad364e35_none_88a91b6e9a07f66a
+x86_microsoft-windows-i..l-keyboard-0000080c_31bf3856ad364e35_none_86ac92149b858106
+x86_microsoft-windows-i..l-keyboard-00000426_31bf3856ad364e35_none_88937d7c9a182b73
+x86_microsoft-windows-i..l-keyboard-0000046a_31bf3856ad364e35_none_86c298709b74d18a
+x86_microsoft-windows-i..l-keyboard-00010427_31bf3856ad364e35_none_b5f38284b81027b3
+x86_microsoft-windows-i..l-keyboard-00000449_31bf3856ad364e35_none_887311849a307994
+x86_microsoft-windows-i..l-keyboard-00000850_31bf3856ad364e35_none_88d4079699e7e1c6
+x86_microsoft-windows-i..l-keyboard-00000422_31bf3856ad364e35_none_88bebd2c99f7bbaf
+x86_microsoft-windows-i..l-keyboard-00000440_31bf3856ad364e35_none_88d460d099e77e1b
+System.Transactions, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+napcrypt, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86s
+System.Drawing.Design, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msilr
+napsnap, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil.
+Microsoft.Build.Engine, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.IO.Log, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msilT
+PresentationFramework, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilu
+System.AddIn, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+Microsoft.PowerShell.GraphicalHost, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Policy.1.0.Microsoft.Interop.Security.AzRoles, Version=6.1.7600.16385, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+mscorlib, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
+Microsoft.ManagementConsole, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Windows.Forms, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+Microsoft_VsaVb, Version=8.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+sysglobl, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+mcplayerinterop, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.MediaCenter.iTv.Hosting, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilH
+mcstore, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.MediaCenter.TV.Tuners.Interop, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86P
+Microsoft.MediaCenter.Interop, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x861bf38
+ehRecObj, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.MediaCenter.UI, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil5X
+Microsoft.MediaCenter.iTV, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+UIAutomationClientsideProviders, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.ServiceModel.Discovery, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ax
+XAKeyCNGKeyDataBlob
+System.DirectoryServices.Protocols, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Configuration, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Security, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Printing, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86!
+x86_netfx35linq-nonwow64regkeys_31bf3856ad364e35_none_703f78bec8e5d7a3
+x86_wwf-servicing_key_product_31bf3856ad364e35_none_c7302f96a237876e
+Microsoft.Windows.Diagnosis.Commands.UpdateDiagReport, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil%
+System.Management.Instrumentation, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+PresentationBuildTasks, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.Build.Conversion.v3.5, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msilu
+System.Data.Linq, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilK
+System.Net, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+Microsoft.Build.Utilities.v3.5, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+Microsoft.WSMan.Management, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.Windows.Diagnosis.SDEngine, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86t
+Microsoft.Windows.Diagnosis.Commands.GetDiagInput, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.Transactions.Bridge.Dtc, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+System.Web.DynamicData.Design, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil"
+System.Workflow.ComponentModel, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.PowerShell.GPowerShell, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+WindowsBase, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilE
+System.Web.Entity, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+WindowsFormsIntegration, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil 
+System.Data.Entity, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+System.Windows.Presentation, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msile
+PresentationFramework.Aero, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+PresentationFramework.Classic, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilT
+System.ServiceModel.Web, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msile
+ComSvcConfig, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+Microsoft.Windows.Diagnosis.SDHost, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.Windows.Diagnosis.Commands.WriteDiagProgress, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Web.Extensions.Design, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.IdentityModel.Selectors, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+Microsoft.Windows.Diagnosis.Commands.UpdateDiagRootcause, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.PowerShell.Editor, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+SMSvcHost, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+PresentationFramework.Luna, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.PowerShell.Commands.Diagnostics, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Web.DynamicData, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+PresentationCore, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86 
+System.WorkflowServices, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilb
+PresentationCFFRasterizer, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+Microsoft.PowerShell.Commands.Utility, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msile
+System.Data.Services.Design, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msils
+System.IdentityModel, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+PresentationUI, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+PresentationFontCache, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil0
+Microsoft.Build.Tasks.v3.5, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+System.Data.DataSetExtensions, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msilH
+UIAutomationClient, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Web.Extensions, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilx
+System.Xml.Linq, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil5
+Microsoft.Transactions.Bridge, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msill
+PresentationFramework.Royale, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Data.Services.Client, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil.
+MSBuild, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+Microsoft.WSMan.Runtime, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil.
+Microsoft.Windows.Diagnosis.TroubleshootingPack, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil 
+Microsoft.PowerShell.Commands.Management, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+UIAutomationClientsideProviders, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil 
+System.Runtime.Serialization, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+BundleProviderKey9-8e9b-
+System.DirectoryServices.AccountManagement, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+Microsoft.PowerShell.ConsoleHost, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Data.Entity.Design, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msil
+System.Core, Version=3.5.0.0, Culture=Neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=msile
+WsatConfig, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msil
+Microsoft.Ink, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+System.AddIn.Contract, Version=2.0.0.0, Culture=Neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=msilV
+System.Workflow.Runtime, Version=3.0.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msilu
+HKeyRoot2
+DefaultProductKey
+DisableFlickFallbackKeys
+DisableFlickFallbackKeys
+DisableFlickFallbackKeys
+qedit.DxtKey.1
+ADOX.Key
+ADOX.Key.6.0
+PropertyKeyCollection.PropertyKeyCollection
+qedit.DxtKey
+DsKeyUpdate
+DsKeyUpdateForeground
+KeywordsLower
+KeywordsUpper
+KeywordsLower
+KeywordsUpper
+mcplayerinterop, Version=6.1.0.0, Culture=Neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+iHKeyRoot
+bHKeyRoot
+HKeyRoot
+OxpsConverter.Resources, Version=6.1.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=msil
+System.Composition.AttributedModel, Version=1.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.AttributedModel, Version=1.0.16.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.Convention, Version=1.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.Convention, Version=1.0.16.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.Hosting, Version=1.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.Hosting, Version=1.0.16.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.TypedParts, Version=1.0.15.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Composition.TypedParts, Version=1.0.16.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Threading.Tasks.Dataflow, Version=4.5.6.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Threading.Tasks.Dataflow, Version=4.5.8.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Threading.Tasks.Dataflow, Version=4.5.9.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+EntityFramework, Culture=neutral, PublicKeyToken=b77a5c561934e089
+migrate, Culture=neutral, PublicKeyToken=b77a5c561934e089
+EntityFramework.PowerShell, Culture=neutral, PublicKeyToken=b77a5c561934e089
+EntityFramework.PowerShell.Utility, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Microsoft.AspNet.SignalR.Core, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.Http.OData, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35P
+System.Web.Http.SelfHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.Http.Tracing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.Http.WebHost, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.Providers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.Razor, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.WebPages, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.WebPages.Administration, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Web.WebPages.Deployment, Culture=neutral, PublicKeyToken=31bf3856ad364e35`
+System.Web.WebPages.Razor, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+WebMatrix.Data, Culture=neutral, PublicKeyToken=31bf3856ad364e35h
+WebMatrix.WebData, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.Activities.Core.Presentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35e
+Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.AddIn.Contract, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089m
+System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089o
+System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3ap
+System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+PresentationFramework.Aero, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Windows.Forms.DataVisualization.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+System.DirectoryServices.AccountManagement, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Runtime.Serialization.Formatters.Soap, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+	G>Key
+!Do not use this registry key
+GroupByKey:FMTID{
+GroupByKey:FMTID
+ExtendedSubCommandsKey
+GroupByKey:PID
+ZwOpenKey
+ZwCreateKey
+ZwQueryValueKey
+ZwSetValueKey
+ZwOpenKey
+ZwCreateKey
+ZwQueryValueKey
+ZwSetValueKey
+KeyFldIDs
+KeyMost
+KeyFldIDs
+KeyMost
+keyPrimary
+keySecondary
+Key 
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+CIM_Key
+ZwQueryValueKey
+ZwOpenKey
+KEYWX
+{F2510000-2FC8-4EB3-A41A-CCE5F08541E6}Key
+#Lowfi:SIGATTR:MonitoringTool:Win32/EliteKeyLogger!Installer
+#LowFi:Adware:Win32/180SolutionsSearchAssistant!LikeyCleanPUS
+_Keyz%F^_'Khk&Mnq&Pwz'S
+&Px{&Lnq&Ifh%F^_Keyz
+_Keyz%F^_'Khk&Mnq&Pwz'S
+&Px{&Lnq&Ifh%F^_Keyz
+	msctls_hotkey32
+AltTab_KeyHookWnd

@@ -1,0 +1,91 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        b4bc003 com.DefaultCompany.balsnctf2023/com.unity3d.player.UnityPlayerActivity filter 913db80
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Domain verification status:
+
+Key Set Manager:
+  [com.DefaultCompany.balsnctf2023]
+      Signing KeySets: 55
+
+Packages:
+  Package [com.DefaultCompany.balsnctf2023] (42f67ea):
+    appId=10182
+    pkg=Package{2d4badb com.DefaultCompany.balsnctf2023}
+    codePath=/data/app/~~RNue3-eSU2PES7Bw7CTh9Q==/com.DefaultCompany.balsnctf2023-MDgW0G_PhEYxHnDSRIos6g==
+    resourcePath=/data/app/~~RNue3-eSU2PES7Bw7CTh9Q==/com.DefaultCompany.balsnctf2023-MDgW0G_PhEYxHnDSRIos6g==
+    legacyNativeLibraryDir=/data/app/~~RNue3-eSU2PES7Bw7CTh9Q==/com.DefaultCompany.balsnctf2023-MDgW0G_PhEYxHnDSRIos6g==/lib
+    extractNativeLibs=true
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=1 minSdk=22 targetSdk=30
+    minExtensionVersions=[]
+    versionName=1.0
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=2
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/com.DefaultCompany.balsnctf2023
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2023-10-08 07:00:36
+    lastUpdateTime=2023-10-08 07:00:36
+    installerPackageName=null
+    installerPackageUid=-1
+    initiatingPackageName=com.android.shell
+    originatingPackageName=null
+    packageSource=1
+    appMetadataFilePath=null
+    signatures=PackageSignatures{5e47978 version:2, signatures:[360befd2], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    apexModuleName=null
+    requested permissions:
+      android.permission.INTERNET
+      android.permission.POST_NOTIFICATIONS
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0: ceDataInode=319584 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      installReason=0
+      firstInstallTime=2023-10-08 07:00:36
+      uninstallReason=0
+      overlay paths:
+        /product/overlay/EmulationPixel3a/EmulationPixel3aOverlay.apk
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      legacy overlay paths:
+        /product/overlay/EmulationPixel3a/EmulationPixel3aOverlay.apk
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      gids=[3003]
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via forceQueryable:
+  queries via package name:
+  queries via component:
+    com.google.android.settings.intelligence:
+      com.DefaultCompany.balsnctf2023
+  queryable via interaction:
+    User 0:
+      [android,com.android.emulator.multidisplay,com.android.localtransport,com.android.wallpaperbackup,com.android.inputdevices,com.android.dynsystem,com.android.server.telecom,com.android.settings,com.android.keychain,com.android.providers.settings,com.android.location.fused]:
+        com.DefaultCompany.balsnctf2023
+      com.google.android.inputmethod.latin:
+        com.DefaultCompany.balsnctf2023
+  queryable via uses-library:
+
+Dexopt state:
+  [com.DefaultCompany.balsnctf2023]
+    path: /data/app/~~RNue3-eSU2PES7Bw7CTh9Q==/com.DefaultCompany.balsnctf2023-MDgW0G_PhEYxHnDSRIos6g==/base.apk
+      x86_64: [status=verify] [reason=install] [primary-abi]
+        [location is /data/app/~~RNue3-eSU2PES7Bw7CTh9Q==/com.DefaultCompany.balsnctf2023-MDgW0G_PhEYxHnDSRIos6g==/oat/x86_64/base.odex]
+
+Compiler stats:
+  [com.DefaultCompany.balsnctf2023]
+     base.apk - 294

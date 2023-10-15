@@ -1,0 +1,1 @@
+FLAG = "FLAG{test_12345}"

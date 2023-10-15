@@ -1,0 +1,78 @@
+0x000000002042b4b0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Diagnosis\Scheduled
+0x000000003de28598      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\RecordingRestart
+0x000000003de388e0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Autochk\Proxy
+0x000000003de3c770      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SystemRestore\SR
+0x000000003de470e0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SideShow\SystemDataProviders
+0x000000003de47398      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SideShow\GadgetManager
+0x000000003de478e8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Shell\WindowsParentalControls
+0x000000003de48608      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SideShow\AutoWake
+0x000000003de49120      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SideShow\SessionAgent
+0x000000003de49f80      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated)
+0x000000003de4c700      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Multimedia\SystemSoundsService
+0x000000003de4cf80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\WindowsColorSystem\Calibration Loader
+0x000000003de4d2e8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Windows Error Reporting\QueueReporting
+0x000000003de4dbc8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver
+0x000000003de4e600      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask
+0x000000003de4ee60      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual)
+0x000000003de50908      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Tcpip\IpAddressConflict1
+0x000000003de50ba8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Shell\WindowsParentalControlsMigration
+0x000000003de51b48      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\TextServicesFramework\MsCtfMonitor
+0x000000003de56a80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Time Synchronization\SynchronizeTime
+0x000000003de5b810      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscovery
+0x000000003de5bd68      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Tcpip\IpAddressConflict2
+0x000000003de5c388      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\PerfTrack\BackgroundConfigSurveyor
+0x000000003de5ceb0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Windows Media Sharing\UpdateLibrary
+0x000000003de5de18      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PeriodicScanRetry
+0x000000003de5e780      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\MemoryDiagnostic\CorruptionDetector
+0x000000003de5ef80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\DispatchRecoveryTasks
+0x000000003de5f670      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PvrRecoveryTask
+0x000000003de5fa28      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Ras\MobilityManager
+0x000000003de60678      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscoveryW1
+0x000000003de61288      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\User Profile Service\HiveUploadTask
+0x000000003de618b0      8      0 RWDr-- \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows Defender\MP Scheduled Scan
+0x000000003de61cb8      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\WindowsBackup\ConfigNotification
+0x000000003de624b0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\OCURActivate
+0x000000003de65038      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange
+0x000000003de650f8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\AppID\PolicyConverter
+0x000000003de657c0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\InstallPlayReady
+0x000000003de66608      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\WDI\ResolutionHost
+0x000000003de67280      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PvrScheduleTask
+0x000000003de677e8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\ReindexSearchRoot
+0x000000003de68690      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask
+0x000000003de692a0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+0x000000003de69488      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\ehDRMInit
+0x000000003de69a70      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem
+0x000000003de6b038      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask
+0x000000003de6b1e0      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+0x000000003de6bca0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\ConfigureInternetTimeService
+0x000000003de6cac0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\ActivateWindowsSearch
+0x000000003de6cf80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Bluetooth\UninstallDeviceTask
+0x000000003de6d8e8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask
+0x000000003de6dad0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\UpdateRecordPath
+0x000000003de6eb48      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\PBDADiscoveryW2
+0x000000003de6f2e0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\MemoryDiagnostic\DecompressionFailureDetector
+0x000000003de70638      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\RAC\RacTask
+0x000000003de723a0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Maintenance\WinSAT
+0x000000003de756d8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+0x000000003de758f8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
+0x000000003de75f80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+0x000000003de76950      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\mcupdate
+0x000000003de77810      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Defrag\ScheduledDefrag
+0x000000003de78678      8      0 RWDr-- \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows Defender\MpIdleTask
+0x000000003de78f18      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\RegisterSearch
+0x000000003de79178      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Application Experience\AitAgent
+0x000000003de79b80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\OCURDiscovery
+0x000000003de7b6f0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Registry\RegIdleBackup
+0x000000003de7b900      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\UPnP\UPnPHostConfig
+0x000000003de7c518      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\SqlLiteRecoveryTask
+0x000000003de7d260      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\NetTrace\GatherNetworkInfo
+0x000000003de7db98      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Application Experience\ProgramDataUpdater
+0x000000003de800f0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\ObjectStoreRecoveryTask
+0x000000003de844b0      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Location\Notifications
+0x000000003de84c78      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Media Center\MediaCenterRecoveryTask
+0x000000003de888a8      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Task Manager\Interactive
+0x000000003e0a8f80      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\MUI\LPRemove
+0x000000003e0e5e90      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+0x000000003e10cc20      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\MobilePC\HotStart
+0x000000003e11c780      2      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\Wininet\CacheTask
+0x000000003e17bf18      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\Tasks\Microsoft\Windows\CertificateServicesClient\SystemTask

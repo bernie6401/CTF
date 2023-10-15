@@ -1,0 +1,144 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "base.apk"
+  ],
+  "treeExpansions": [
+    [
+      "com",
+      "Source code",
+      "base.apk"
+    ],
+    [
+      "DefaultCompany.balsnctf2023",
+      "com",
+      "Source code",
+      "base.apk"
+    ],
+    [
+      "com.DefaultCompany.balsnctf2023.BuildConfig",
+      "DefaultCompany.balsnctf2023",
+      "com",
+      "Source code",
+      "base.apk"
+    ],
+    [
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "resources.arsc",
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "res",
+      "resources.arsc",
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "values",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "values-v28",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "values-v30",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "base.apk"
+    ],
+    [
+      "unity3d.player",
+      "com",
+      "Source code",
+      "base.apk"
+    ],
+    [
+      "google.androidgamesdk",
+      "com",
+      "Source code",
+      "base.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.DefaultCompany.balsnctf2023.BuildConfig",
+      "subPath": "java",
+      "caret": 276,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/values/strings.xml",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "res/values-v30/strings.xml",
+      "subPath": "",
+      "caret": 394,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.DefaultCompany.balsnctf2023.R",
+      "subPath": "java",
+      "caret": 92,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.androidgamesdk.ChoreographerCallback",
+      "subPath": "java",
+      "caret": 194,
+      "view": {
+        "x": 0,
+        "y": 235
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.androidgamesdk.SwappyDisplayManager",
+      "subPath": "smali",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 2142
+      }
+    }
+  ],
+  "activeTab": 5,
+  "cacheDir": "base.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}

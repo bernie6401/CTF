@@ -1,0 +1,72 @@
+**************************************************
+ConsoleProcess: conhost.exe Pid: 1952
+Console: 0x9c81c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\System32\cmd.exe
+Title: Administrator: C:\Windows\System32\cmd.exe
+AttachedProcess: cmd.exe Pid: 2112 Handle: 0x5c
+----
+CommandHistory: 0x157120 Application: attrib.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x156fe8 Application: cmd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+----
+Screen 0x1463c0 X:80 Y:300
+Dump:
+                                                                                
+C:\Users\0xSh3rl0ck\Desktop>                                                    
+**************************************************
+ConsoleProcess: conhost.exe Pid: 2924
+Console: 0x9c81c0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\System32\cmd.exe
+Title: Administrator: C:\Windows\System32\cmd.exe
+AttachedProcess: cmd.exe Pid: 2928 Handle: 0x5c
+----
+CommandHistory: 0x87128 Application: attrib.exe Flags: 
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x0
+----
+CommandHistory: 0x86ff0 Application: cmd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+----
+Screen 0x763c8 X:80 Y:300
+Dump:
+                                                                                
+C:\Users\0xSh3rl0ck\Desktop>                                                    
+**************************************************
+ConsoleProcess: conhost.exe Pid: 3664
+Console: 0x9c81c0 CommandHistorySize: 50
+HistoryBufferCount: 1 HistoryBufferMax: 4
+OriginalTitle: C:\Users\0xSh3rl0ck\Downloads\DumpIt.exe
+Title: C:\Users\0xSh3rl0ck\Downloads\DumpIt.exe
+AttachedProcess: DumpIt.exe Pid: 2724 Handle: 0x5c
+----
+CommandHistory: 0x260510 Application: DumpIt.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5c
+----
+Screen 0x2463f8 X:80 Y:300
+Dump:
+  DumpIt - v1.3.2.20110401 - One click memory memory dumper                     
+  Copyright (c) 2007 - 2011, Matthieu Suiche <http://www.msuiche.net>           
+  Copyright (c) 2010 - 2011, MoonSols <http://www.moonsols.com>                 
+                                                                                
+                                                                                
+    Address space size:        1073741824 bytes (   1024 Mb)                    
+    Free space size:          41994764288 bytes (  40049 Mb)                    
+                                                                                
+    * Destination = \??\C:\Users\0xSh3rl0ck\Downloads\WIN-HVHU2E8THBE-20230220-1
+91052.raw                                                                       
+                                                                                
+    --> Are you sure you want to continue? [y/n] y                              
+    + Processing...                                                             

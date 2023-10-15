@@ -1,0 +1,180 @@
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: [no name]
+Key name: Df9G,tf?G,?} (S)
+Last updated: -
+
+Subkeys:
+
+Values:
+----------------------------
+Registry: \SystemRoot\System32\Config\SAM
+Key name: CMI-CreateHive{899121E8-11D8-44B6-ACEB-301713D5ED8C} (S)
+Last updated: 2009-07-14 04:34:12 UTC+0000
+
+Subkeys:
+  (S) SAM
+
+Values:
+----------------------------
+Registry: \REGISTRY\MACHINE\HARDWARE
+Key name: HARDWARE (S)
+Last updated: 2023-02-20 19:01:11 UTC+0000
+
+Subkeys:
+  (S) ACPI
+  (S) DESCRIPTION
+  (S) DEVICEMAP
+
+Values:
+----------------------------
+Registry: \SystemRoot\System32\Config\DEFAULT
+Key name: CMI-CreateHive{1F52C44A-F7D4-499D-9ADF-5B72EB7D8EA4} (S)
+Last updated: 2009-07-14 04:42:25 UTC+0000
+
+Subkeys:
+  (S) Control Panel
+  (S) Environment
+  (S) EUDC
+  (S) Keyboard Layout
+  (S) Printers
+  (S) Software
+  (S) SYSTEM
+
+Values:
+----------------------------
+Registry: \??\C:\System Volume Information\Syscache.hve
+Key name: {c54672e7-a9fa-11ed-9711-c65d11d89159} (S)
+Last updated: 2023-02-20 19:03:40 UTC+0000
+
+Subkeys:
+  (S) DefaultObjectStore
+
+Values:
+----------------------------
+Registry: \??\C:\Users\0xSh3rl0ck\ntuser.dat
+Key name: CMI-CreateHive{6A1C4018-979D-4291-A7DC-7AED1C75B67C} (S)
+Last updated: 2023-02-20 19:01:22 UTC+0000
+
+Subkeys:
+  (S) AppEvents
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) EUDC
+  (S) Identities
+  (S) Keyboard Layout
+  (S) Network
+  (S) Printers
+  (S) Software
+  (S) System
+  (V) Volatile Environment
+
+Values:
+----------------------------
+Registry: [no name]
+Key name: REGISTRY (S)
+Last updated: 2023-02-20 19:01:11 UTC+0000
+
+Subkeys:
+  (S) A
+  (S) MACHINE
+  (S) USER
+
+Values:
+----------------------------
+Registry: \REGISTRY\USER\S-1-5-20
+Key name: CMI-CreateHive{6A1C4018-979D-4291-A7DC-7AED1C75B67C} (S)
+Last updated: 2009-07-14 04:34:14 UTC+0000
+
+Subkeys:
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) EUDC
+  (S) Network
+  (S) Printers
+  (S) Software
+  (S) System
+
+Values:
+----------------------------
+Registry: \SystemRoot\System32\Config\SOFTWARE
+Key name: CMI-CreateHive{3D971F19-49AB-4000-8D39-A6D9C673D809} (S)
+Last updated: 2023-02-20 18:30:28 UTC+0000
+
+Subkeys:
+  (S) Classes
+  (S) Clients
+  (S) Intel
+  (S) Microsoft
+  (S) ODBC
+  (S) Policies
+  (S) RegisteredApplications
+  (S) Sonic
+  (S) VMware, Inc.
+
+Values:
+----------------------------
+Registry: \??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+Key name: CMI-CreateHive{6A1C4018-979D-4291-A7DC-7AED1C75B67C} (S)
+Last updated: 2009-07-14 04:34:14 UTC+0000
+
+Subkeys:
+  (S) Console
+  (S) Control Panel
+  (S) Environment
+  (S) EUDC
+  (S) Keyboard Layout
+  (S) Network
+  (S) Printers
+  (S) Software
+  (S) System
+
+Values:
+----------------------------
+Registry: \REGISTRY\MACHINE\SYSTEM
+Key name: CMI-CreateHive{F10156BE-0E87-4EFB-969E-5DA29D131144} (S)
+Last updated: 2023-02-20 19:01:11 UTC+0000
+
+Subkeys:
+  (S) ControlSet001
+  (S) MountedDevices
+  (S) RNG
+  (S) Select
+  (S) Setup
+  (S) Software
+  (S) WPA
+  (V) CurrentControlSet
+
+Values:
+----------------------------
+Registry: \??\C:\Users\0xSh3rl0ck\AppData\Local\Microsoft\Windows\UsrClass.dat
+Key name: S-1-5-21-4151118248-3926227922-3552599106-1000_Classes (S)
+Last updated: 2023-02-20 18:29:46 UTC+0000
+
+Subkeys:
+  (S) .avif
+  (S) .htm
+  (S) .html
+  (S) .oga
+  (S) .ogg
+  (S) .ogv
+  (S) .pdf
+  (S) .shtml
+  (S) .svg
+  (S) .webm
+  (S) .webp
+  (S) .xht
+  (S) .xhtml
+  (S) Applications
+  (S) FirefoxHTML-308046B0AF4A39CB
+  (S) FirefoxPDF-308046B0AF4A39CB
+  (S) FirefoxURL-308046B0AF4A39CB
+  (S) http
+  (S) https
+  (S) Local Settings
+  (S) mailto
+
+Values:

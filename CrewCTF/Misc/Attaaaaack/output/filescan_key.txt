@@ -1,0 +1,6 @@
+0x000000003deb8200      1      1 ------ \Device\NamedPipe\keysvc
+0x000000003deb82b8      2      1 ------ \Device\NamedPipe\keysvc
+0x000000003deb91e8      1      1 ------ \Device\NamedPipe\keysvc
+0x000000003e10ba98      6      0 R--r-d \Device\HarddiskVolume1\Windows\System32\keyiso.dll
+0x000000003e10ef18      8      0 R--r-d \Device\HarddiskVolume1\Windows\System32\en-US\keyiso.dll.mui
+0x000000003f35e770      8      0 R--rwd \Device\HarddiskVolume1\Users\0xSh3rl0ck\AppData\Roaming\Mozilla\Firefox\Profiles\mvqc8yti.default-release\key4.db
