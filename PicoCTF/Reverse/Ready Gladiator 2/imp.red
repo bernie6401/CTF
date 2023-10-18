@@ -1,5 +1,4 @@
-;redcode
-;name Imp Ex
-;assert 1
-mov 0, 1
+gate equ wait-10
+wait JMP wait,<gate
+end wait
 end
