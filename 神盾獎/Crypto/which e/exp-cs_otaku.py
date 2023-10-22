@@ -1,5 +1,5 @@
 from Crypto.Util.number import *
-from sage.all import *
+# from sage.all import *
 from os import urandom
 from tqdm import trange
 
