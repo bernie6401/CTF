@@ -31,7 +31,7 @@ for i in trange(len(es)):
 
 
 gcd, s, t = gmpy2.gcdext(e1, e2)
-m_3 = gmpy2.powmod(c1, s, n) * gmpy2.powmod(c2, t, n)
+m_3 = (gmpy2.powmod(c1, s, n) * gmpy2.powmod(c2, t, n)) % n
 flag = integer_root(m_3, n, gcd)
 # k = Zmod(n)
 # flag = k(m_3).nth_root(3)
