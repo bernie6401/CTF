@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Oct 21 13:19:20 2023
+Invocation: foremost -v Fetching Secrets.jpeg 
+Output directory: /mnt/d/NTU/CTF/DeadFace/Misc/Fetching Secrets/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Fetching Secrets.jpeg
+Start: Sat Oct 21 13:19:21 2023
+Length: 471 KB (482309 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     471 KB 	          0 	 
+Finish: Sat Oct 21 13:19:21 2023
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Oct 21 13:19:22 2023
