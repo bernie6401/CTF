@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Oct 23 23:53:42 2023
+Invocation: foremost -v electric-steel.png 
+Output directory: /mnt/d/NTU/CTF/DeadFace/Misc/Electric Steel/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: electric-steel.png
+Start: Mon Oct 23 23:53:42 2023
+Length: 1 MB (1467816 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       1 MB 	          0 	  (1232 x 928)
+Finish: Mon Oct 23 23:53:42 2023
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Oct 23 23:53:42 2023
