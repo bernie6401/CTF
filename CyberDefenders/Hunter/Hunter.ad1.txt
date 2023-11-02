@@ -1,0 +1,43 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for D:\Users\Mawso3a\Desktop\Hunter.ad1:
+[Custom Content Sources]
+ c16-Hunter:NONAME [NTFS]|[root]|Windows|System32|config|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Windows|System32|winevt|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Windows|System32|license.rtf(Exact)
+ c16-Hunter:NONAME [NTFS]|[root]|Windows|Prefetch|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|Desktop|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|.zenmap|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|AppData|Roaming|Skype|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|Documents|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Program Files (x86)|Jetico|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|Downloads|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|AppData|Local|Microsoft|Windows|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|$Recycle.Bin|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|Pictures|*(Wildcard,Consider Case,Include Subdirectories)
+ c16-Hunter:NONAME [NTFS]|[root]|Users|Hunter|AppData|Roaming|Microsoft|Windows|Recent|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    0a994333d883b19e0bb45356d9833dbe
+ SHA1 checksum:   eb5c7d1cd094772f42b1a6acda38217433dd4190
+
+Image information:
+ Acquisition started:   Thu Jun  3 16:44:39 2021
+ Acquisition finished:  Thu Jun  3 16:49:43 2021
+ Segment list:
+  D:\Users\Mawso3a\Desktop\Hunter.ad1
+
+Image Verification Results:
+ Verification started:  Thu Jun  3 16:49:49 2021
+ Verification finished: Thu Jun  3 16:50:19 2021
+ MD5 checksum:    0a994333d883b19e0bb45356d9833dbe : verified
+ SHA1 checksum:   eb5c7d1cd094772f42b1a6acda38217433dd4190 : verified
