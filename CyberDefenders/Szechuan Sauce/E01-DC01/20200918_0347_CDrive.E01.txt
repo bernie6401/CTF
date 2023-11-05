@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number: 20200918-001
+Evidence Number: CITADEL-DC01
+Unique description: CITADEL-DC01
+Examiner: DFIRMADNESS
+Notes: dfirmadness.com
+
+--------------------------------------------------------------
+
+Information for E:\DC01\E01\20200918_0347_CDrive:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,468
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 23,592,960
+[Physical Drive Information]
+ Drive Model: VMware, VMware Virtual S SCSI Disk Device
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 11520 MB
+ Sector count:    23592960
+[Computed Hashes]
+ MD5 checksum:    58c73a9c4b223382eb7b89a5008eada3
+ SHA1 checksum:   8a92c0197854b3c60b121baf6c4aae276e338f9d
+
+Image Information:
+ Acquisition started:   Fri Sep 18 21:51:27 2020
+ Acquisition finished:  Fri Sep 18 21:56:52 2020
+ Segment list:
+  E:\DC01\E01\20200918_0347_CDrive.E01
+  E:\DC01\E01\20200918_0347_CDrive.E02
+
+Image Verification Results:
+ Verification started:  Fri Sep 18 21:56:52 2020
+ Verification finished: Fri Sep 18 21:59:23 2020
+ MD5 checksum:    58c73a9c4b223382eb7b89a5008eada3 : verified
+ SHA1 checksum:   8a92c0197854b3c60b121baf6c4aae276e338f9d : verified
