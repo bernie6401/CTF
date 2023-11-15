@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateduid</key>
+	<array>
+		<string>C19E2A95-C597-4BFC-B2D6-63EDD17F4F4D</string>
+	</array>
+	<key>name</key>
+	<array>
+		<string>KerberosKDC</string>
+	</array>
+	<key>record_daemon_version</key>
+	<array>
+		<string>6920000</string>
+	</array>
+	<key>realname</key>
+	<array>
+		<string>LKDC:SHA1.6DA5A9FBAF3C350DA5F6FEC9E332BC291E1C8E64</string>
+	</array>
+</dict>
+</plist>

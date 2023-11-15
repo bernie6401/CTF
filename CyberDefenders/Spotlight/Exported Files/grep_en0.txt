@@ -1,0 +1,6 @@
+root/private/var/log/daily.out:en0   1500  <Link#4>    00:0c:29:c4:65:77   372733     0    73025     0     0
+root/private/var/log/daily.out:en0   1500  fe80::8c8:8 fe80:4::8c8:87c2:   372733     -    73025     -     -
+root/private/var/log/daily.out:en0   1500  184.171.151/2 stu-181-151-171   372733     -    73025     -     -
+root/private/var/log/daily.out:en0   1500  <Link#4>    00:0c:29:c4:65:77      790     0      694     0     0
+root/private/var/log/daily.out:en0   1500  fe80::1cba: fe80:4::1cba:cac8      790     -      694     -     -
+root/private/var/log/daily.out:en0   1500  184.171.151/2 stu-181-151-171      790     -      694     -     -

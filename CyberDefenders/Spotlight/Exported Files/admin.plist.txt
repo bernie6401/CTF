@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupmembers</key>
+	<array>
+		<string>FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000000</string>
+		<string>5BB00259-4F58-4FDE-BC67-C2659BA0A5A4</string>
+		<string>248D32B8-0B3D-4F62-89C4-4AE63519D2EF</string>
+	</array>
+	<key>smb_sid</key>
+	<array>
+		<string>S-1-5-32-544</string>
+	</array>
+	<key>passwd</key>
+	<array>
+		<string>*</string>
+	</array>
+	<key>record_daemon_version</key>
+	<array>
+		<string>6920000</string>
+	</array>
+	<key>realname</key>
+	<array>
+		<string>Administrators</string>
+	</array>
+	<key>generateduid</key>
+	<array>
+		<string>ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000050</string>
+	</array>
+	<key>users</key>
+	<array>
+		<string>root</string>
+		<string>hansel.apricot</string>
+		<string>sneaky</string>
+	</array>
+	<key>gid</key>
+	<array>
+		<string>80</string>
+	</array>
+	<key>name</key>
+	<array>
+		<string>admin</string>
+		<string>BUILTIN\Administrators</string>
+	</array>
+</dict>
+</plist>
