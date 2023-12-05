@@ -1,0 +1,657 @@
+C:\WINDOWS\system32\svchost -k DcomLaunch
+C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\index.dat
+C:\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\
+C:\WINDOWS\system32\config\systemprofile\Cookies\
+C:\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\
+C:\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\
+C:\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+C:\WINDOWS\system32\config\systemprofile\Cookies\
+C:\WINDOWS\system32\config\systemprofile\Cookies\index.dat
+C:\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\
+C:\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\MSHist012023021320230214\
+C:\WINDOWS\tracing
+SERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+SERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+C:\WINDOWS\system32\svchost
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+SERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+C:\WINDOWS\system32\svchost
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+C:\WINDOWS\system32\drivers\str.sys
+SERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+C:\WINDOWS\system32\svchost
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+SERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+C:\WINDOWS\system32\svchost
+ALLUSERSPROFILE=C:\Documents and Settings\All Users
+CommonProgramFiles=C:\Program Files\Common Files
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem
+ProgramFiles=C:\Program Files
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\WINDOWS\TEMP
+TMP=C:\WINDOWS\TEMP
+USERPROFILE=C:\WINDOWS\system32\config\systemprofile
+windir=C:\WINDOWS
+]C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\system32\rsaenh.dll
+C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\system32\
+C:\WINDOWS\system32\svchost.exe
+C:\Documents 
+\??\C:\WINDOWS\system32\drivers\suzmkbtuoyeki.sys
+\??\C:\WINDOWS\system32\drivers\suzmkbtuoyeki.sys
+_OSC: SUPP=
+C:\WINDOWS\system32\verclsid.exe
+CSC:Mismatched transport departure messages from mini redir 
+main     Executable: C:\WINDOWS\System32\VBoxService.exe
+:#:4:9:>:C:H:M:R:W:i:
+C:\Documents and Settings\CyberDefenders\Desktop\Secret
+C:\Documents and Settings\CyberDefenders\Desktop\ImoprtantKey\Key.txt
+C:\Documents and Settings\CyberDefenders\Desktop\ImoprtantKey
+Remote Desktop Connection.lnk=@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+Component Services.lnk=@C:\WINDOWS\system32\comres.dll,-661
+C:\WINDOWS\PCHealth\HelpCtr\Binaries\HelpCtr.exe
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+C:\Program Files\MSN Gaming Zone\Windows\zclientm.exe
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+C:\WINDOWS\system32\mmc.exe
+C:\WINDOWS\system32\regsvr32.exe
+C:\WINDOWS\system32\cmd.exe
+C:\WINDOWS\system32\mshta.exey
+C:\WINDOWS\system32\fixmapi.exe
+C:\WINDOWS\system32\odbcconf.exe
+C:\WINDOWS\system32\mstinit.exe
+C:\Program Files\Outlook Express\setup50.exe0
+C:\WINDOWS\system32\logagent.exe
+C:\WINDOWS\INF\unregmp2.exe
+C:\WINDOWS\pchealth\uploadlb\binaries\uploadm.exe
+C:\Program Files\Windows Media Player\migrate.exe
+C:\WINDOWS\system32\grpconv.exe
+"C:\PROGRA~1\WINDOW~2\wmplayer.exe"
+C:\PROGRA~1\WINDOW~2\wmplayer.exe
+"C:\Program Files\Windows Media Player\wmplayer.exe"
+C:\Program Files\Windows Media Player\wmplayer.exe
+@C:\WINDOWS\system32\SHELL32.dll,-9216
+C:\Program Files\Internet Explorer\iexplore.exe
+C:\Program Files\Windows NT\Accessories\wordpad.exe
+C:\Program Files\Windows NT\Accessories\wordpad.exe
+C:\Program Files\Windows NT\Accessories\wordpad.exe
+C:\WINDOWS\system32\advapi32.dll[MofResourceName]
+C:\WINDOWS\system32\DRIVERS\ACPI.sys[ACPIMOFResource]0*
+C:\WINDOWS\system32\DRIVERS\mssmbios.sys[MofResource]
+C:\WINDOWS\System32\Drivers\battc.sys[BATTCWMI]
+C:\WINDOWS\system32\DRIVERS\ipnat.sys[IPNATMofResource]
+NDC:\Program Files\Common Files\Microsoft Shared\Speech\sapi.cplTR
+C:\WINNT\Profiles\IE500.000\Application Data\Microsoft\Internet Explorer\Quick Launch
+C:\Program Files\Common Files\Microsoft Shared\Triedit\dhtmled.ocx
+C:\Program Files\Common Files\Microsoft Shared\Triedit\triedit.dll
+C:\WINDOWS\system32\iac25_32.ax
+C:\WINDOWS\system32\l3codeca.acm
+C:/WINDOWS/Security/Templates
+C:\WINDOWS\system32\drivers\ac97intc.sys[MofResourceName]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\Program Files\Common Files\Microsoft Shared\Web Folders\
+C:\Program Files\Common Files\System\OLE DB\MSDAIPP.DLL
+C:\Program Files\Common Files\System\OLE DB\MSDAPML.DLL
+C:\Program Files\Common Files\Microsoft Shared\Web Folders\MSONSEXT.DLL
+C:\Program Files\Common Files\Microsoft Shared\Web Folders\MSOWS409.DLL
+C:\Program Files\Common Files\Microsoft Shared\Web Folders\PUBPLACE.HTT
+C:\WINDOWS\Installer\{350C97B0-3D7C-4EE8-BAA9-00BCB3D54227}\
+C:\WINDOWS\system32\advapi32.dll[MofResourceName]
+C:\WINDOWS\system32\DRIVERS\ACPI.sys[ACPIMOFResource]
+C:\WINDOWS\system32\DRIVERS\mssmbios.sys[MofResource]
+C:\WINDOWS\System32\Drivers\battc.sys[BATTCWMI]
+C:\WINDOWS\system32\DRIVERS\ipnat.sys[IPNATMofResource]
+C:\WINDOWS\system32\drivers\ac97intc.sys[MofResourceName]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+#W374 Digital signature verification was skipped for a file being registered ("C:\WINDOWS\system32\rsaenh.dll"). 
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+C:\Program Files\MSN Gaming Zone\Windows\zclientm.exe
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+C:\WINDOWS\system32\mmc.exe
+C:\WINDOWS\system32\regsvr32.exe
+C:\WINDOWS\system32\cmd.exe
+C:\WINDOWS\system32\mshta.exey
+C:\WINDOWS\system32\fixmapi.exe
+C:\WINDOWS\system32\odbcconf.exe
+C:\WINDOWS\system32\mstinit.exe
+C:\Program Files\Outlook Express\setup50.exe0
+C:\WINDOWS\system32\logagent.exe
+C:\WINDOWS\INF\unregmp2.exe
+C:\WINDOWS\pchealth\uploadlb\binaries\uploadm.exe
+C:\Program Files\Windows Media Player\migrate.exe
+C:\WINDOWS\system32\grpconv.exe
+"C:\PROGRA~1\WINDOW~2\wmplayer.exe"
+C:\PROGRA~1\WINDOW~2\wmplayer.exe
+"C:\Program Files\Windows Media Player\wmplayer.exe"
+C:\Program Files\Windows Media Player\wmplayer.exe
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+C:\Program Files\MSN Gaming Zone\Windows\zclientm.exe
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+C:\WINDOWS\system32\mmc.exe
+C:\WINDOWS\system32\regsvr32.exe
+C:\WINDOWS\system32\cmd.exe
+C:\WINDOWS\system32\mshta.exey
+C:\WINDOWS\system32\fixmapi.exe
+C:\WINDOWS\system32\odbcconf.exe
+C:\WINDOWS\system32\mstinit.exe
+C:\Program Files\Outlook Express\setup50.exe0
+C:\WINDOWS\system32\logagent.exe
+C:\WINDOWS\INF\unregmp2.exe
+C:\WINDOWS\pchealth\uploadlb\binaries\uploadm.exe
+C:\Program Files\Windows Media Player\migrate.exe
+C:\WINDOWS\system32\grpconv.exe
+"C:\PROGRA~1\WINDOW~2\wmplayer.exe"
+C:\PROGRA~1\WINDOW~2\wmplayer.exe
+"C:\Program Files\Windows Media Player\wmplayer.exe"
+C:\Program Files\Windows Media Player\wmplayer.exe
+C:\WINDOWS\system32\mstinit.exe
+C:\Program Files
+"C:\PROGRA~1\WINDOW~2\wmplayer.exe"er\wm
+C:\PROGRA~1\WINDOW~2\wmplayer.exe
+"C:\Program Files\Windows Media Player\wmplayer.exe"
+C:\Program Files\Windows Media Player\wmplayer.exe
+nt@C:\WINDOWS\system32\rcbdyctl.dll,-152
+@C:\Program Files\NetMeeting\conf.exe,-12345c
+@C:\WINDOWS\system32\accwiz.exe,-16
+@C:\WINDOWS\inf\unregmp2.exe,-9903
+@C:\WINDOWS\inf\unregmp2.exe,-9909
+@C:\WINDOWS\inf\unregmp2.exe,-9910
+@C:\WINDOWS\inf\unregmp2.exe,-9904
+@C:\WINDOWS\inf\unregmp2.exe,-9905
+@C:\WINDOWS\system32\SHELL32.dll,-22978
+@C:\WINDOWS\system32\netshell.dll,-1300
+@C:\WINDOWS\System32\cdfview.dll,-4610
+@C:\WINDOWS\System32\cryptext.dll,-6108
+@C:\Program Files\NetMeeting\conf.exe,-12346
+@C:\WINDOWS\System32\cryptext.dll,-6110
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-209
+@C:\WINDOWS\inf\unregmp2.exe,-9927
+@C:\WINDOWS\system32\shimgvw.dll,-301
+@C:\WINDOWS\system32\shimgvw.dll,-302
+@C:\WINDOWS\System32\ntbackup.exe,-40
+@C:\WINDOWS\System32\pdh.dll,-10023
+@C:\WINDOWS\inf\unregmp2.exe,-9902
+@C:\WINDOWS\inf\unregmp2.exe,-9926
+@C:\WINDOWS\inf\unregmp2.exe,-9907
+@C:\WINDOWS\inf\unregmp2.exe,-9925
+@C:\WINDOWS\system32\mmcbase.dll,-130(
+@C:\WINDOWS\System32\msi.dll,-34
+@C:\WINDOWS\System32\msi.dll,-35
+@C:\WINDOWS\System32\RCBdyctl.dll,-150
+@C:\Program Files\Movie Maker\wmm2res.dll,-63097
+@C:\Program Files\NetMeeting\nmwb.dll,-1234
+@C:\WINDOWS\system32\shimgvw.dll,-304
+@C:\WINDOWS\inf\unregmp2.exe,-9918
+@C:\Program Files\NetMeeting\conf.exe,-12347
+@C:\Program Files\Internet Explorer\Connection Wizard\icwres.dll,-20003
+@C:\WINDOWS\system32\shimgvw.dll,-303
+@C:\WINDOWS\System32\wshext.dll,-4804
+@C:\WINDOWS\System32\wshext.dll,-4805
+C:\WINDOWS\winhlp32.exe
+@C:\WINDOWS\system32\SHELL32.dll,-9216
+@C:\WINDOWS\system32\SHELL32.dll,-9217
+@C:\WINDOWS\system32\SHELL32.dll,-9227
+@C:\WINDOWS\system32\SHELL32.dll,-8964
+C:\WINDOWS\system32\NOTEPAD.EXE
+@C:\WINDOWS\system32\compatUI.dll,-115
+@C:\WINDOWS\system32\tourstart.exe,-1
+C:\WINDOWS\Help\Tours\mmTour\tour.exe
+C:\Program Files\Internet Explorer\iexplore.exe
+@C:\WINDOWS\system32\xpsp1res.dll,-10077
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\netshell.dll,-1200
+@C:\WINDOWS\System32\xpsp2res.dll,-16201
+@C:\WINDOWS\system32\hnetwiz.dll,-3085
+@C:\WINDOWS\system32\netshell.dll,-1010
+@C:\WINDOWS\system32\usmt\migwiz.exe,-202
+@C:\WINDOWS\System32\xpsp2res.dll,-6103
+@C:\WINDOWS\system32\restore\rstrui.exe,-2048
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\WINDOWS\system32\mshearts.exe,-413
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\WINDOWS\system32\spider.exe,-56
+@C:\Program Files\Internet Explorer\iexplore.exe,-702
+C:\WINDOWS\system32\VBoxTray.exe
+C:\Program Files\Messenger\msmsgs.exe
+@C:\WINDOWS\System32\setupapi.dll,-2000
+C:\WINDOWS\system32\tourstart.exe
+@C:\WINDOWS\system32\SHELL32.dll,-9319
+@C:\WINDOWS\PCHealth\HelpCtr\Binaries\msinfo.dll,-391
+@C:\WINDOWS\System32\cryptext.dll,-6111
+@C:\WINDOWS\System32\cryptext.dll,-6113
+@C:\WINDOWS\system32\shimgvw.dll,-305`
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-190
+@C:\WINDOWS\System32\scrobj.dll,-8192
+@C:\WINDOWS\system32\shscrap.dll,-258
+@C:\WINDOWS\System32\cryptext.dll,-6112
+@C:\WINDOWS\System32\cryptext.dll,-6109
+R@C:\WINDOWS\system32\shimgvw.dll,-306a
+C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+@C:\WINDOWS\System32\wshext.dll,-4803WIN
+%@C:\WINDOWS\System32\wshext.dll,-48023
+MV@C:\WINDOWS\inf\unregmp2.exe,-990832.dll
+ln@C:\WINDOWS\inf\unregmp2.exe,-9911l
+@C:\WINDOWS\inf\unregmp2.exe,-9912
+c@C:\WINDOWS\inf\unregmp2.exe,-9920tem32\
+e@C:\WINDOWS\system32\shimgvw.dll,-307nk
+@C:\WINDOWS\inf\unregmp2.exe,-991522069
+@C:\WINDOWS\inf\unregmp2.exe,-9914
+A@C:\WINDOWS\inf\unregmp2.exe,-9916
+@C:\WINDOWS\inf\unregmp2.exe,-9923
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-208
+VX@C:\WINDOWS\System32\wshext.dll,-4801ll,
+e@C:\WINDOWS\System32\wshext.dll,-4800
+NK@C:\WINDOWS\inf\unregmp2.exe,-9913e
+@C:\WINDOWS\system32\msxml3r.dll,-1
+e@C:\WINDOWS\system32\msxml3r.dll,-2.
+%@C:\WINDOWS\system32\zipfldr.dll,-10195r
+C:\WINDOWS\System32\logon.scr
+C:\WINDOWS\system32\zipfldr.dll
+rC:\Documents and Settings\CyberDefenders\Desktop\test\DumpIt.exe
+@C:\WINDOWS\system32\SHELL32.dll,-30520
+C:\WINDOWS\Explorer.EXE
+C:\WINDOWS\Network Diagnostic\xpnetdiag.exe
+@C:\WINDOWS\system32\SHELL32.dll,-22914
+C:\Program Files\Oracle\VirtualBox Guest Additions\VBoxDrvInst.exe
+@C:\WINDOWS\system32\SHELL32.dll,-12695
+@C:\WINDOWS\system32\SHELL32.dll,-22913
+C:\WINDOWS\system32\taskmgr.exe
+@C:\WINDOWS\system32\SHELL32.dll,-31361
+@C:\WINDOWS\system32\SHELL32.dll,-22912
+@C:\WINDOWS\system32\SHELL32.dll,-12696
+@C:\WINDOWS\system32\SHELL32.dll,-8503
+@C:\WINDOWS\system32\mycomput.dll,-400
+@C:\WINDOWS\system32\notepad.exe,-469
+@C:\WINDOWS\System32\cryptext.dll,-6145
+C:\Documents and Settings\CyberDefenders\Desktop\VirtualBox Guest Additions\VBoxTray.exe
+C:\WINDOWS\system32\mshta.exem
+C:\Documents and Settings\CyberDefenders\Desktop\VirtualBox Guest Additions\VBoxDrvInst.exe
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\system32\rcbdyctl.dll,-152
+@C:\WINDOWS\system32\compatUI.dll,-115
+@C:\WINDOWS\system32\tourstart.exe,-1
+@C:\WINDOWS\system32\xpsp1res.dll,-10077
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\netshell.dll,-1200
+@C:\WINDOWS\system32\hnetwiz.dll,-3085
+@C:\WINDOWS\system32\netshell.dll,-1010
+@C:\WINDOWS\System32\xpsp2res.dll,-16201
+@C:\WINDOWS\system32\usmt\migwiz.exe,-202
+@C:\WINDOWS\System32\xpsp2res.dll,-6103
+@C:\WINDOWS\system32\restore\rstrui.exe,-2048
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\WINDOWS\system32\mshearts.exe,-413
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\WINDOWS\system32\spider.exe,-56
+C:\Documents and Settings\CyberDefenders\Desktop\DumpIt-mirror-main\DumpIt-mirror-main\DumpIt.exe
+C:\Documents and Settings\CyberDefenders\Desktop\dumpit-moonsols\DumpIt.exe
+@C:\WINDOWS\system32\SHELL32.dll,-32517
+@C:\WINDOWS\system32\SHELL32.dll,-22985
+@C:\WINDOWS\system32\SHELL32.dll,-22981
+@C:\WINDOWS\system32\SHELL32.dll,-22982
+@C:\WINDOWS\system32\mstask.dll,-3408
+@C:\WINDOWS\system32\wiashext.dll,-331
+C:\Documents and Settings\CyberDefenders\Desktop\rootkit.exe
+2023-02-13	09:41:19-0800	1056	18c	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+2023-02-13	09:54:30-0800	1060	 bc	Successfully initialized local event logger. Events will be logged at C:\WINDOWS\SoftwareDistribution\ReportingEvents.log.
+Windows Movie Maker.lnk=@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+\DosDevices\C:
+C:\Documents and Settings\CyberDefenders\Desktop\Secret
+C:\Documents and Settings\CyberDefenders\Desktop\ImoprtantKey\Key.txt
+C:\Documents and Settings\CyberDefenders\Desktop\ImoprtantKey
+C:\Documents and Settings\CyberDefenders\Desktop\Secret
+@C:\WINDOWS\System32\wshext.dll,-4804
+C:\WINDOWS\Network Diagnostic\xpnetdiag.exe
+@C:\WINDOWS\inf\unregmp2.exe,-9914
+C:\WINDOWS\system32\tourstart.exe
+@C:\WINDOWS\inf\unregmp2.exe,-9910
+@C:\WINDOWS\System32\pdh.dll,-10023
+C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+@C:\Program Files\Internet Explorer\Connection Wizard\icwres.dll,-20003
+C:\Documents and Settings\CyberDefenders\Desktop\VirtualBox Guest Additions\VBoxTray.exe
+@C:\WINDOWS\system32\shscrap.dll,-258
+NK@C:\WINDOWS\inf\unregmp2.exe,-9913e
+@C:\WINDOWS\system32\xpsp1res.dll,-10077	
+@C:\WINDOWS\inf\unregmp2.exe,-9926
+@C:\WINDOWS\inf\unregmp2.exe,-9925
+@C:\WINDOWS\system32\wiashext.dll,-331
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dl
+@C:\WINDOWS\system32\shimgvw.dll,-305`
+C:\Documents and Settings\CyberDefenders\Desktop\rootkit.exe
+@C:\WINDOWS\inf\
+@C:\WINDOWS\system32\mycomput.dll,-400
+@C:\WINDOWS\inf\
+@C:\WINDOWS\syst
+MV@C:\WINDOWS\inf\unregmp2.exe,-990832.dllW
+@C:\Program Files\NetMeeting\conf.exe,-12345c
+@C:\WINDOWS\inf\unregmp2.exe,-9907
+@C:\WINDOWS\system32\msxml3r.dll,-1
+@C:\WINDOWS\inf\unregmp2.exe,-9923
+@C:\WINDOWS\system32\SHELL32.dll,-22985
+@C:\WINDOWS\system32\shimgvw.dll,-302
+@C:\WINDOWS\System32\cdfview.dll,-4610
+A@C:\WINDOWS\inf\unregmp2.exe,-9916
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+C:\WINDOWS\system32\NOTEPAD.EXE
+_OSC: SUPP=
+: :!:":#:$:%:&:':(:):*:+:,:-:.:/:0:1:2:3:4:5:6:7:8:9:::;:<:=:>:?:@:A:B:C:D:E:F:G:H:I:J:K:L:M:N:O:P:Q:R:S:T:U:V:W:X:Y:Z:[:\:]:^:_:`:a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z:{:|:}:~:
+C C!C"C#C$C%C&C'C(C)C*C+C,C-C.C/C0C1C2C3C4C5C6C7C8C9C:C;C<C=C>C?C@CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC[C\C]C^C_C`CaCbCcCdCeCfCgChCiCjCkClCmCnCoCpCqCrCsCtCuCvCwCxCyCzC{C|C}C~C
+@C:\WINDOWS\Syst
+StrgC:\WINDOWS
+@C:\WINDOWS\system32\SHELL32.dll,-9216
+@C:\WINDOWS\system32\mshearts.exe,-413
+C:\WINDOWS\system32\DRIVERS\ipnat.sys[IPNATMofResource]
+C:\WINDOWS\system32\DRIVERS\ACPI.sys[ACPIMOFResource]
+C:\Program Files\MSN Gaming Zone\Windows\zclientm.exe
+@C:\WINDOWS\system32\notepad.exe,-469
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\System32\RCBdyctl.dll,-150
+@C:\WINDOWS\system32\SHELL32.dll,-9319
+@C:\WINDOWS\system32\shimgvw.dll,-303
+@C:\WINDOWS\System32\wshext.dll,-4805
+@C:\WINDOWS\system32\netshell.dll,-1200
+@C:\WINDOWS\system32\SHELL32.dll,-31361
+@C:\WINDOWS\system32\restore\rstrui.exe,-2048
+nt@C:\WINDOWS\system32\rcbdyctl.dll,-152
+C:\WINDOWS\Explorer.EXE
+@C:\WINDOWS\System32\setupapi.dll,-2000
+@C:\WINDOWS\system32\SHELL32.dll,-22982
+@C:\WINDOWS\system32\SHELL32.dll,-9227
+@C:\WINDOWS\system32\SHELL32.dll,-12695
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-209
+R@C:\WINDOWS\system32\shimgvw.dll,-306a
+@C:\WINDOWS\system32\accwiz.exe,-16
+@C:\WINDOWS\System32\scrobj.dll,-8192
+%@C:\WINDOWS\System32\wshext.dll,-48023
+e@C:\WINDOWS\System32\wshext.dll,-4800
+@C:\WINDOWS\syst
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446	
+@C:\WINDOWS\PCHealth\HelpCtr\Binaries\msinfo.dll,-391
+C:\WINDOWS\Help\Tours\mmTour\tour.exe
+@C:\WINDOWS\inf\
+@C:\WINDOWS\system32\compatUI.dll,-115
+@C:\WINDOWS\system32\accwiz.exe,-16
+C:\WINDOWS\system32\DRIVERS\mssmbios.sys[MofResource]
+@C:\Program Files\Internet Explorer\iexplore.exe,-702
+@C:\WINDOWS\system32\mmcbase.dll,-130(
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\WINDOWS\inf\unregmp2.exe,-9902
+C:\WINDOWS\system32\mmc.exe
+@C:\WINDOWS\System32\cryptext.dll,-6108
+@C:\WINDOWS\system32\hnetwiz.dll,-3085
+C:\WINDOWS\system32\zipfldr.dll
+@C:\WINDOWS\system32\mstask.dll,-3408
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\WINDOWS\system32\spider.exe,-56
+@C:\WINDOWS\System32\cryptext.dll,-6145
+@C:\WINDOWS\system32\SHELL32.dll,-30520
+@C:\WINDOWS\System32\cryptext.dll,-6111
+@C:\WINDOWS\System32\xpsp2res.dll,-16201	
+C:\WINDOWS\system32\rundll32.exe
+@C:\WINDOWS\system32\SHELL32.dll,-32517
+C:\WINDOWS\System32\logon.scr
+@C:\Program Files\Movie Maker\wmm2res.dll,-63097W
+@C:\WINDOWS\system32\usmt\migwiz.exe,-202
+C:\Documents and Settings\CyberDefenders\Desktop\dumpit-moonsols\DumpIt.exe
+@C:\WINDOWS\inf\unregmp2.exe,-9903
+@C:\WINDOWS\inf\unregmp2.exe,-9909
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\WINDOWS\PCHealth\HelpCtr\Binaries\msinfo.dll,-391
+@C:\WINDOWS\System32\cryptext.dll,-6111
+@C:\WINDOWS\System32\cryptext.dll,-6113
+@C:\WINDOWS\system32\shimgvw.dll,-305`
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-190
+@C:\WINDOWS\System32\scrobj.dll,-8192
+@C:\WINDOWS\system32\shscrap.dll,-258
+@C:\WINDOWS\System32\cryptext.dll,-6112
+@C:\WINDOWS\System32\cryptext.dll,-6109
+R@C:\WINDOWS\system32\shimgvw.dll,-306a
+C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+@C:\WINDOWS\System32\wshext.dll,-4803WIN
+%@C:\WINDOWS\System32\wshext.dll,-48023
+MV@C:\WINDOWS\inf\unregmp2.exe,-990832.dll
+ln@C:\WINDOWS\inf\unregmp2.exe,-9911l
+@C:\WINDOWS\inf\unregmp2.exe,-9912
+c@C:\WINDOWS\inf\unregmp2.exe,-9920tem32\
+e@C:\WINDOWS\system32\shimgvw.dll,-307nk
+@C:\WINDOWS\inf\unregmp2.exe,-991522069
+@C:\WINDOWS\inf\unregmp2.exe,-9914
+A@C:\WINDOWS\inf\unregmp2.exe,-9916
+@C:\WINDOWS\inf\unregmp2.exe,-9923
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-208
+VX@C:\WINDOWS\System32\wshext.dll,-4801ll,
+e@C:\WINDOWS\System32\wshext.dll,-4800
+NK@C:\WINDOWS\inf\unregmp2.exe,-9913e
+@C:\WINDOWS\system32\msxml3r.dll,-1
+e@C:\WINDOWS\system32\msxml3r.dll,-2.
+%@C:\WINDOWS\system32\zipfldr.dll,-10195r
+C:\WINDOWS\System32\logon.scr
+C:\WINDOWS\system32\zipfldr.dll
+rC:\Documents and Settings\CyberDefenders\Desktop\test\DumpIt.exe
+@C:\WINDOWS\system32\rcbdyctl.dll,-152
+@C:\WINDOWS\system32\compatUI.dll,-115
+@C:\WINDOWS\system32\tourstart.exe,-1
+@C:\WINDOWS\system32\xpsp1res.dll,-10077
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\WINDOWS\system32\netshell.dll,-1200
+@C:\WINDOWS\system32\hnetwiz.dll,-3085
+@C:\WINDOWS\system32\netshell.dll,-1010
+@C:\WINDOWS\System32\xpsp2res.dll,-16201
+@C:\WINDOWS\system32\usmt\migwiz.exe,-202
+@C:\WINDOWS\System32\xpsp2res.dll,-6103
+@C:\WINDOWS\system32\restore\rstrui.exe,-2048
+@C:\WINDOWS\system32\comres.dll,-661
+@C:\WINDOWS\system32\mshearts.exe,-413
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+@C:\WINDOWS\system32\spider.exe,-56
+C:\WINDOWS\System32\Drivers\battc.sys[BATTCWMI]
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446
+C:\Program Files\Internet Explorer\iexplore.exe
+@C:\WINDOWS\system32\shimgvw.dll,-301
+@C:\WINDOWS\system32\tourstart.exe,-1
+nt@C:\WINDOWS\system32\rcbdyctl.dll,-152
+@C:\WINDOWS\System32\cryptext.dll,-6113
+c@C:\WINDOWS\inf\unregmp2.exe,-9920tem32\W
+@C:\WINDOWS\System32\xpsp2res.dll,-6103
+@C:\WINDOWS\inf\unregmp2.exe,-991522069
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-208
+@C:\WINDOWS\system32\netshell.dll,-1300
+@C:\WINDOWS\system32\SHELL32.dll,-22914
+@C:\WINDOWS\system32\SHELL32.dll,-9217
+@C:\WINDOWS\System32\cryptext.dll,-6112
+C:\WINDOWS\winhlp32.exe
+@C:\WINDOWS\system32\SHELL32.dll,-22913
+@C:\WINDOWS\system32\SHELL32.dll,-8503
+@C:\WINDOWS\inf\unregmp2.exe,-9905
+@C:\WINDOWS\system32\SHELL32.dll,-12696
+@C:\WINDOWS\system32\SHELL32.dll,-22981
+@C:\WINDOWS\inf\unregmp2.exe,-9912
+@C:\WINDOWS\system32\netshell.dll,-1010
+@C:\WINDOWS\System32\ntbackup.exe,-40
+C:\Documents and Settings\CyberDefenders\Desktop\DumpIt-mirror-main\DumpIt-mirror-main\DumpIt.exe
+C:\Documents and Settings\CyberDefenders\Desktop\dumpit-moonsols\DumpIt.exe
+@C:\WINDOWS\System32\xpsp2res.dll,-6103
+C:\WINDOWS\system32\mshta.exem
+@C:\WINDOWS\inf\unregmp2.exe,-9918
+C:\WINDOWS\system32\advapi32.dll[MofResourceName]
+@C:\WINDOWS\system32\SHELL32.dll,-9217
+@C:\WINDOWS\system32\SHELL32.dll,-22978
+e@C:\WINDOWS\system32\shimgvw.dll,-307nk
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+@C:\Program Files\NetMeeting\nmwb.dll,-1234
+C:\WINDOWS\system32\drivers\ac97intc.sys[MofResourceName]
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+@C:\WINDOWS\inf\unregmp2.exe,-9904
+@"C:\Program Files\Windows NT\Accessories\WORDPAD.EXE",-190
+ln@C:\WINDOWS\inf\unregmp2.exe,-9911l
+@C:\WINDOWS\system32\SHELL32.dll,-8964
+@C:\WINDOWS\inf\unregmp2.exe,-9923
+rC:\Documents and Settings\CyberDefenders\Desktop\test\DumpIt.exe
+@C:\PROGRA~1\MOVIEM~1\wmm2res.dll,-61446	
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,
+C:\Program Files\Messenger\msmsgs.exe
+e@C:\WINDOWS\system32\msxml3r.dll,-2.
+@C:\WINDOWS\system32\en-US\MSTSCE~1.MUI,-4000
+NDC:\Program Files\Common Files\Microsoft Shared\Speech\sapi.cplTR
+@C:\WINDOWS\system32\shimgvw.dll,-304
+%@C:\WINDOWS\system32\zipfldr.dll,-10195rC
+@C:\WINDOWS\System32\cryptext.dll,-6109
+@C:\PROGRA~1\MSNGAM~1\Windows\shvlres.dll,-1212
+C:\WINDOWS\system32\VBoxTray.exe
+@C:\PROGRA~1\MSNGAM~1\Windows\rvseres.dll,-1212
+C:\WINDOWS\System32\Drivers\HTTP.sys[UlMofResource]
+@C:\PROGRA~1\MSNGAM~1\Windows\bckgres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\chkrres.dll,-1212
+@C:\PROGRA~1\MSNGAM~1\Windows\hrtzres.dll,-1212
+C:\Documents and Settings\CyberDefenders\Desktop\VirtualBox Guest Additions\VBoxDrvInst.exe
+C:\WINDOWS\system32\taskmgr.exe
+@C:\Program Files\NetMeeting\conf.exe,-12346
+@C:\WINDOWS\system32\SHELL32.dll,-22912
+@C:\WINDOWS\inf\unregmp2.exe,-9927
+@C:\WINDOWS\System32\msi.dll,-35W
+@C:\WINDOWS\System32\msi.dll,-34W
+@C:\WINDOWS\System32\cryptext.dll,-6110
+@C:\WINDOWS\System32\wshext.dll,-4803WINV
+@C:\Program Files\NetMeeting\conf.exe,-12347
+C:\Program Files\Oracle\VirtualBox Guest Additions\VBoxDrvInst.exe
+VX@C:\WINDOWS\System32\wshext.dll,-4801ll,W
