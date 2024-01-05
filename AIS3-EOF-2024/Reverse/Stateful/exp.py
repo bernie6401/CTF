@@ -1,0 +1,26 @@
+ct = [ 0x26, 0x19, 0xCC, 0x33, 0xAA, 0x04, 0x14, 0xFE, 0xFC, 0x82, 
+  0x85, 0x75, 0x5F, 0x87, 0x82, 0x81, 0x1B, 0xAE, 0xD8, 0x90, 
+  0xDB, 0x51, 0x4C, 0xC0, 0x1A, 0x52, 0x5F, 0x2D, 0x37, 0x41, 
+  0x49, 0xD5, 0xAD, 0x65, 0x53, 0x24, 0xC3, 0x1A, 0x74, 0x80, 
+  0x33, 0xEC, 0x7D ]
+
+import angr
+import claripy
+
+# 建立一個project
+proj = angr.Project('./AIS3-EOF-2024/Reverse/Stateful/stateful.exe')
+
+# 建立Claripy Symbol
+sym_arg = claripy.BVS('sym_arg', 8 * 43) # 就像z3一樣要建立symbol
+
+# 建立初始的state
+state = proj.factory.entry_state(args=[proj.filename, sym_arg])
+simgr = proj.factory.simulation_manager(state)
+
+# 有了proj/symbol/initial state之後就要開始讓他跑起來
+simgr.explore(find = lambda s: b'Correct!!!' in  s.posix.dumps(1))
+
+if len(simgr.found) > 0:
+    print(simgr.found[0].solver.eval(sym_arg, cast_to=bytes))
+else:
+    print("NONONONO")
