@@ -8,8 +8,8 @@ import angr
 import claripy
 
 # 建立一個project
-proj = angr.Project('./AIS3-EOF-2024/Reverse/Stateful/stateful.exe')
-
+# proj = angr.Project('./AIS3-EOF-2024/Reverse/Stateful/stateful.exe')
+proj = angr.Project('./stateful.exe')
 # 建立Claripy Symbol
 sym_arg = claripy.BVS('sym_arg', 8 * 43) # 就像z3一樣要建立symbol
 
