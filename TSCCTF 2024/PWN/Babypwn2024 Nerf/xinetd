@@ -1,0 +1,13 @@
+service babypwn2024-nerf
+{
+    disable = no
+    type = UNLISTED
+    socket_type = stream
+    protocol = tcp
+    server = /home/babypwn2024-nerf/run.sh
+    user = babypwn2024-nerf
+    port = 13377
+    flags = REUSE
+    bind = 0.0.0.0
+    wait = no
+}

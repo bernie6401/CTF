@@ -1,0 +1,13 @@
+service ret2win
+{
+    disable = no
+    type = UNLISTED
+    socket_type = stream
+    protocol = tcp
+    server = /home/ret2win/run.sh
+    user = ret2win
+    port = 50001
+    flags = REUSE
+    bind = 0.0.0.0
+    wait = no
+}

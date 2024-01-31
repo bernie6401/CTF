@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  ret2win:
+    build: ./
+    volumes:
+      - ./share:/home/ret2win:ro
+      - ./xinetd:/etc/xinetd.d/ret2win:ro
+    ports:
+      - "50001:50001"
+    expose:
+      - "50001"

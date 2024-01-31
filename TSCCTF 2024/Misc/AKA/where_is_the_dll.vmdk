@@ -1,0 +1,20 @@
+# Disk DescriptorFile
+version=1
+encoding="Big5"
+CID=1e6f602c
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 2097152 SPARSE "where_is_the_dll-s001.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "512"
+ddb.geometry.heads = "128"
+ddb.geometry.sectors = "32"
+ddb.longContentID = "52e20479ca184c94dcbab60f1e6f602c"
+ddb.uuid = "60 00 C2 96 3b 80 40 a4-92 4d 12 d0 b5 25 c2 a7"
+ddb.virtualHWVersion = "16"

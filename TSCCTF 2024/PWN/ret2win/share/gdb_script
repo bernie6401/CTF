@@ -1,0 +1,5 @@
+peda
+gef
+b main
+r
+vmmap

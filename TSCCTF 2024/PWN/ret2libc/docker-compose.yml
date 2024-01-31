@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  ret2libc:
+    build: ./
+    volumes:
+      - ./share:/home/ret2libc:ro
+      - ./xinetd:/etc/xinetd.d/ret2libc:ro
+    ports:
+      - "50002:50002"
+    expose:
+      - "50002"

@@ -1,0 +1,6 @@
+set environment LD_PRELOAD ./libc.so.6
+peda
+gef
+b main
+r
+vmmap
