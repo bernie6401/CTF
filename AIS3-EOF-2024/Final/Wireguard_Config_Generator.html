@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./Wireguard Config Generator_files/bulma.min.css">
+  <title>Wireguard Config Generator</title>
+</head>
+
+<body>
+  <section class="section">
+    <div id="app" class="container"><div class="columns"><div class="column"><h2 class="title">Wireguard Config Generator</h2>
+          This page intends to generate a config that can be saved to a server, which allows for all client config to be regenerated/updated from the servers config as required. The config is a very basic tunnel, where each client can only access the servers IP, and no routing/masquerading is allowed (ideal for single server remote access).
+          <div class="buttons"><button class="button is-primary">Generate</button> <button class="button is-warning">Import Server Config</button></div> <article class="panel"><table class="table"><tbody><tr><td>Server: <input></td> <td>Port: <input></td></tr> <tr><td>Net: <input size="4"> 1stIP: <input size="1"></td> <td>Clients: <input size="3"></td></tr> <tr><td>ServerPrivateKey: <input size="10"></td> <td>ServerPublicKey: <input size="10"></td></tr></tbody></table></article> <article class="panel"><p class="panel-heading">Server config 35.201.141.254:51820</p> <p class="panel-block"><code style="font-size: small;"><span>[Interface]<br>
+                Address = 172.16.0.1/24<br>
+                ListenPort = 51820<br>
+                PrivateKey = CAktauKDt4vnXrEfhJJ7m2m2xwnYyVawnHR1dp9zqEk=<br>
+                # PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                # Server = 35.201.141.254<br> <span>DNS = 8.8.8.8<br></span> <span><br>
+                  [Peer]<br>
+                  ## Client 2<br>
+                  AllowedIPs = 172.16.0.2/32<br>
+                  PublicKey = r2mNR9FhRuP6SHC2cP/cAZVp8Iwq+5i1WVJFGms2eEA=<br>
+                  # PrivateKey = EPp975m/Jn3lCbD20a0rZ3ZCbQOBJsrHGusBJB2b/W0=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 3<br>
+                  AllowedIPs = 172.16.0.3/32<br>
+                  PublicKey = j/Bjuqd2dDaWEII2SHLGfzxvJ6qxL88uN0l5dntJ+yI=<br>
+                  # PrivateKey = uAcbrZmU1aATox8clD9e2WWUWueOcKXe8m965ctykGs=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 4<br>
+                  AllowedIPs = 172.16.0.4/32<br>
+                  PublicKey = j0LM6EzxYFDFhvtL4IqXIBZSpftHsM+52PMdq0ZvC3U=<br>
+                  # PrivateKey = kGZTLh8y8VrfA7/NDmLTJfgpw9EQqWKPaQAr/JX7G2Y=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 5<br>
+                  AllowedIPs = 172.16.0.5/32<br>
+                  PublicKey = WIFwyLPVDEO4HhMh2Jjnkb4tKVybr0LvQh8cz8ROHi0=<br>
+                  # PrivateKey = QJW9viSG6sxEv0L4DQgjW/axxB3F5YfQ7cU0vbcFwmI=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 6<br>
+                  AllowedIPs = 172.16.0.6/32<br>
+                  PublicKey = fbFoYitdw6gxoOE5E5s1rc72vxVKFpjmbDrLpyavSVg=<br>
+                  # PrivateKey = 8MOMB0bmZQskVX6R5OnUs4cdRiG7jvYDxZQF+4WhKEU=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 7<br>
+                  AllowedIPs = 172.16.0.7/32<br>
+                  PublicKey = wCREPLxA6Zlnw5PY9wzTUgL2Ksc52F9sLWhzQIZb/kM=<br>
+                  # PrivateKey = 8GhvbkTdItijnOyZCPwu+Bkcuk1YMb5WlY0pY9sYBWk=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 8<br>
+                  AllowedIPs = 172.16.0.8/32<br>
+                  PublicKey = WZo0sJ3mv154p64HizANidzWLhemZG9NjbHxzIJM2Dk=<br>
+                  # PrivateKey = eBFPVTVfIvxyeErQtkYeLxUJotFMMyw+W3y6I3U04VA=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 9<br>
+                  AllowedIPs = 172.16.0.9/32<br>
+                  PublicKey = HxFkdL9PbchyNusIrwN8aCy3RkPNrgR9hNpZZGhTHgQ=<br>
+                  # PrivateKey = +BS1w3MshsONDZKtfcpVUposXsOHKzchkLbMSTITFHc=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 10<br>
+                  AllowedIPs = 172.16.0.10/32<br>
+                  PublicKey = Rc2pRa1G5FnNRtrwMeRs5PEG7RhoJnu0/uu1jN0rcwg=<br>
+                  # PrivateKey = kCqMWRaxWEa4DS4vQwghwLca3s7yyGYs9pN9A0GvOkU=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 11<br>
+                  AllowedIPs = 172.16.0.11/32<br>
+                  PublicKey = CrEd0l/qLDgIzrsRJdjHVp7LhDgonTUSru0nnubKAmg=<br>
+                  # PrivateKey = wLGy+LkbTDhD47IPHNBARj8IoTiJs15Dw72q1X4PxmI=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 12<br>
+                  AllowedIPs = 172.16.0.12/32<br>
+                  PublicKey = 5ocmPsCb/TKU9SAUvSpKjH5aRhMNg3/ITK8rk3GF5xw=<br>
+                  # PrivateKey = GLTGoBEP/Y4DFA4Ea3kVTqOyQuu6lHSiH8y5BlCkkHY=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 13<br>
+                  AllowedIPs = 172.16.0.13/32<br>
+                  PublicKey = zpFsUXTFyu8GkwsKo5UWkn5nP8soiKED/sw0mM+2y1U=<br>
+                  # PrivateKey = mNF19ssz1vFtaBmIyhzh48XJd2SB8WI5hdzzcRLFIHg=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 14<br>
+                  AllowedIPs = 172.16.0.14/32<br>
+                  PublicKey = 6uBsviibhCB4+q95pS7fSDMyvOApBOajz8KnhOvPFH8=<br>
+                  # PrivateKey = eDKfLc7ZBj1EugWFU6wRb4YGPVYYCEPhF2GA18KW0FM=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 15<br>
+                  AllowedIPs = 172.16.0.15/32<br>
+                  PublicKey = WKtdYBRGbEvihFvJH6LsnNzoZz8ed5KW0cha7EGZnzs=<br>
+                  # PrivateKey = 4Ew3ht8jlq0jZk1yDS4fUmjZD7qgg2kXaflnRf9hz18=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 16<br>
+                  AllowedIPs = 172.16.0.16/32<br>
+                  PublicKey = 7D0uoyfawT+xPyywTw3n288iEBSQADc4AUmfPZWbthg=<br>
+                  # PrivateKey = mNASZnhpCDUYN2lzgOLiTdlT5ELwr0DXjI7VVSTuR34=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 17<br>
+                  AllowedIPs = 172.16.0.17/32<br>
+                  PublicKey = 7ZATZ6EHk01IHl34xabZAms/1UUzoM2W5VlmDRUN210=<br>
+                  # PrivateKey = QEYY208NpHIJCcioP8MgqHu9t6/8PgK4t9LCUwj9n0k=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 18<br>
+                  AllowedIPs = 172.16.0.18/32<br>
+                  PublicKey = n+kyTGC0RW81dDztQViiP3E7NLWLeV5GjsQOeS3ungQ=<br>
+                  # PrivateKey = +EeL4U7D/dyV/xLA47iYhWblglO7TdhFRT8lK9YpdHI=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 19<br>
+                  AllowedIPs = 172.16.0.19/32<br>
+                  PublicKey = ZHFTU8duwKcdLHX/ZIrccZxvqTT1aTtdTpgNufiP2nk=<br>
+                  # PrivateKey = SCkRqTAcLqxxqxI03vF0PfTFnMqZod4VSu5K6laFUlY=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 20<br>
+                  AllowedIPs = 172.16.0.20/32<br>
+                  PublicKey = Vyav2D3+LVFBsBgSPER2D96mUNzHshZVnykYv68KIDw=<br>
+                  # PrivateKey = YJWlnfB5E7hzORJJBROCCG+T55EcBo9DPPjDInaINnQ=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 21<br>
+                  AllowedIPs = 172.16.0.21/32<br>
+                  PublicKey = RhxJmDACOPPlh7chsZpYqZCJh/6IskEzUsCHcC083Hk=<br>
+                  # PrivateKey = QG4ZKVyS09mXzcPEUfbyRShyCDe62pczi+uOPvtUO08=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 22<br>
+                  AllowedIPs = 172.16.0.22/32<br>
+                  PublicKey = iFNG0/gekXUNK/tzZhyDlpJZt3NcPW8vxDiiXQV4K0o=<br>
+                  # PrivateKey = KKw+Y6OMbrCMkiWilXVxQZKWLnPFZS/fjh19Wl1Cs14=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 23<br>
+                  AllowedIPs = 172.16.0.23/32<br>
+                  PublicKey = v9Hn3RsMNeFFFXhkissaJwEFEMnOWvgG81i9co8Zv3c=<br>
+                  # PrivateKey = gI36O+imjjyQXoVn23Ahhwzh07siNcYU0nR0iwPdLVw=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 24<br>
+                  AllowedIPs = 172.16.0.24/32<br>
+                  PublicKey = ECDdBFOsVQFYSd+L5vsTRJm3Py03YktcR18t9v6GLHQ=<br>
+                  # PrivateKey = yK3VuqogPTg74bnoYcJxxXtKQP9aq7CwRELwYbQKkEQ=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 25<br>
+                  AllowedIPs = 172.16.0.25/32<br>
+                  PublicKey = Bq9Xpi5Q/bpfg6j50lDoo9IAEEf/Z608jtaOTaeEtTA=<br>
+                  # PrivateKey = GMGJkxIte2FSfAQ6zyg5Nw+cQGBklopcyUuW1PFr/Eo=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 26<br>
+                  AllowedIPs = 172.16.0.26/32<br>
+                  PublicKey = jweRQG2aWmNxYoZaBTZWnVdhhp+2XyQa1okmNLVxIDc=<br>
+                  # PrivateKey = 0Ed4nzDaWrfKSto6rUpASHnI4DmsoGT4xyQEGFdR3Vs=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 27<br>
+                  AllowedIPs = 172.16.0.27/32<br>
+                  PublicKey = fDq5LNAvy4FeNx04DdU/hItjKtGmJPXyTxfSiVYr+XE=<br>
+                  # PrivateKey = mBr/n09XoVyjpdEt3Li4bZReXucG9KPvQ5gSVKi160M=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 28<br>
+                  AllowedIPs = 172.16.0.28/32<br>
+                  PublicKey = uGe27gsYF3oHPC2zdn0tMYNJCLO7poTpCgNSwedo+HI=<br>
+                  # PrivateKey = 4OOdezkA2P4YbcIW29/TBTPSkmORPMkD5tp1hLd/VVg=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 29<br>
+                  AllowedIPs = 172.16.0.29/32<br>
+                  PublicKey = vKM4JIvpHZjZWYoAj9pjvvsJsLitKmv4Z1phicDQzi4=<br>
+                  # PrivateKey = 0FIURHMyMJ8ANUE526JZk+WBgqHqzKTYjoDiALixpng=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 30<br>
+                  AllowedIPs = 172.16.0.30/32<br>
+                  PublicKey = dCeQHp8Nf9YZcNkoDaT1l0US/iCq+dbSSpNyPKYCnQ8=<br>
+                  # PrivateKey = iIAJKwiEYzBjlUMmR3yyKjE+xwRTzZsmxuNaoUdngXI=<br></span><span><br>
+                  [Peer]<br>
+                  ## Client 31<br>
+                  AllowedIPs = 172.16.0.31/32<br>
+                  PublicKey = rAaMWJFkpOMw9ipy/otKXzAXQeULwz0BU7PfaRqJkVU=<br>
+                  # PrivateKey = SA61fXqdmJU1vs+PCPOTR63h9L0Mt/8JjerYlUVqb30=<br></span></span></code></p></article></div> <div class="column"><article class="panel"><p class="panel-heading">Client configs (first ip: 172.16.0.2, count: 30)</p> <div class="panel-block"><canvas id="canvas2" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code2" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 2<br>
+                Address = 172.16.0.2/24<br>
+                PrivateKey = EPp975m/Jn3lCbD20a0rZ3ZCbQOBJsrHGusBJB2b/W0=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas3" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code3" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 3<br>
+                Address = 172.16.0.3/24<br>
+                PrivateKey = uAcbrZmU1aATox8clD9e2WWUWueOcKXe8m965ctykGs=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas4" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code4" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 4<br>
+                Address = 172.16.0.4/24<br>
+                PrivateKey = kGZTLh8y8VrfA7/NDmLTJfgpw9EQqWKPaQAr/JX7G2Y=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas5" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code5" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 5<br>
+                Address = 172.16.0.5/24<br>
+                PrivateKey = QJW9viSG6sxEv0L4DQgjW/axxB3F5YfQ7cU0vbcFwmI=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas6" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code6" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 6<br>
+                Address = 172.16.0.6/24<br>
+                PrivateKey = 8MOMB0bmZQskVX6R5OnUs4cdRiG7jvYDxZQF+4WhKEU=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas7" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code7" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 7<br>
+                Address = 172.16.0.7/24<br>
+                PrivateKey = 8GhvbkTdItijnOyZCPwu+Bkcuk1YMb5WlY0pY9sYBWk=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas8" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code8" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 8<br>
+                Address = 172.16.0.8/24<br>
+                PrivateKey = eBFPVTVfIvxyeErQtkYeLxUJotFMMyw+W3y6I3U04VA=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas9" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code9" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 9<br>
+                Address = 172.16.0.9/24<br>
+                PrivateKey = +BS1w3MshsONDZKtfcpVUposXsOHKzchkLbMSTITFHc=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas10" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code10" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 10<br>
+                Address = 172.16.0.10/24<br>
+                PrivateKey = kCqMWRaxWEa4DS4vQwghwLca3s7yyGYs9pN9A0GvOkU=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas11" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code11" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 11<br>
+                Address = 172.16.0.11/24<br>
+                PrivateKey = wLGy+LkbTDhD47IPHNBARj8IoTiJs15Dw72q1X4PxmI=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas12" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code12" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 12<br>
+                Address = 172.16.0.12/24<br>
+                PrivateKey = GLTGoBEP/Y4DFA4Ea3kVTqOyQuu6lHSiH8y5BlCkkHY=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas13" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code13" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 13<br>
+                Address = 172.16.0.13/24<br>
+                PrivateKey = mNF19ssz1vFtaBmIyhzh48XJd2SB8WI5hdzzcRLFIHg=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas14" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code14" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 14<br>
+                Address = 172.16.0.14/24<br>
+                PrivateKey = eDKfLc7ZBj1EugWFU6wRb4YGPVYYCEPhF2GA18KW0FM=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas15" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code15" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 15<br>
+                Address = 172.16.0.15/24<br>
+                PrivateKey = 4Ew3ht8jlq0jZk1yDS4fUmjZD7qgg2kXaflnRf9hz18=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas16" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code16" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 16<br>
+                Address = 172.16.0.16/24<br>
+                PrivateKey = mNASZnhpCDUYN2lzgOLiTdlT5ELwr0DXjI7VVSTuR34=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas17" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code17" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 17<br>
+                Address = 172.16.0.17/24<br>
+                PrivateKey = QEYY208NpHIJCcioP8MgqHu9t6/8PgK4t9LCUwj9n0k=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas18" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code18" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 18<br>
+                Address = 172.16.0.18/24<br>
+                PrivateKey = +EeL4U7D/dyV/xLA47iYhWblglO7TdhFRT8lK9YpdHI=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas19" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code19" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 19<br>
+                Address = 172.16.0.19/24<br>
+                PrivateKey = SCkRqTAcLqxxqxI03vF0PfTFnMqZod4VSu5K6laFUlY=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas20" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code20" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 20<br>
+                Address = 172.16.0.20/24<br>
+                PrivateKey = YJWlnfB5E7hzORJJBROCCG+T55EcBo9DPPjDInaINnQ=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas21" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code21" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 21<br>
+                Address = 172.16.0.21/24<br>
+                PrivateKey = QG4ZKVyS09mXzcPEUfbyRShyCDe62pczi+uOPvtUO08=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas22" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code22" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 22<br>
+                Address = 172.16.0.22/24<br>
+                PrivateKey = KKw+Y6OMbrCMkiWilXVxQZKWLnPFZS/fjh19Wl1Cs14=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas23" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code23" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 23<br>
+                Address = 172.16.0.23/24<br>
+                PrivateKey = gI36O+imjjyQXoVn23Ahhwzh07siNcYU0nR0iwPdLVw=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas24" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code24" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 24<br>
+                Address = 172.16.0.24/24<br>
+                PrivateKey = yK3VuqogPTg74bnoYcJxxXtKQP9aq7CwRELwYbQKkEQ=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas25" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code25" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 25<br>
+                Address = 172.16.0.25/24<br>
+                PrivateKey = GMGJkxIte2FSfAQ6zyg5Nw+cQGBklopcyUuW1PFr/Eo=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas26" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code26" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 26<br>
+                Address = 172.16.0.26/24<br>
+                PrivateKey = 0Ed4nzDaWrfKSto6rUpASHnI4DmsoGT4xyQEGFdR3Vs=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas27" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code27" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 27<br>
+                Address = 172.16.0.27/24<br>
+                PrivateKey = mBr/n09XoVyjpdEt3Li4bZReXucG9KPvQ5gSVKi160M=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas28" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code28" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 28<br>
+                Address = 172.16.0.28/24<br>
+                PrivateKey = 4OOdezkA2P4YbcIW29/TBTPSkmORPMkD5tp1hLd/VVg=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas29" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code29" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 29<br>
+                Address = 172.16.0.29/24<br>
+                PrivateKey = 0FIURHMyMJ8ANUE526JZk+WBgqHqzKTYjoDiALixpng=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas30" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code30" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 30<br>
+                Address = 172.16.0.30/24<br>
+                PrivateKey = iIAJKwiEYzBjlUMmR3yyKjE+xwRTzZsmxuNaoUdngXI=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div><div class="panel-block"><canvas id="canvas31" height="276" width="276" style="height: 276px; width: 276px;"></canvas> <div><input> <code id="code31" class="panel-block" style="font-size: small;"><span>[Interface]<br>
+                ## Client 31<br>
+                Address = 172.16.0.31/24<br>
+                PrivateKey = SA61fXqdmJU1vs+PCPOTR63h9L0Mt/8JjerYlUVqb30=<br>
+                [Peer]<br>
+                PublicKey = PwW6DpI4nL09OS3Mw1eMpEGYOauaOdIwfGuLNmMKqFA=<br>
+                AllowedIPs = 172.16.0.1/32<br>
+                Endpoint = 35.201.141.254:51820
+                </span></code></div></div></article></div></div> <div class="modal"><div class="modal-background"></div> <div class="modal-card"><header class="modal-card-head"><p class="modal-card-title">Import server config</p> <button aria-label="close" class="delete"></button></header> <section class="modal-card-body"><textarea id="textimport" placeholder="Paste server config here" class="textarea"></textarea></section> <footer class="modal-card-foot"><button class="button is-success">Import</button> <button class="button">Cancel</button></footer></div></div></div>
+  </section>
+  <script src="./Wireguard Config Generator_files/vue.js.download"></script>
+  <script src="./Wireguard Config Generator_files/qrcode.min.js.download"></script>
+  <script src="./Wireguard Config Generator_files/wireguard.js.download"></script>
+  <script>
+    new Vue({
+      el: "#app",
+      data() {
+        return {
+          server: "wireguard.fqdn",
+          port: 51820,
+          network: "172.17.172",
+          startip: 2,
+          clientcount: 1,
+          oldconfig: [],
+          clients: {},
+          modalactive: null,
+          serverkeys: wireguard.generateKeypair()
+        };
+      },
+      methods: {
+        select(event) {
+          r = document.createRange(); r.selectNode(event.target.closest("span"));
+          s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+        },
+        importconfig(event) {
+          var data = this;
+          var config = document.getElementById("textimport").value.split( /\n/ ) // split lines
+          config.map( line => line.trim() ) // cleanup whitespace
+          var section = null;
+          data.oldconfig = [];
+          config.forEach(line => {
+            if ( line.length ) {
+              if ( line.startsWith("[") ) { 
+                section = line;
+                if (section == "[Peer]") {
+                  data.oldconfig.push("");
+                  data.oldconfig.push(section);
+                } 
+              } else { 
+                var parts = line.split("=");
+                var key = parts.shift().trim();
+                var value = parts.join("=").trim();
+                switch (section + key) {
+                  case '[Interface]Address': data.network = value.split(".").slice(0,3).join("."); break;
+                  case '[Interface]ListenPort': data.port = value; break;
+                  case '[Interface]PrivateKey': data.serverkeys.privateKey = value; break;
+                  case '[Interface]# PublicKey': data.serverkeys.publicKey = value; break;
+                  case '[Interface]# Server': data.server = value; break;
+                  default:
+                    data.oldconfig.push(line)
+                    if (section + key == "[Peer]AllowedIPs") {
+                      var lastip = Math.floor(value.split(".").slice(-1)[0].split("/")[0])
+                      if (lastip + 1 > data.startip) {
+                        data.startip = lastip + 1;
+                      }
+                    }
+                } 
+              }
+            } 
+          })
+          data.modalactive = null;
+        },
+        updateclients(event) {
+          this.clients = this.makeclients;
+          var clients = this.clients;
+          setTimeout(function() {
+            for (client in clients) {
+              QRCode.toCanvas(document.getElementById('canvas' + client), document.getElementById('code' + client).innerText)
+            }
+          });
+        }
+      },
+      computed: {
+        makeclients() {
+          var c = {};
+          for (client in [...Array(Math.floor(this.clientcount)).keys()]) {
+            finaloctet = Math.floor(client) + Math.floor(this.startip);
+            c[finaloctet] = wireguard.generateKeypair();
+            c[finaloctet].name = "Client " + finaloctet;
+          }
+          return c
+        }
+      }
+    });
+  </script>
+
+
+
+</body></html>
