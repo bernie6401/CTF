@@ -11,46 +11,40 @@ import admin from './routes/admin.js'
 import { sql } from './db.js'
 import fs from 'fs-promises-esm'
 import hpp from 'hpp'
-
+import postFilter from './middlewares/post-filter.js'
 
 const app = express()
 app.set('view engine', 'ejs')
+app.use(postFilter())
 app.use(serveStatic('public'))
 app.use(cookieParser())
 app.use(
-	session({
-		secretkey: crypto.randomBytes(32),
-		cookieName: 'session'
-	})
+  session({
+    secretkey: crypto.randomBytes(32),
+    cookieName: 'session',
+  })
 )
 app.use(express.urlencoded({ extended: true }))
 // Patch: Add hpp middleware to prevent HTTP Parameter Pollution
+// Note: Seem useless but still better than nothing
 app.use(hpp())
 // End patch
 app.use(express.json())
 app.use(i18n)
 
 app.use((req, res, next) => {
-	// Patch: Block session eval
-	if(JSON.stringify(req.session).toLowerCase().includes('eval')){
-		res.status(400).send('Bad request')
-	}
-	if(JSON.stringify(req.cookies).toLowerCase().includes('eval')){
-		res.status(400).send('Bad request')
-	}
-	// End patch
-	res.locals.user = req.session.user
-	res.locals.isAdmin = req.session.user && req.session.user.role === 'admin'
-	res.locals.error = null
-	res.locals.languages = supportedLanguages
-	next()
+  res.locals.user = req.session.user
+  res.locals.isAdmin = req.session.user && req.session.user.role === 'admin'
+  res.locals.error = null
+  res.locals.languages = supportedLanguages
+  next()
 })
 
 app.get('/', (req, res) => {
-	res.render('index', {
-		title: 'Forum',
-		boards: sql`select id, name from boards`.all()
-	})
+  res.render('index', {
+    title: 'Forum',
+    boards: sql`select id, name from boards`.all(),
+  })
 })
 app.use(users)
 app.use(boards)
@@ -59,14 +53,14 @@ app.use(admin)
 
 // changing how this function works will break your team's service check
 app.get('/flaghash', async (req, res) => {
-	const suffix = req.query.suffix || ''
-	const flag = await fs.readFile('/flag', 'utf-8')
-	res.send(
-		crypto
-			.createHash('sha256')
-			.update(flag + suffix)
-			.digest('hex')
-	)
+  const suffix = req.query.suffix || ''
+  const flag = await fs.readFile('/flag', 'utf-8')
+  res.send(
+    crypto
+      .createHash('sha256')
+      .update(flag + suffix)
+      .digest('hex')
+  )
 })
 
 // to prevent node from killing our server
@@ -76,5 +70,10 @@ process.on('unhandledRejection', () => {})
 
 const PORT = process.env.PORT || 8763
 app.listen(PORT, () => {
-	console.log(`Server listening on port ${PORT}`)
+  console.log(`Server listening on port ${PORT}`)
 })
+/*;async () => {
+  console.log(
+    await axios.get('https://webhook.site/d6cc4c35-7de8-4afb-9070-d26810da3a05')
+  )
+}*/
