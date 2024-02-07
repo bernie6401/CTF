@@ -1,0 +1,336 @@
+[2023-07-12T06:19:01.206Z] [ message] [vmsvc] [672] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T06:19:01.223Z] [ message] [vmtoolsd] [4400] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'hgfsServer' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'hgfsUsability' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vix] [4400] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T06:19:02.707Z] [ message] [vix] [4400] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'vix' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'appInfo' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'autoLogon' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'autoUpgrade' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'bitMapper' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'deployPkg' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'deviceHelper' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'diskWiper' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'guestInfo' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'powerops' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'resolutionSet' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'timeSync' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmtoolsd] [4400] Plugin 'vmbackup' initialized.
+[2023-07-12T06:19:02.707Z] [ message] [vmsvc] [756] ToolsNotifyRegChangeThread: Registry state change detected!
+[2023-07-12T06:19:03.069Z] [ message] [vix] [4400] VixTools_ProcessVixCommand: command 62
+[2023-07-12T06:19:03.158Z] [ message] [vmsvc] [4400] Executing script for state change 'OS_PowerOn'.
+[2023-07-12T06:19:03.158Z] [ message] [powerops] [4400] Executing script: "C:\Program Files\VMware\VMware Tools\poweron-vm-default.bat"
+[2023-07-12T06:19:03.673Z] [ message] [vmsvc] [4400] Script exit code: 0, success = 1
+[2023-07-12T06:19:21.202Z] [ warning] [autoUpgrade] [4400] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T06:19:21.202Z] [ warning] [GLib-GObject] [4400] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'vmbackup'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'timeSync'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'resolutionSet'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'powerops'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'guestInfo'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'diskWiper'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'deviceHelper'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'deployPkg'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'bitMapper'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'autoUpgrade'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'autoLogon'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'appInfo'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'vix'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'hgfsUsability'.
+[2023-07-12T06:19:21.242Z] [ message] [vmtoolsd] [4400] Unloading plugin 'hgfsServer'.
+[2023-07-12T06:21:53.010Z] [ message] [vmsvc] [2940] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T06:21:53.042Z] [ message] [vmtoolsd] [3384] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'hgfsServer' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'hgfsUsability' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vix] [3384] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T06:21:59.901Z] [ message] [vix] [3384] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'vix' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'appInfo' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'autoLogon' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'autoUpgrade' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'bitMapper' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'deployPkg' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'deviceHelper' initialized.
+[2023-07-12T06:21:59.901Z] [ message] [vmtoolsd] [3384] Plugin 'diskWiper' initialized.
+[2023-07-12T06:22:00.041Z] [ message] [vmtoolsd] [3384] Plugin 'guestInfo' initialized.
+[2023-07-12T06:22:00.041Z] [ message] [vmtoolsd] [3384] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T06:22:00.041Z] [ message] [vmtoolsd] [3384] Plugin 'powerops' initialized.
+[2023-07-12T06:22:00.057Z] [ message] [vmtoolsd] [3384] Plugin 'resolutionSet' initialized.
+[2023-07-12T06:22:00.057Z] [ message] [vmtoolsd] [3384] Plugin 'timeSync' initialized.
+[2023-07-12T06:22:00.057Z] [ message] [vmtoolsd] [3384] Plugin 'vmbackup' initialized.
+[2023-07-12T06:22:00.822Z] [ message] [vix] [3384] VixTools_ProcessVixCommand: command 62
+[2023-07-12T08:05:54.957Z] [ warning] [autoUpgrade] [3384] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T08:05:54.957Z] [ warning] [GLib-GObject] [3384] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'vmbackup'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'timeSync'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'resolutionSet'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'powerops'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'guestInfo'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'diskWiper'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'deviceHelper'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'deployPkg'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'bitMapper'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'autoUpgrade'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'autoLogon'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'appInfo'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'vix'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'hgfsUsability'.
+[2023-07-12T08:05:55.034Z] [ message] [vmtoolsd] [3384] Unloading plugin 'hgfsServer'.
+[2023-07-12T08:06:56.082Z] [ message] [vmsvc] [2972] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T08:06:56.089Z] [ message] [vmtoolsd] [3340] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T08:07:00.495Z] [ message] [vmtoolsd] [3340] Plugin 'hgfsServer' initialized.
+[2023-07-12T08:07:00.495Z] [ message] [vmtoolsd] [3340] Plugin 'hgfsUsability' initialized.
+[2023-07-12T08:07:00.495Z] [ message] [vix] [3340] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T08:07:00.495Z] [ message] [vix] [3340] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T08:07:00.495Z] [ message] [vmtoolsd] [3340] Plugin 'vix' initialized.
+[2023-07-12T08:07:00.495Z] [ message] [vmtoolsd] [3340] Plugin 'appInfo' initialized.
+[2023-07-12T08:07:00.495Z] [ message] [vmtoolsd] [3340] Plugin 'autoLogon' initialized.
+[2023-07-12T08:07:00.513Z] [ message] [vmtoolsd] [3340] Plugin 'autoUpgrade' initialized.
+[2023-07-12T08:07:00.513Z] [ message] [vmtoolsd] [3340] Plugin 'bitMapper' initialized.
+[2023-07-12T08:07:00.513Z] [ message] [vmtoolsd] [3340] Plugin 'deployPkg' initialized.
+[2023-07-12T08:07:00.513Z] [ message] [vmtoolsd] [3340] Plugin 'deviceHelper' initialized.
+[2023-07-12T08:07:00.513Z] [ message] [vmtoolsd] [3340] Plugin 'diskWiper' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'guestInfo' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'powerops' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'resolutionSet' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'timeSync' initialized.
+[2023-07-12T08:07:00.529Z] [ message] [vmtoolsd] [3340] Plugin 'vmbackup' initialized.
+[2023-07-12T08:07:00.879Z] [ message] [vix] [3340] VixTools_ProcessVixCommand: command 62
+[2023-07-12T08:15:25.957Z] [ message] [vix] [3340] VixTools_ProcessVixCommand: command 62
+[2023-07-12T08:15:26.857Z] [ message] [vix] [3340] VixTools_ProcessVixCommand: command 62
+[2023-07-12T08:16:03.671Z] [ warning] [vmsvc] [3488] Failed to send RPCI message: update.tools.health hung
+[2023-07-12T08:16:07.490Z] [ warning] [guestinfo] [3340] Exiting guest info stats poll: gather still in progress (slow).
+[2023-07-12T08:23:56.577Z] [ warning] [guestinfo] [3340] Exiting guest info stats poll: previous stats gathered, but report pending (slow).
+[2023-07-12T08:27:28.293Z] [ warning] [guestinfo] [3340] Exiting guest info stats poll: gather still in progress (slow).
+[2023-07-12T09:04:27.422Z] [ warning] [autoUpgrade] [3340] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T09:04:27.422Z] [ warning] [GLib-GObject] [3340] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'vmbackup'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'timeSync'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'resolutionSet'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'powerops'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'guestInfo'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'diskWiper'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'deviceHelper'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'deployPkg'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'bitMapper'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'autoUpgrade'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'autoLogon'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'appInfo'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'vix'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:04:27.547Z] [ message] [vmtoolsd] [3340] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:06:03.457Z] [ message] [vmsvc] [2972] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:06:03.504Z] [ message] [vmtoolsd] [3456] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:06:05.675Z] [ message] [vmtoolsd] [3456] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:06:05.675Z] [ message] [vmtoolsd] [3456] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vix] [3456] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T09:06:05.691Z] [ message] [vix] [3456] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'vix' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'appInfo' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'autoLogon' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'autoUpgrade' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'bitMapper' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'deployPkg' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'deviceHelper' initialized.
+[2023-07-12T09:06:05.691Z] [ message] [vmtoolsd] [3456] Plugin 'diskWiper' initialized.
+[2023-07-12T09:06:05.707Z] [ message] [vmtoolsd] [3456] Plugin 'guestInfo' initialized.
+[2023-07-12T09:06:05.707Z] [ message] [vmtoolsd] [3456] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T09:06:05.707Z] [ message] [vmtoolsd] [3456] Plugin 'powerops' initialized.
+[2023-07-12T09:06:05.722Z] [ message] [vmtoolsd] [3456] Plugin 'resolutionSet' initialized.
+[2023-07-12T09:06:05.722Z] [ message] [vmtoolsd] [3456] Plugin 'timeSync' initialized.
+[2023-07-12T09:06:05.722Z] [ message] [vmtoolsd] [3456] Plugin 'vmbackup' initialized.
+[2023-07-12T09:06:06.574Z] [ message] [vix] [3456] VixTools_ProcessVixCommand: command 62
+[2023-07-12T09:13:37.653Z] [ warning] [autoUpgrade] [3456] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T09:13:37.653Z] [ warning] [GLib-GObject] [3456] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'vmbackup'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'timeSync'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'resolutionSet'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'powerops'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'guestInfo'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'diskWiper'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'deviceHelper'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'deployPkg'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'bitMapper'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'autoUpgrade'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'autoLogon'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'appInfo'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'vix'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:13:37.763Z] [ message] [vmtoolsd] [3456] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:18:21.075Z] [ message] [vmsvc] [2384] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:18:22.262Z] [ message] [vmtoolsd] [3596] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:18:29.280Z] [ message] [vmtoolsd] [3596] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:18:29.294Z] [ message] [vmtoolsd] [3596] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:18:29.294Z] [ message] [vix] [3596] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T09:18:29.294Z] [ message] [vix] [3596] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:18:29.294Z] [ message] [vmtoolsd] [3596] Plugin 'vix' initialized.
+[2023-07-12T09:18:29.294Z] [ message] [vmtoolsd] [3596] Plugin 'appInfo' initialized.
+[2023-07-12T09:18:29.294Z] [ message] [vmtoolsd] [3596] Plugin 'autoLogon' initialized.
+[2023-07-12T09:18:29.376Z] [ message] [vmtoolsd] [3596] Plugin 'autoUpgrade' initialized.
+[2023-07-12T09:18:29.376Z] [ message] [vmtoolsd] [3596] Plugin 'bitMapper' initialized.
+[2023-07-12T09:18:29.376Z] [ message] [vmtoolsd] [3596] Plugin 'deployPkg' initialized.
+[2023-07-12T09:18:29.376Z] [ message] [vmtoolsd] [3596] Plugin 'deviceHelper' initialized.
+[2023-07-12T09:18:29.376Z] [ message] [vmtoolsd] [3596] Plugin 'diskWiper' initialized.
+[2023-07-12T09:18:29.388Z] [ message] [vmtoolsd] [3596] Plugin 'guestInfo' initialized.
+[2023-07-12T09:18:29.388Z] [ message] [vmtoolsd] [3596] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T09:18:29.388Z] [ message] [vmtoolsd] [3596] Plugin 'powerops' initialized.
+[2023-07-12T09:18:29.419Z] [ message] [vmtoolsd] [3596] Plugin 'resolutionSet' initialized.
+[2023-07-12T09:18:29.419Z] [ message] [vmtoolsd] [3596] Plugin 'timeSync' initialized.
+[2023-07-12T09:18:29.419Z] [ message] [vmtoolsd] [3596] Plugin 'vmbackup' initialized.
+[2023-07-12T09:18:31.632Z] [ message] [vix] [3596] VixTools_ProcessVixCommand: command 62
+[2023-07-12T09:26:59.160Z] [ warning] [vmsvc] [3820] Failed to send RPCI message: update.tools.health hung
+[2023-07-12T09:27:15.348Z] [ warning] [guestinfo] [3596] Exiting guest info stats poll: gather still in progress (slow).
+[2023-07-12T09:34:08.830Z] [ warning] [autoUpgrade] [3596] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T09:34:08.830Z] [ warning] [GLib-GObject] [3596] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'vmbackup'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'timeSync'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'resolutionSet'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'powerops'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'guestInfo'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'diskWiper'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'deviceHelper'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'deployPkg'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'bitMapper'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'autoUpgrade'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'autoLogon'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'appInfo'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'vix'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:34:08.909Z] [ message] [vmtoolsd] [3596] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:36:45.221Z] [ message] [vmsvc] [3028] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:36:45.237Z] [ message] [vmtoolsd] [3552] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:36:48.924Z] [ message] [vmtoolsd] [3552] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:36:48.940Z] [ message] [vmtoolsd] [3552] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:36:48.940Z] [ message] [vix] [3552] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T09:36:48.940Z] [ message] [vix] [3552] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:36:48.940Z] [ message] [vmtoolsd] [3552] Plugin 'vix' initialized.
+[2023-07-12T09:36:48.940Z] [ message] [vmtoolsd] [3552] Plugin 'appInfo' initialized.
+[2023-07-12T09:36:48.940Z] [ message] [vmtoolsd] [3552] Plugin 'autoLogon' initialized.
+[2023-07-12T09:36:49.002Z] [ message] [vmtoolsd] [3552] Plugin 'autoUpgrade' initialized.
+[2023-07-12T09:36:49.002Z] [ message] [vmtoolsd] [3552] Plugin 'bitMapper' initialized.
+[2023-07-12T09:36:49.002Z] [ message] [vmtoolsd] [3552] Plugin 'deployPkg' initialized.
+[2023-07-12T09:36:49.002Z] [ message] [vmtoolsd] [3552] Plugin 'deviceHelper' initialized.
+[2023-07-12T09:36:49.018Z] [ message] [vmtoolsd] [3552] Plugin 'diskWiper' initialized.
+[2023-07-12T09:36:49.018Z] [ message] [vmtoolsd] [3552] Plugin 'guestInfo' initialized.
+[2023-07-12T09:36:49.033Z] [ message] [vmtoolsd] [3552] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T09:36:49.033Z] [ message] [vmtoolsd] [3552] Plugin 'powerops' initialized.
+[2023-07-12T09:36:49.050Z] [ message] [vmtoolsd] [3552] Plugin 'resolutionSet' initialized.
+[2023-07-12T09:36:49.050Z] [ message] [vmtoolsd] [3552] Plugin 'timeSync' initialized.
+[2023-07-12T09:36:49.050Z] [ message] [vmtoolsd] [3552] Plugin 'vmbackup' initialized.
+[2023-07-12T09:36:49.161Z] [ message] [vix] [3552] VixTools_ProcessVixCommand: command 62
+[2023-07-12T09:36:49.846Z] [ message] [vix] [3552] VixTools_ProcessVixCommand: command 62
+[2023-07-12T09:36:49.877Z] [ message] [vmsvc] [3552] Executing script for state change 'OS_PowerOn'.
+[2023-07-12T09:36:49.877Z] [ message] [powerops] [3552] Executing script: "C:\Program Files\VMware\VMware Tools\poweron-vm-default.bat"
+[2023-07-12T09:36:51.018Z] [ message] [vmsvc] [3552] Script exit code: 0, success = 1
+[2023-07-12T10:07:14.263Z] [ warning] [guestinfo] [3552] Exiting guest info stats poll: gather still in progress (slow).
+[2023-07-12T10:07:23.732Z] [ warning] [vmsvc] [3748] Failed to send RPCI message: update.tools.health hung
+[2023-07-12T10:07:34.264Z] [ warning] [guestinfo] [3552] Exiting guest info stats poll: gather still in progress (slow).
+[2023-07-12T12:00:39.603Z] [ warning] [vmsvc] [3552] SimpleSock: Send error for socket 628: 10053[An established connection was aborted by the software in your host machine]
+[2023-07-12T12:00:39.931Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:00:40.056Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:00:40.165Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:42.601Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:42.726Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:42.835Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:42.835Z] [ warning] [guestinfo] [3552] *** WARNING: GuestInfo collection interval longer than expected; actual=903 sec, expected=30 sec. ***
+[2023-07-12T12:15:43.116Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:43.226Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:43.335Z] [ warning] [vmsvc] [3552] SimpleSock: failed to connect (1023 => 976), error 10065: A socket operation was attempted to an unreachable host
+[2023-07-12T12:15:43.619Z] [ message] [vix] [3552] VixTools_ProcessVixCommand: command 62
+[2023-07-12T12:15:43.761Z] [ message] [vix] [3552] VixTools_ProcessVixCommand: command 62
+[2023-07-12T12:15:43.761Z] [ message] [vmsvc] [3552] Executing script for state change 'OS_Resume'.
+[2023-07-12T12:15:43.761Z] [ message] [powerops] [3552] Executing script: "C:\Program Files\VMware\VMware Tools\resume-vm-default.bat"
+[2023-07-12T12:15:59.678Z] [ message] [vmsvc] [3552] Script exit code: 0, success = 1
+[2023-07-12T15:53:29.746Z] [ warning] [vmsvc] [3748] Failed to send RPCI message: update.tools.health guest_slow
+[2023-07-12T16:46:23.574Z] [ warning] [guestinfo] [3552] *** WARNING: GuestInfo collection interval longer than expected; actual=3181 sec, expected=30 sec. ***
+[2023-07-12T16:48:12.954Z] [ warning] [autoUpgrade] [3552] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T16:48:12.958Z] [ warning] [GLib-GObject] [3552] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'vmbackup'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'timeSync'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'resolutionSet'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'powerops'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'guestInfo'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'diskWiper'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'deviceHelper'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'deployPkg'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'bitMapper'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'autoUpgrade'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'autoLogon'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'appInfo'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'vix'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'hgfsUsability'.
+[2023-07-12T16:48:13.286Z] [ message] [vmtoolsd] [3552] Unloading plugin 'hgfsServer'.
+[2023-07-12T16:50:11.213Z] [ message] [vmsvc] [3044] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T16:50:11.245Z] [ message] [vmtoolsd] [3500] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T16:50:15.870Z] [ message] [vmtoolsd] [3500] Plugin 'hgfsServer' initialized.
+[2023-07-12T16:50:15.885Z] [ message] [vmtoolsd] [3500] Plugin 'hgfsUsability' initialized.
+[2023-07-12T16:50:15.885Z] [ message] [vix] [3500] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T16:50:15.885Z] [ message] [vix] [3500] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T16:50:15.885Z] [ message] [vmtoolsd] [3500] Plugin 'vix' initialized.
+[2023-07-12T16:50:15.885Z] [ message] [vmtoolsd] [3500] Plugin 'appInfo' initialized.
+[2023-07-12T16:50:15.885Z] [ message] [vmtoolsd] [3500] Plugin 'autoLogon' initialized.
+[2023-07-12T16:50:15.916Z] [ message] [vmtoolsd] [3500] Plugin 'autoUpgrade' initialized.
+[2023-07-12T16:50:15.916Z] [ message] [vmtoolsd] [3500] Plugin 'bitMapper' initialized.
+[2023-07-12T16:50:15.916Z] [ message] [vmtoolsd] [3500] Plugin 'deployPkg' initialized.
+[2023-07-12T16:50:15.916Z] [ message] [vmtoolsd] [3500] Plugin 'deviceHelper' initialized.
+[2023-07-12T16:50:15.916Z] [ message] [vmtoolsd] [3500] Plugin 'diskWiper' initialized.
+[2023-07-12T16:50:15.932Z] [ message] [vmtoolsd] [3500] Plugin 'guestInfo' initialized.
+[2023-07-12T16:50:15.932Z] [ message] [vmtoolsd] [3500] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T16:50:15.948Z] [ message] [vmtoolsd] [3500] Plugin 'powerops' initialized.
+[2023-07-12T16:50:16.007Z] [ message] [vmtoolsd] [3500] Plugin 'resolutionSet' initialized.
+[2023-07-12T16:50:16.007Z] [ message] [vmtoolsd] [3500] Plugin 'timeSync' initialized.
+[2023-07-12T16:50:16.007Z] [ message] [vmtoolsd] [3500] Plugin 'vmbackup' initialized.
+[2023-07-12T16:50:16.995Z] [ message] [vix] [3500] VixTools_ProcessVixCommand: command 62
+[2023-07-12T16:54:28.514Z] [ warning] [autoUpgrade] [3500] RPC 'guest.initiateUpgradeAtShutdown' failed, reply is Unknown command.
+[2023-07-12T16:54:28.514Z] [ warning] [GLib-GObject] [3500] g_object_get_is_valid_property: object class 'ToolsCoreService' has no property named 'tps_prop_gueststore'
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'vmbackup'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'timeSync'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'resolutionSet'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'powerops'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'hwUpgradeHelper'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'guestInfo'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'diskWiper'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'deviceHelper'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'deployPkg'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'bitMapper'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'autoUpgrade'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'autoLogon'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'appInfo'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'vix'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'hgfsUsability'.
+[2023-07-12T16:54:28.889Z] [ message] [vmtoolsd] [3500] Unloading plugin 'hgfsServer'.
+[2023-07-12T16:56:56.678Z] [ message] [vmsvc] [2120] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T16:56:56.694Z] [ message] [vmtoolsd] [3596] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T16:56:59.772Z] [ message] [vmtoolsd] [3596] Plugin 'hgfsServer' initialized.
+[2023-07-12T16:56:59.772Z] [ message] [vmtoolsd] [3596] Plugin 'hgfsUsability' initialized.
+[2023-07-12T16:56:59.772Z] [ message] [vix] [3596] VixTools_Initialize: Toolsd running as user 'SYSTEM'
+[2023-07-12T16:56:59.772Z] [ message] [vix] [3596] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T16:56:59.772Z] [ message] [vmtoolsd] [3596] Plugin 'vix' initialized.
+[2023-07-12T16:56:59.772Z] [ message] [vmtoolsd] [3596] Plugin 'appInfo' initialized.
+[2023-07-12T16:56:59.772Z] [ message] [vmtoolsd] [3596] Plugin 'autoLogon' initialized.
+[2023-07-12T16:56:59.787Z] [ message] [vmtoolsd] [3596] Plugin 'autoUpgrade' initialized.
+[2023-07-12T16:56:59.787Z] [ message] [vmtoolsd] [3596] Plugin 'bitMapper' initialized.
+[2023-07-12T16:56:59.787Z] [ message] [vmtoolsd] [3596] Plugin 'deployPkg' initialized.
+[2023-07-12T16:56:59.787Z] [ message] [vmtoolsd] [3596] Plugin 'deviceHelper' initialized.
+[2023-07-12T16:56:59.787Z] [ message] [vmtoolsd] [3596] Plugin 'diskWiper' initialized.
+[2023-07-12T16:56:59.803Z] [ message] [vmtoolsd] [3596] Plugin 'guestInfo' initialized.
+[2023-07-12T16:56:59.803Z] [ message] [vmtoolsd] [3596] Plugin 'hwUpgradeHelper' initialized.
+[2023-07-12T16:56:59.803Z] [ message] [vmtoolsd] [3596] Plugin 'powerops' initialized.
+[2023-07-12T16:56:59.819Z] [ message] [vmtoolsd] [3596] Plugin 'resolutionSet' initialized.
+[2023-07-12T16:56:59.819Z] [ message] [vmtoolsd] [3596] Plugin 'timeSync' initialized.
+[2023-07-12T16:56:59.819Z] [ message] [vmtoolsd] [3596] Plugin 'vmbackup' initialized.
+[2023-07-12T16:56:59.865Z] [ message] [vix] [3596] VixTools_ProcessVixCommand: command 62
+[2023-07-12T16:57:00.821Z] [ message] [vix] [3596] VixTools_ProcessVixCommand: command 62
+[2023-07-12T16:57:00.821Z] [ message] [vmsvc] [3596] Executing script for state change 'OS_PowerOn'.
+[2023-07-12T16:57:00.821Z] [ message] [powerops] [3596] Executing script: "C:\Program Files\VMware\VMware Tools\poweron-vm-default.bat"
+[2023-07-12T16:57:01.443Z] [ message] [vmsvc] [3596] Script exit code: 0, success = 1
+[2023-07-12T16:59:39.157Z] [ warning] [guestinfo] [3596] *** WARNING: GuestInfo collection interval longer than expected; actual=67 sec, expected=30 sec. ***

@@ -1,0 +1,259 @@
+#pragma autorecover
+#pragma classflags(64)
+#pragma namespace("\\\\.\\root\\StandardCimV2")
+
+Instance of __Win32Provider as $prov
+{
+  Name = "MSFT_Printer";
+  ClsId = "{2F86B8BD-EFF5-4C07-8FA5-60788517EF95}";
+  ImpersonationLevel = 1;
+  HostingModel = "NetworkServiceHost";
+  version = 1073741825;
+};
+
+Instance of __MethodProviderRegistration
+{
+  Provider = $prov;
+};
+
+Instance of __InstanceProviderRegistration
+{
+  Provider = $prov;
+  supportsGet = TRUE;
+  supportsPut = TRUE;
+  supportsDelete = TRUE;
+  supportsEnumeration = TRUE;
+  QuerySupportLevels;
+};
+
+// Attempt to clean up MSFT_WsdPrinterPort in case this is an LCU update that is being applied
+// on a downlevel system where MSFT_WsdPrinterPort used to be supported.
+#pragma deleteclass("MSFT_WsdPrinterPort",nofail)
+
+[Abstract,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class CIM_ManagedElement
+{
+  string InstanceID;
+  [MaxLen(64) : ToSubclass] string Caption;
+  string Description;
+  string ElementName;
+};
+
+[Abstract,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class CIM_ManagedSystemElement : CIM_ManagedElement
+{
+  [MappingStrings{"MIF.DMTF|ComponentID|001.5"} : ToSubclass] datetime InstallDate;
+  [MaxLen(1024) : ToSubclass] string Name;
+  [ValueMap{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "..", "0x8000.."} : ToSubclass,ArrayType("Indexed") : ToSubclass DisableOverride,ModelCorrespondence{"CIM_ManagedSystemElement.StatusDescriptions"} : ToSubclass] uint16 OperationalStatus[];
+  [ArrayType("Indexed") : ToSubclass DisableOverride,ModelCorrespondence{"CIM_ManagedSystemElement.OperationalStatus"} : ToSubclass] string StatusDescriptions[];
+  [Deprecated{"CIM_ManagedSystemElement.OperationalStatus"},ValueMap{"OK", "Error", "Degraded", "Unknown", "Pred Fail", "Starting", "Stopping", "Service", "Stressed", "NonRecover", "No Contact", "Lost Comm", "Stopped"} : ToSubclass,MaxLen(10) : ToSubclass] string Status;
+  [ValueMap{"0", "5", "10", "15", "20", "25", "30", ".."} : ToSubclass] uint16 HealthState;
+  [ValueMap{"0", "1", "2", "3", "4", "..", "0x8000.."} : ToSubclass] uint16 CommunicationStatus;
+  [ValueMap{"0", "1", "2", "3", "4", "5", "..", "0x8000.."} : ToSubclass,ModelCorrespondence{"CIM_EnabledLogicalElement.PrimaryStatus", "CIM_ManagedSystemElement.HealthState"} : ToSubclass] uint16 DetailedStatus;
+  [ValueMap{"0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "..", "0x8000.."} : ToSubclass,ModelCorrespondence{"CIM_EnabledLogicalElement.EnabledState"} : ToSubclass] uint16 OperatingStatus;
+  [ValueMap{"0", "1", "2", "3", "..", "0x8000.."} : ToSubclass,ModelCorrespondence{"CIM_ManagedSystemElement.DetailedStatus", "CIM_ManagedSystemElement.HealthState"} : ToSubclass] uint16 PrimaryStatus;
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_Printer : CIM_ManagedSystemElement
+{
+  [MaxLen(1024) : ToSubclass,read : ToSubclass,key] string Name;
+  [read : ToSubclass,key] string ComputerName;
+  string ShareName;
+  string PortName;
+  string DriverName;
+  string Location;
+  string Comment;
+  string SeparatorPageFile;
+  string PrintProcessor;
+  string Datatype;
+  boolean Shared;
+  boolean Published;
+  string PermissionSDDL;
+  [MappingStrings{"SSR", "CSR", "BranchOffice"} : ToSubclass] uint32 RenderingMode;
+  uint32 Priority;
+  uint32 DefaultJobPriority;
+  uint32 StartTime;
+  uint32 UntilTime;
+  [read : ToSubclass] uint32 PrinterStatus;
+  [read : ToSubclass] uint32 JobCount;
+  boolean KeepPrintedJobs;
+  boolean DisableBranchOfficeLogging;
+  uint32 BranchOfficeOfflineLogSizeMB;
+  [MappingStrings{"Uninitialized", "Disabled", "Enabled"} : ToSubclass] uint32 WorkflowPolicy;
+  [read : ToSubclass,key,MappingStrings{"Local", "Connection"} : ToSubclass] uint32 Type;
+  [read : ToSubclass,key,MappingStrings{"2D", "3D"} : ToSubclass] uint32 DeviceType;
+  [implemented,static : ToSubclass DisableOverride] uint32 AddConnection([In] string ConnectionName);
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByExistingPort([In] string Comment,[In] string Datatype,[In] string DriverName,[In] uint32 UntilTime,[In] boolean KeepPrintedJobs,[In] string Location,[In] string Name,[In] string PermissionSDDL,[In] string PortName,[In] string PrintProcessor,[In] uint32 Priority,[In] boolean Published,[In] uint32 RenderingMode,[In] string SeparatorPageFile,[In] string ComputerName,[In] string ShareName,[In] boolean Shared,[In] uint32 StartTime,[In] boolean DisableBranchOfficeLogging,[In] uint32 BranchOfficeOfflineLogSizeMB,[In] uint32 WorkflowPolicy);
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByAdaptivePort([In] string Comment,[In] string Datatype,[In] string DeviceURL,[In] uint32 UntilTime,[In] string DeviceUUID,[In] string IppUrl,[In] boolean KeepPrintedJobs,[In] string Location,[In] string Name,[In] string PermissionSDDL,[In] string PrintProcessor,[In] uint32 Priority,[In] boolean Published,[In] uint32 RenderingMode,[In] string SeparatorPageFile,[In] string ComputerName,[In] string ShareName,[In] boolean Shared,[In] uint32 StartTime,[In] boolean DisableBranchOfficeLogging,[In] uint32 BranchOfficeOfflineLogSizeMB,[In] uint32 WorkflowPolicy);
+  [implemented,static : ToSubclass DisableOverride] uint32 RenameByName([In] string Name,[In] string NewName,[In] string ComputerName);
+  [implemented,static : ToSubclass DisableOverride] uint32 RenameByObject([In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer InputObject,[In] string NewName);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_3DPrinter : MSFT_Printer
+{
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_PrinterPort : CIM_ManagedSystemElement
+{
+  [read : ToSubclass] string Description;
+  [MaxLen(1024) : ToSubclass,key,read : ToSubclass] string Name;
+  [key,read : ToSubclass] string PortMonitor;
+  [key,read : ToSubclass] string ComputerName;
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_AdaptivePrinterPort : MSFT_PrinterPort
+{
+  [read : ToSubclass,MappingStrings{"Multicast", "Directed"} : ToSubclass] uint32 DiscoveryMethod;
+  [read : ToSubclass] string DeviceUUID;
+  [read : ToSubclass] string DeviceURL;
+  [read : ToSubclass] string IppUrl;
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_LocalPrinterPort : MSFT_PrinterPort
+{
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_LprPrinterPort : MSFT_PrinterPort
+{
+  [read : ToSubclass] string HostName;
+  [read : ToSubclass] string PrinterName;
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_PrintJob : CIM_ManagedSystemElement
+{
+  [key,read : ToSubclass] uint32 Id;
+  [read : ToSubclass] string ComputerName;
+  [key,read : ToSubclass] string PrinterName;
+  [read : ToSubclass] string UserName;
+  [read : ToSubclass] string DocumentName;
+  [read : ToSubclass] string Datatype;
+  [read : ToSubclass] uint32 Priority;
+  [read : ToSubclass] uint32 Position;
+  [read : ToSubclass] datetime SubmittedTime;
+  [read : ToSubclass] uint32 Size;
+  [read : ToSubclass] uint32 JobTime;
+  [read : ToSubclass] uint32 PagesPrinted;
+  [read : ToSubclass] uint32 TotalPages;
+  [read : ToSubclass] uint32 JobStatus;
+  [implemented,static : ToSubclass DisableOverride] uint32 GetByName([In] string ComputerName,[In] uint32 ID,[In] string PrinterName,[Out,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob cmdletOutput[]);
+  [implemented,static : ToSubclass DisableOverride] uint32 GetByObject([In] uint32 ID,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject,[Out,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob cmdletOutput[]);
+  [implemented,static : ToSubclass DisableOverride] uint32 DeleteJobByObject([In,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 DeleteJobById([In] string ComputerName,[In] uint32 ID,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 DeleteJobByPrinterObject([In] uint32 ID,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 RestartJobByObject([In,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 RestartJobById([In] string ComputerName,[In] uint32 ID,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 RestartJobByPrinterObject([In] uint32 ID,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 ResumeJobByObject([In,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 ResumeJobById([In] string ComputerName,[In] uint32 ID,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 ResumeJobByPrinterObject([In] uint32 ID,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 SuspendJobByObject([In,EmbeddedInstance("MSFT_PrintJob") : ToSubclass] MSFT_PrintJob InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 SuspendJobById([In] string ComputerName,[In] uint32 ID,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 SuspendJobByPrinterObject([In] uint32 ID,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,locale(1033)] 
+class MSFT_PrinterConfiguration
+{
+  [key,read : ToSubclass] string PrinterName;
+  [key,read : ToSubclass] string ComputerName;
+  string PrintTicketXML;
+  [read : ToSubclass] string PrintCapabilitiesXML;
+  [MappingStrings{"OneSided", "TwoSidedLongEdge", "TwoSidedShortEdge"} : ToSubclass] uint32 DuplexingMode;
+  boolean Collate;
+  boolean Color;
+  uint32 PaperSize;
+  [implemented,static : ToSubclass DisableOverride] uint32 GetByPrinterName([In] string ComputerName,[In] string PrinterName,[Out,EmbeddedInstance("MSFT_PrinterConfiguration") : ToSubclass] MSFT_PrinterConfiguration cmdletOutput);
+  [implemented,static : ToSubclass DisableOverride] uint32 GetByPrinterObject([In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject,[Out,EmbeddedInstance("MSFT_PrinterConfiguration") : ToSubclass] MSFT_PrinterConfiguration cmdletOutput);
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrinterName([In] boolean Collate,[In] boolean Color,[In] uint32 DuplexingMode,[In] uint32 PaperSize,[In] string PrintTicketXML,[In] string ComputerName,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrinterObject([In] boolean Collate,[In] boolean Color,[In] uint32 DuplexingMode,[In] uint32 PaperSize,[In] string PrintTicketXML,[In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrintConfigObject([In,EmbeddedInstance("MSFT_PrinterConfiguration") : ToSubclass] MSFT_PrinterConfiguration InputObject);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_PrinterDriver : CIM_ManagedSystemElement
+{
+  [MaxLen(1024) : ToSubclass,key,read : ToSubclass] string Name;
+  [key,read : ToSubclass] string ComputerName;
+  [key,read : ToSubclass] string PrinterEnvironment;
+  [read : ToSubclass] string Path;
+  [read : ToSubclass] string DataFile;
+  [read : ToSubclass] string ConfigFile;
+  [read : ToSubclass] string HelpFile;
+  [read : ToSubclass] string DependentFiles[];
+  [read : ToSubclass] string Monitor;
+  [read : ToSubclass] string DefaultDatatype;
+  [read : ToSubclass] datetime Date;
+  [read : ToSubclass] uint32 MajorVersion;
+  [read : ToSubclass] uint64 DriverVersion;
+  [read : ToSubclass] string Manufacturer;
+  [read : ToSubclass] string OEMUrl;
+  [read : ToSubclass] string HardwareID;
+  [read : ToSubclass] string provider;
+  [read : ToSubclass] string PrintProcessor;
+  [read : ToSubclass] string VendorSetup;
+  [read : ToSubclass] string ColorProfiles[];
+  [key,read : ToSubclass] string InfPath;
+  [read : ToSubclass] boolean IsPackageAware;
+  [read : ToSubclass] string CoreDriverDependencies[];
+  [read : ToSubclass] string PreviousCompatibleNames[];
+  [implemented,static : ToSubclass DisableOverride] uint32 Add([In] string Name,[In] string InfPath,[In] string PrinterEnvironment,[In] string ComputerName);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,locale(1033)] 
+class MSFT_PrinterNfcTag
+{
+  [read : ToSubclass,write : ToSubclass] string SharePath[];
+  [read : ToSubclass,write : ToSubclass] string WsdAddress[];
+  [read : ToSubclass,write : ToSubclass] boolean Locked;
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,ClassVersion("1.0"),locale(1033)] 
+class MSFT_PrinterNfcTagTasks
+{
+  [implemented,static : ToSubclass DisableOverride] uint32 WriteByManualSpecification([In] string SharePath[],[In] string WsdAddress[],[In] boolean Lock);
+  [implemented,static : ToSubclass DisableOverride] uint32 WriteByPrinterNfcTag([In,EmbeddedInstance("MSFT_PrinterNfcTag") : ToSubclass] MSFT_PrinterNfcTag InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 Read([Out,EmbeddedInstance("MSFT_PrinterNfcTag") : ToSubclass] MSFT_PrinterNfcTag cmdletOutput);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,locale(1033)] 
+class MSFT_PrinterPortTasks
+{
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByLocalPort([In] string ComputerName,[In] string Name);
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByLprPort([In] string ComputerName,[In] string HostName,[In] string PrinterName);
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByTcpPort([In] string ComputerName,[In] string Name,[In] uint32 PortNumber,[In] string PrinterHostAddress,[In] uint32 SNMP,[In] string SNMPCommunity);
+  [implemented,static : ToSubclass DisableOverride] uint32 AddByTcpPortLprMode([In] string ComputerName,[In] boolean LprByteCounting,[In] string LprHostAddress,[In] string LprQueueName,[In] string Name,[In] uint32 PortNumber,[In] uint32 SNMP,[In] string SNMPCommunity);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_PrinterProperty : CIM_ManagedElement
+{
+  [read : ToSubclass,key] string ComputerName;
+  [read : ToSubclass,key] string PrinterName;
+  [read : ToSubclass,key] string PropertyName;
+  [read : ToSubclass,key,MappingStrings{"Boolean", "Integer", "String"} : ToSubclass] uint32 Type;
+  string Value;
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrinterName([In] string ComputerName,[In] string PrinterName,[In] string PropertyName,[In] string Value);
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrinterPropertyObject([In,EmbeddedInstance("MSFT_PrinterProperty") : ToSubclass] MSFT_PrinterProperty InputObject);
+  [implemented,static : ToSubclass DisableOverride] uint32 SetByPrinterObject([In,EmbeddedInstance("MSFT_Printer") : ToSubclass] MSFT_Printer PrinterObject,[In] string PropertyName,[In] string Value);
+};
+
+[dynamic : ToInstance,provider("MSFT_Printer") : ToInstance,UMLPackagePath("CIM::Core::CoreElements") : ToSubclass,locale(1033)] 
+class MSFT_TcpIpPrinterPort : MSFT_PrinterPort
+{
+  [read : ToSubclass] string PrinterHostAddress;
+  [read : ToSubclass] string PrinterHostIP;
+  [read : ToSubclass] uint32 PortNumber;
+  [read : ToSubclass] string SNMPCommunity;
+  [read : ToSubclass] uint32 SNMPIndex;
+  [read : ToSubclass] boolean SNMPEnabled;
+  [read : ToSubclass,MappingStrings{"RAW", "LPR"} : ToSubclass] uint32 Protocol;
+  [read : ToSubclass] string LprQueueName;
+  [read : ToSubclass] boolean LprByteCounting;
+};

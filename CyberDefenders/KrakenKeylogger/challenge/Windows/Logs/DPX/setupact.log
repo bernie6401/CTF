@@ -1,0 +1,1801 @@
+﻿2023-07-12 11:32:45, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:45, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:45, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:45, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:46, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:46, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:46, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:50, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:50, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:50, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:50, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:50, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:50, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:50, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:56, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\Windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_SUCCESS
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:57, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:57, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 11:32:58, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 11:32:58, Info                  DPX    Ended DPX phase: Resume and Download Job
+2023-07-12 14:39:32, Info                  DPX    Started DPX phase: Resume and Download Job
+2023-07-12 14:39:32, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 14:39:32, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 14:39:32, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2023-07-12 14:39:32, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2023-07-12 14:39:32, Info                  DPX    CJob::Resume completed with status: 0x0
+2023-07-12 14:39:32, Info                  DPX    Ended DPX phase: Resume and Download Job

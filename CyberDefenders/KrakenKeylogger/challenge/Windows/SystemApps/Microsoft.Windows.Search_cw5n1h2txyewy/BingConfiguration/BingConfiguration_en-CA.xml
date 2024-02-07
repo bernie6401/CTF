@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Locale name="en-CA">
+  <EndPoints>
+    <OSSEndPoints />
+    <NonOSSEndPoints />
+  </EndPoints>
+  <SupportedFeatures>
+    <MiscSupport />
+  </SupportedFeatures>
+</Locale>

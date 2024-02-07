@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+         xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10">
+
+  <Identity Name="Microsoft.Windows.CapturePicker"
+            Publisher="CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+            Version="10.0.19041.1023" />
+
+  <Properties>
+    <DisplayName>CapturePicker</DisplayName>
+    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <uap:SupportedUsers>multiple</uap:SupportedUsers>
+  </Properties>
+
+  <Resources>
+    <Resource Language="en-us"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+                 Executable="CapturePicker.exe"
+                 EntryPoint="CapturePicker.App">
+      <uap:VisualElements AppListEntry="none"
+                          DisplayName="CapturePicker"
+                          Square150x150Logo="Assets\Logo.png"
+                          Square44x44Logo="Assets\SmallLogo.png"
+                          Description="CapturePicker"
+                          BackgroundColor="#464646">
+        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.19041.1023"/>
+  </Dependencies>
+</Package>

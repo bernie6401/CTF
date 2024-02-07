@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" xmlns:wincap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/windowscapabilities" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3">
+	<Identity Name="Microsoft.Windows.Search" Publisher="CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.14.9.19041" ResourceId="neutral" ProcessorArchitecture="neutral"/>
+	<mp:PhoneIdentity PhoneProductId="72E86688-2A30-4FED-B7E2-26E926D39405" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+	<!-- Note: cannot use Publisher="CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" since that is currently reserved -->
+	<Properties>
+		<DisplayName>ms-resource:PackageDisplayName</DisplayName>
+		<Description>ms-resource:ProductDescription</Description>
+		<PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+		<Logo>Assets\Icons\MediumTile.png</Logo>
+	</Properties>
+	<Resources>
+		<Resource Language="en-us"/>
+	</Resources>
+	<!-- Following get filled in by the appxfragments, see APPX_MANIFEST_FRAGMENTS in sources -->
+	<Applications>
+		<Application Id="CortanaUI" Executable="SearchApp.exe" EntryPoint="CortanaUI.App">
+			<uap:VisualElements DisplayName="ms-resource:TileDisplayName" Square150x150Logo="Assets\Icons\MediumTile.png" Square44x44Logo="Assets\Icons\AppListIcon.png" Description="ms-resource:Description" BackgroundColor="transparent" AppListEntry="none">
+				<uap:InitialRotationPreference>
+					<uap:Rotation Preference="portrait"/>
+				</uap:InitialRotationPreference>
+				<uap:DefaultTile ShortName="ms-resource:TileShortcutName" Wide310x150Logo="Assets\Icons\WideTile.png" Square71x71Logo="Assets\Icons\SmallTile.png">
+					<uap:ShowNameOnTiles>
+						<uap:ShowOn Tile="square150x150Logo"/>
+						<uap:ShowOn Tile="wide310x150Logo"/>
+					</uap:ShowNameOnTiles>
+				</uap:DefaultTile>
+				<uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#5133AB"/>
+			</uap:VisualElements>
+			<Extensions>
+				<uap:Extension Category="windows.search" Executable="SearchApp.exe" EntryPoint="CortanaUI.App"/>
+				<!-- Background Tasks -->
+				<Extension Category="windows.backgroundTasks" EntryPoint="Cortana.Internal.Search.ConfigPollerBackgroundTask">
+					<BackgroundTasks>
+						<Task Type="timer"/>
+					</BackgroundTasks>
+				</Extension>
+				<Extension Category="windows.backgroundTasks" EntryPoint="Cortana.Internal.Search.DynamicSearchBoxRefresherBackgroundTask">
+					<BackgroundTasks>
+						<Task Type="timer"/>
+						<Task Type="systemEvent"/>
+					</BackgroundTasks>
+				</Extension>
+				<!-- App to app contracts -->
+				<uap:Extension Category="windows.appService">
+					<uap:AppService Name="com.microsoft.app.search.clearhistory"/>
+				</uap:Extension>
+				<!-- Protocols -->
+				<uap:Extension Category="windows.protocol">
+					<uap:Protocol Name="ms-search">
+						<uap:DisplayName>ms-resource:TileDisplayName</uap:DisplayName>
+					</uap:Protocol>
+				</uap:Extension>
+				<wincap3:Extension xmlns:wincap3="http://schemas.microsoft.com/appx/manifest/foundation/windows10/windowscapabilities/3" Category="windows.internal.componentUI"/>
+			</Extensions>
+		</Application>
+		<Application Id="ShellFeedsUI" Executable="SearchApp.exe" EntryPoint="CortanaUI.App">
+			<uap:VisualElements DisplayName="ms-resource:TileDisplayName_Feeds" Square150x150Logo="Assets\Icons\MediumTile.png" Square44x44Logo="Assets\Icons\AppListIcon.png" Description="ms-resource:Description_Feeds" BackgroundColor="transparent" AppListEntry="none">
+				<uap:InitialRotationPreference>
+					<uap:Rotation Preference="portrait"/>
+				</uap:InitialRotationPreference>
+				<uap:DefaultTile ShortName="ms-resource:TileShortcutName_Feeds" Wide310x150Logo="Assets\Icons\WideTile.png" Square71x71Logo="Assets\Icons\SmallTile.png">
+					<uap:ShowNameOnTiles>
+						<uap:ShowOn Tile="square150x150Logo"/>
+						<uap:ShowOn Tile="wide310x150Logo"/>
+					</uap:ShowNameOnTiles>
+				</uap:DefaultTile>
+				<uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#5133AB"/>
+			</uap:VisualElements>
+			<Extensions>
+				<Extension Category="windows.backgroundTasks" EntryPoint="Cortana.Internal.Search.ShellFeedsPollerBackgroundTask">
+					<BackgroundTasks>
+						<Task Type="timer"/>
+						<Task Type="systemEvent"/>
+					</BackgroundTasks>
+				</Extension>
+				<uap:Extension Category="windows.protocol">
+					<uap:Protocol Name="ms-newsandinterests">
+						<uap:DisplayName>ms-resource:TileDisplayName_Feeds</uap:DisplayName>
+					</uap:Protocol>
+				</uap:Extension>
+			</Extensions>
+			<uap:ApplicationContentUriRules>
+				<uap:Rule Match="https://windows.msn.com/shell" Type="include" WindowsRuntimeAccess="none"/>
+				<uap:Rule Match="https://windows.msn.cn/shell" Type="include" WindowsRuntimeAccess="none"/>
+				<uap:Rule Match="https://windows.msn.com/shellv2" Type="include" WindowsRuntimeAccess="none"/>
+				<uap:Rule Match="https://windows.msn.cn/shellv2" Type="include" WindowsRuntimeAccess="none"/>
+			</uap:ApplicationContentUriRules>
+		</Application>
+	</Applications>
+	<Dependencies>
+		<TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.19041.0"/>
+	</Dependencies>
+	<Capabilities>
+		<wincap:Capability Name="packageContents"/>
+		<!-- Needed for resolving MRT strings -->
+		<uap3:Capability Name="remoteSystem"/>
+		<!-- TODO: Move this in to capabilities include file. Tracked by 16847609 -->
+		<wincap:Capability Name="cortanaSettings"/>
+		<wincap:Capability Name="cloudStore"/>
+		<wincap:Capability Name="visualElementsSystem"/>
+		<wincap:Capability Name="shellExperience"/>
+		<wincap:Capability Name="searchSettings"/>
+		<wincap:Capability Name="activityData"/>
+		<wincap:Capability Name="indexedContent"/>
+		<Capability Name="internetClient"/>
+		<Capability Name="privateNetworkClientServer"/>
+		<uap:Capability Name="enterpriseAuthentication"/>
+		<uap:Capability Name="sharedUserCertificates"/>
+		<rescap:Capability Name="userDataSystem"/>
+		<rescap:Capability Name="packageQuery"/>
+		<rescap:Capability Name="slapiQueryLicenseValue"/>
+		<rescap:Capability Name="activitySystem"/>
+		<rescap:Capability Name="enterpriseCloudSSO"/>
+		<DeviceCapability Name="location"/>
+	</Capabilities>
+	<Extensions>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>Search.Core.dll</Path>
+				<ActivatableClass ActivatableClassId="Cortana.Authentication.OnlineServiceAuthenticationManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Authentication.UserAuthenticationManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Settings.ConfigurationManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Settings.EnableChecker" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Settings.FeatureConfiguration" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Settings.SettingsContainer" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Settings.SettingsHelper" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.System.SystemHelpers" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>SearchApi.dll</Path>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.AppIndexer" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.AppIndexerSettingsManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.AppProviderTask" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ProjectedCortanaAPI" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.HeaderHelpers" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.Launcher" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.PerfMetrics" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.SearchLaunchOptions" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.CortanaIndexerQueryManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.PerWebViewProjectedCortanaAPI" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Telemetry.TelemetryUtils" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.FeedbackManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.FeedbackFileSet" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.FileExplorerSuggestionPage" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.DebugTraceHandler" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.DeviceSearchCacheManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ScreenshotManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.EtwLogManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.PowerBIClient" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.WebContentLaunchOptions" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.SettingsFilterCacheManager" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.SettingsJsonGenerator" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.NewTabPage" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.BackgroundTaskRegistrationBackgroundTask" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ConfigPollerBackgroundTask" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.CortanaSettingsAppService" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.SettingsProviderTask" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ShellFeeds.ShellFeedsEdgeProfile" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ShellFeedsAuth.ShellFeedsAuthenticationResult" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ShellFeedsExperienceInfo" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ShellFeedsPollerBackgroundTask" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.ShellFeedsProjectedAPI" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.FeedsAuthenticationManagerAPI" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.PerShellFeedsProjectedAPI" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.ShellFeeds.FeedsHeaderHelpers" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Cortana.Internal.Search.DynamicSearchBoxRefresherBackgroundTask" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>Microsoft.Web.WebView2.Core.dll</Path>
+				<ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2CompositionController" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2Environment" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2ControllerWindowReference" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2EnvironmentOptions" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="Microsoft.Web.WebView2.Core.CoreWebView2Controller" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>WebView2Standalone.dll</Path>
+				<ActivatableClass ActivatableClassId="WebView2Standalone.Controls.WebView2" ThreadingModel="both"/>
+				<ActivatableClass ActivatableClassId="WebView2Standalone.Automation.Peers.WebView2AutomationPeer" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>wv2winrt.dll</Path>
+				<ActivatableClass ActivatableClassId="wv2winrt.DispatchAdapter" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+		<!-- ProxyStub -->
+		<!-- See https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn169426.aspx for background on WinRT event proxies/stubs -->
+		<!-- InterfaceId should match ID in cortana.search_i.c -->
+		<Extension Category="windows.activatableClass.proxyStub">
+			<ProxyStub ClassId="3d45d047-ef9a-5eed-8f94-130c50316220">
+				<Path>SearchApi.ProxyStub.dll</Path>
+				<Interface Name="__FIAsyncOperationCompletedHandler_1_Cortana__CSearch__CUserActivitySessionSnapshot" InterfaceId="78f21140-f136-5cd6-85a6-3dd82229fd4f"/>
+				<Interface Name="__FIAsyncOperationCompletedHandler_1___FIVectorView_1_Cortana__CSearch__CIUserActivityItem" InterfaceId="2e4ecbb1-8a40-535b-854b-fd00b0eb9b1a"/>
+				<Interface Name="__FIAsyncOperationCompletedHandler_1___FIMapView_2_GUID_Cortana__CSearch__CActivityActivationState" InterfaceId="e6ccf073-14c6-5019-a49e-44172e98b790"/>
+				<Interface Name="__FIIterator_1_Cortana__CSearch__CCrossPlatformActivityAppId" InterfaceId="9824adf1-e6aa-5c41-be51-8e67d4e88e46"/>
+				<Interface Name="__FIIterable_1_Cortana__CSearch__CCrossPlatformActivityAppId" InterfaceId="ca0223b5-2ba8-5b4c-95c9-7de77c97fcfa"/>
+				<Interface Name="__FIIterator_1___FIKeyValuePair_2_GUID_Cortana__CSearch__CActivityActivationState" InterfaceId="57e90129-dce4-5fb6-80b9-f5f83481d80e"/>
+				<Interface Name="__FIIterable_1___FIKeyValuePair_2_GUID_Cortana__CSearch__CActivityActivationState" InterfaceId="52e61a13-537e-5a1d-899f-1df97e01e912"/>
+				<Interface Name="__FIMapView_2_GUID_Cortana__CSearch__CActivityActivationState" InterfaceId="67ea598e-8f04-515a-acb3-bffe93e425cf"/>
+				<Interface Name="__FIKeyValuePair_2_GUID_Cortana__CSearch__CActivityActivationState" InterfaceId="2bf34d4c-b65a-59b8-afb0-400ad0a1e9ec"/>
+				<Interface Name="__FIIterator_1_Cortana__CSearch__CActivationOptions" InterfaceId="0b02c5b5-3859-5d2e-832c-a0bc256cf2be"/>
+				<Interface Name="__FIIterable_1_Cortana__CSearch__CActivationOptions" InterfaceId="683a9295-47f7-5dde-8545-e3f299107dfb"/>
+				<Interface Name="__FITypedEventHandler_2_IInspectable_Cortana__CSearch__CIQueryTextChangedEventArgs" InterfaceId="b0c00a2d-49f3-5f0c-9348-54519ae27bbd"/>
+				<Interface Name="__FITypedEventHandler_2_IInspectable_Cortana__CSearch__CIKeyUpDownEventArgs" InterfaceId="5b9546b0-4002-5840-af04-27eb85a4b97d"/>
+				<Interface Name="__FITypedEventHandler_2_IInspectable_Cortana__CSearch__CIVerticalOffsetChangedEventArgs" InterfaceId="57588dff-876c-5d31-8cd9-9443b9bc3ada"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CActivityActivationState_IInspectable" InterfaceId="cf3e31ad-952e-59d0-8836-759dd368575d"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CIWebViewLifetime_Cortana__CSearch__CIWebViewLifetimeStateChangedEventArgs" InterfaceId="23ed02de-572f-5762-b9a6-32979036a6b0"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CIDynamicSearchBox_IInspectable" InterfaceId="dc71ff69-b48e-5fb3-9238-c4d4d1cc3fec"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CIScreenshotAPI_Cortana__CSearch__CIScreenshotCompletedEventArgs" InterfaceId="886cf531-d730-5059-90a5-a2f2b08a0c09"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CICortanaFeedback_Cortana__CSearch__CIFeedbackFormRequestedEventArgs" InterfaceId="026a3b79-6b66-5a22-8bc2-d100caf0436f"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CISearchHistory_boolean" InterfaceId="546c0811-1455-5418-a393-5fc4020fe939"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CISearchHistory_IInspectable" InterfaceId="8c2ac9ca-fa6d-5d03-b705-8a9961fff047"/>
+				<Interface Name="__FITypedEventHandler_2_Cortana__CSearch__CILaunchExperienceContext_IInspectable" InterfaceId="6f1deb74-ee88-5e44-972e-392cb789db96"/>
+				<Interface Name="__FIVectorView_1_Cortana__CSearch__CActivationOptions" InterfaceId="825db6c3-1883-5348-974f-75527da99b0f"/>
+				<Interface Name="__FIVectorView_1_Cortana__CSearch__CCrossPlatformActivityAppId" InterfaceId="59140522-5295-579e-aa9d-81179a901e8a"/>
+				<Interface Name="IQueryTextChangedEventArgs" InterfaceId="70c1e7f3-af07-51bf-b0bf-6861c776ee46"/>
+				<Interface Name="IKeyUpDownEventArgs" InterfaceId="fe024e59-d208-5e94-8947-d731e8a8b3bd"/>
+				<Interface Name="IWebViewLifetimeStateChangedEventArgs" InterfaceId="190b8a6f-7ca8-5fa8-af1e-98d3a1c80bcc"/>
+				<Interface Name="IScreenshotCompletedEventArgs" InterfaceId="2dfa73b2-6079-5a55-ab26-e641c57b81a9"/>
+				<Interface Name="IFeedbackFormRequestedEventArgs" InterfaceId="f78388be-d54a-5c3e-8b3e-cb9cec3ad722"/>
+				<Interface Name="IVerticalOffsetChangedEventArgs" InterfaceId="4b4d84d5-386e-5276-8cc9-3bfb7a569a3f"/>
+			</ProxyStub>
+		</Extension>
+		<Extension Category="windows.activatableClass.inProcessServer">
+			<InProcessServer>
+				<Path>SearchApi.CppWinRT.dll</Path>
+				<ActivatableClass ActivatableClassId="Cortana.Search.UserActivityForWebHelper" ThreadingModel="both"/>
+			</InProcessServer>
+		</Extension>
+	</Extensions>
+</Package>

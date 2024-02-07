@@ -1,0 +1,94 @@
+﻿html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "calibri";
+    font-size: 16px;
+    overflow: hidden;
+}
+
+#dictationPanel {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    border: 1px solid #cccccc;
+    background-color: white;
+}
+
+#dictationPanelHeader {
+    height: 80px;
+}
+
+#microphoneButton, #closeButton {
+    margin: 15px;
+    border: none;
+    font-family: 'Segoe MDL2 Assets';
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#microphoneButton {
+    width: 50px;
+    height: 50px;
+    left: 50%;
+    margin-left: -20px;
+    position: absolute;
+    border-radius: 50%;
+    color: white;
+    background-color: #A80000;
+}
+
+    #microphoneButton.disabled {
+        background-color: #737373;
+    }
+
+#closeButton {
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    background-color: transparent;
+    float: right;
+}
+
+#dictationPanelContent {
+    height: calc(100% - 140px);
+    overflow-y: scroll;
+}
+
+#dictationTextArea {
+    height: 100%;
+    width: 100%;
+}
+
+#dictationPanelFooter {
+    height: 60px;
+    border-top: 1px solid #D2D2D2;
+    position: absolute;
+    width: 100%;
+}
+
+#dictationStatusArea {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    margin: 5px 20px;
+}
+
+#commitButton {
+    top: 10px;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    margin: auto;
+    border: none;
+    position: absolute;
+    color: white;
+    background-color: #4A90E2;
+    cursor: pointer;
+}

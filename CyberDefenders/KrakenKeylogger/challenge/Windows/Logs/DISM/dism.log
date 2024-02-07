@@ -1,0 +1,430 @@
+﻿2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll:                                            - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll: <----- Starting DismApi.dll session -----> - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll:                                            - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll: Host machine information: OS Version=10.0.19045, Running architecture=amd64, Number of processors=2 - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll: API Version 10.0.19041.844 - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll: Parent process command line: "C:\Windows\system32\cleanmgr.exe" /autoclean /d C: - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Enter DismInitializeInternal - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Input parameters: LogLevel: 2, LogFilePath: (null), ScratchDirectory: (null) - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Initialized GlobalConfig - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Initialized SessionTable - DismInitializeInternal
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Lookup in table by path failed for: DummyPath-2BA51B78-C7F7-4910-B99D-BB7345357CDC - CTransactionalImageTable::LookupImagePath
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=4312 Waiting for m_pInternalThread to start - CCommandThread::Start
+2023-07-12 12:30:36, Info                  DISM   API: PID=3568 TID=3992 Enter CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=3992 Enter CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 CommandThread StartupEvent signaled - CCommandThread::WaitForStartup
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 m_pInternalThread started - CCommandThread::Start
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Created g_internalDismSession - DismInitializeInternal
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Leave DismInitializeInternal - DismInitializeInternal
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Enter DismOpenSessionInternal - DismOpenSessionInternal
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Input parameters: ImagePath: DISM_{53BFAE52-B167-4E2F-A258-0A37B57FF845}, WindowsDirectory: (null), SystemDrive: (null) - DismOpenSessionInternal
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Lookup in table by path failed for: DRIVE_C - CTransactionalImageTable::LookupImagePath
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Waiting for m_pInternalThread to start - CCommandThread::Start
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=7480 Enter CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 CommandThread StartupEvent signaled - CCommandThread::WaitForStartup
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 m_pInternalThread started - CCommandThread::Start
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=4312 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=7480 Enter CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=7480 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:30:37, Info                  DISM   API: PID=3568 TID=7480 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 12:30:37, Info                  DISM   PID=3568 TID=7480 Scratch directory set to 'C:\Users\OMEN\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2023-07-12 12:30:37, Info                  DISM   PID=3568 TID=7480 DismCore.dll version: 10.0.19041.746 - CDISMManager::FinalConstruct
+2023-07-12 12:30:37, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:38, Info                  DISM   PID=3568 TID=7480 Successfully loaded the ImageSession at "C:\Windows\system32\Dism" - CDISMManager::LoadLocalImageSession
+2023-07-12 12:30:38, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:38, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-07-12 12:30:38, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:38, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:38, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:38, Info                  DISM   DISM Manager: PID=3568 TID=7480 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2023-07-12 12:30:38, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Getting the collection of providers from a local provider store type. - CDISMProviderStore::GetProviderCollection
+2023-07-12 12:30:38, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Connecting to the provider located at C:\Windows\system32\Dism\FolderProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:38, Warning               DISM   DISM Provider Store: PID=3568 TID=7480 Failed to load the provider: C:\Windows\system32\Dism\SiloedPackageProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 12:30:39, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Connecting to the provider located at C:\Windows\system32\Dism\FfuProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:39, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Connecting to the provider located at C:\Windows\system32\Dism\WimProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:40, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Connecting to the provider located at C:\Windows\system32\Dism\VHDProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:40, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Connecting to the provider located at C:\Windows\system32\Dism\ImagingProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:40, Warning               DISM   DISM Provider Store: PID=3568 TID=7480 Failed to load the provider: C:\Windows\system32\Dism\MetaDeployProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 12:30:40, Info                  DISM   DISM FFU Provider: PID=3568 TID=7480 [C:\] is not recognized by the DISM FFU provider. - CFfuImage::Initialize
+[3568] [0x8007007b] FIOReadFileIntoBuffer:(1452): The filename, directory name, or volume label syntax is incorrect.
+[3568] [0xc142011c] UnmarshallImageHandleFromDirectory:(641)
+[3568] [0xc142011c] WIMGetMountedImageHandle:(2906)
+2023-07-12 12:30:40, Info                  DISM   DISM WIM Provider: PID=3568 TID=7480 [C:\] is not a WIM mount point. - CWimMountedImageInfo::Initialize
+2023-07-12 12:30:40, Info                  DISM   DISM VHD Provider: PID=3568 TID=7480 [C:\] is not recognized by the DISM VHD provider. - CVhdImage::Initialize
+2023-07-12 12:30:40, Info                  DISM   DISM FFU Provider: PID=3568 TID=7480 [C:\] is not recognized by the DISM FFU provider. - CFfuImage::Initialize
+2023-07-12 12:30:40, Info                  DISM   DISM Imaging Provider: PID=3568 TID=7480 The provider FfuManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+2023-07-12 12:30:40, Info                  DISM   DISM VHD Provider: PID=3568 TID=7480 [C:\] is not recognized by the DISM VHD provider. - CVhdImage::Initialize
+2023-07-12 12:30:40, Info                  DISM   DISM Imaging Provider: PID=3568 TID=7480 The provider VHDManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+[3568] [0x8007007b] FIOReadFileIntoBuffer:(1452): The filename, directory name, or volume label syntax is incorrect.
+[3568] [0xc142011c] UnmarshallImageHandleFromDirectory:(641)
+[3568] [0xc142011c] WIMGetMountedImageHandle:(2906)
+2023-07-12 12:30:40, Info                  DISM   DISM WIM Provider: PID=3568 TID=7480 [C:\] is not a WIM mount point. - CWimMountedImageInfo::Initialize
+2023-07-12 12:30:40, Info                  DISM   DISM Imaging Provider: PID=3568 TID=7480 The provider WimManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+2023-07-12 12:30:40, Info                  DISM   DISM Imaging Provider: PID=3568 TID=7480 No imaging provider supported CreateDismImage for this path - CGenericImagingManager::CreateDismImage
+2023-07-12 12:30:40, Info                  DISM   DISM Manager: PID=3568 TID=7480 physical location path: C:\ - CDISMManager::CreateImageSession
+2023-07-12 12:30:40, Info                  DISM   DISM Manager: PID=3568 TID=7480 Event name for current DISM session is Global\{FC381BDF-3F3B-4E41-9F83-842641CF4888} - CDISMManager::CheckSessionAndLock
+2023-07-12 12:30:40, Info                  DISM   DISM Manager: PID=3568 TID=7480 Create session event 0x698 for current DISM session and event name is Global\{FC381BDF-3F3B-4E41-9F83-842641CF4888}  - CDISMManager::CheckSessionAndLock
+2023-07-12 12:30:40, Info                  DISM   DISM Manager: PID=3568 TID=7480 Copying DISM from "C:\Windows\System32\Dism" - CDISMManager::CreateImageSessionFromLocation
+2023-07-12 12:30:44, Info                  DISM   DISM Manager: PID=3568 TID=7480 Successfully loaded the ImageSession at "C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E" - CDISMManager::LoadRemoteImageSession
+2023-07-12 12:30:44, Info                  DISM   DISM Image Session: PID=6988 TID=3996 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2023-07-12 12:30:44, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Initializing a provider store for the IMAGE session type. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:44, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E\OSProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:44, Info                  DISM   DISM OS Provider: PID=6988 TID=3996 Defaulting SystemPath to C:\ - CDISMOSServiceManager::Final_OnConnect
+2023-07-12 12:30:44, Info                  DISM   DISM OS Provider: PID=6988 TID=3996 Defaulting Windows folder to C:\Windows - CDISMOSServiceManager::Final_OnConnect
+2023-07-12 12:30:44, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:45, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E\LogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:30:46, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:46, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-07-12 12:30:46, Warning               DISM   DISM Provider Store: PID=6988 TID=3996 Failed to load the provider: C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E\PEProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 12:30:46, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:46, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-07-12 12:30:46, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:46, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:30:46, Info                  DISM   DISM Manager: PID=3568 TID=7480 Image session successfully loaded from the temporary location: C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E - CDISMManager::CreateImageSession
+2023-07-12 12:30:46, Info                  DISM   API: PID=3568 TID=7480 Target image information: OS Version=10.0.19045.2965, Image architecture=amd64 - CDismCore::LogImageSessionDetails
+2023-07-12 12:30:46, Info                  DISM   API: PID=3568 TID=4312 Leave DismOpenSessionInternal - DismOpenSessionInternal
+2023-07-12 12:30:46, Info                  DISM   API: PID=3568 TID=4312 Session id is: 2 - DismOpenSessionInternal
+2023-07-12 12:30:46, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 12:30:46, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Upgrade Discarded Files
+2023-07-12 12:30:46, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:30:46, Info                         pszWellKnownDirs:$WINDOWS.~Q;$INPLACE.~TR;$Windows.~LS
+2023-07-12 12:30:46, Info                         bCleanWindowsOld:0
+2023-07-12 12:30:46, Info                         bRemoveUninstall:0
+2023-07-12 12:30:46, Info                         bShowOnlyInUpgrade:0
+2023-07-12 12:30:46, Info                         bShowOnlyInESDInstall:0
+2023-07-12 12:30:46, Info                         bSilentCleanup:1
+2023-07-12 12:30:46, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Upgrade Discarded Files
+2023-07-12 12:30:46, Info                         IsProcessElevated - bResult: 1
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$WINDOWS.~Q
+2023-07-12 12:30:46, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$WINDOWS.~Q\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$INPLACE.~TR
+2023-07-12 12:30:46, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$INPLACE.~TR\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$Windows.~LS
+2023-07-12 12:30:46, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$Windows.~LS\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::CleanVolume - Return status: 80070003
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 0
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::Initialize - No files to delete : Upgrade Discarded Files
+2023-07-12 12:30:46, Info                         Initialization status:1
+2023-07-12 12:30:46, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Upgrade Discarded Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:30:48, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 12:30:48, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Windows ESD Installation Files
+2023-07-12 12:30:48, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:30:48, Info                         pszWellKnownDirs:ESD\Windows;$Windows.~WS;ESD\Download
+2023-07-12 12:30:48, Info                         bCleanWindowsOld:0
+2023-07-12 12:30:48, Info                         bRemoveUninstall:0
+2023-07-12 12:30:48, Info                         bShowOnlyInUpgrade:0
+2023-07-12 12:30:48, Info                         bShowOnlyInESDInstall:1
+2023-07-12 12:30:48, Info                         bSilentCleanup:1
+2023-07-12 12:30:48, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Windows ESD Installation Files
+2023-07-12 12:30:48, Info                         IsWebSetupRunning - WebSetup Running: 0
+2023-07-12 12:30:48, Info                         IsProcessElevated - bResult: 1
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\ESD\Windows
+2023-07-12 12:30:48, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\ESD\Windows\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$Windows.~WS
+2023-07-12 12:30:48, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$Windows.~WS\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\ESD\Download
+2023-07-12 12:30:48, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\ESD\Download\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::CleanVolume - Return status: 80070003
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 0
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::Initialize - No files to delete : Windows ESD Installation Files
+2023-07-12 12:30:48, Info                         Initialization status:1
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Windows ESD Installation Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:30:48, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 12:30:48, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Windows Upgrade Log Files
+2023-07-12 12:30:48, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:30:48, Info                         pszWellKnownDirs:Windows\Panther
+2023-07-12 12:30:48, Info                         bCleanWindowsOld:0
+2023-07-12 12:30:48, Info                         bRemoveUninstall:0
+2023-07-12 12:30:48, Info                         bShowOnlyInUpgrade:1
+2023-07-12 12:30:48, Info                         bShowOnlyInESDInstall:0
+2023-07-12 12:30:48, Info                         bSilentCleanup:1
+2023-07-12 12:30:48, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Windows Upgrade Log Files
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 4
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::Initialize - Not allowed to delete : Windows Upgrade Log Files
+2023-07-12 12:30:48, Info                         Initialization status:1
+2023-07-12 12:30:48, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Windows Upgrade Log Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 12:31:07, Info                  DISM   API: PID=3568 TID=4312 Enter DismGetUsedSpaceInternal - DismGetUsedSpaceInternal
+2023-07-12 12:31:07, Info                  DISM   API: PID=3568 TID=4312 Input parameters: Session: 2, Type: 1,  - DismGetUsedSpaceInternal
+2023-07-12 12:31:07, Info                  DISM   API: PID=3568 TID=4312 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 12:31:07, Info                  DISM   API: PID=3568 TID=7480 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:31:07, Info                  DISM   API: PID=3568 TID=7480 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 12:31:07, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\601FD533-0E07-40E7-89AF-2152B798F97E\CbsProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:31:07, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 12:31:07, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\Windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-07-12 12:31:07, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_SUCCESS
+2023-07-12 12:31:08, Info                  DISM   DISM OS Provider: PID=6988 TID=3996 Determined System directory to be C:\Windows\System32 - CDISMOSServiceManager::get_SystemDirectory
+2023-07-12 12:31:08, Info                  DISM   DISM Package Manager: PID=6988 TID=3996 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2023-07-12 12:31:08, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\Windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-07-12 12:31:08, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_SUCCESS
+2023-07-12 12:31:08, Info                  DISM   DISM Package Manager: PID=6988 TID=3996 CBS is being initialized for online use. More information about CBS actions can be located at: %windir%\logs\cbs\cbs.log - CDISMPackageManager::Initialize
+2023-07-12 12:31:08, Info                  DISM   DISM Package Manager: PID=6988 TID=3996 Loaded servicing stack for online use only. - CDISMPackageManager::CreateCbsSession
+2023-07-12 12:31:34, Info                  DISM   API: PID=3568 TID=4312 Exit DismGetUsedSpaceInternal - DismGetUsedSpaceInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Enter DismCloseSessionInternal - DismCloseSessionInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Input parameters: Session: 2 - DismCloseSessionInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 GetReferenceCount hr: 0x0 - CSessionTable::RemoveSession
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Refcount for DismSession= 2s 0 - CSessionTable::RemoveSession
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=7480 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=7480 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=7480 ExecuteLoop: Cancel signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=7480 Leave CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Found the PE Provider.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Finalizing the servicing provider(DISM Package Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Package Manager: PID=6988 TID=3996 Finalizing CBS core. - CDISMPackageManager::Finalize
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Disconnecting Provider: DISM Package Manager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Releasing the local reference to OSServices. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Disconnecting Provider: OSServices - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=6988 TID=3996 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Manager: PID=3568 TID=7480 Closing session event handle 0x698 - CDISMManager::CleanupImageSessionEntry
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Disconnecting Provider: FolderManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Disconnecting Provider: FfuManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Disconnecting Provider: WimManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Disconnecting Provider: VHDManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Disconnecting Provider: GenericImagingManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   DISM Provider Store: PID=3568 TID=7480 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=7480 Leave CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Leave DismCloseSessionInternal - DismCloseSessionInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Enter DismShutdownInternal - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 GetReferenceCount hr: 0x0 - CSessionTable::RemoveSession
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Refcount for DismSession= 1s 0 - CSessionTable::RemoveSession
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=3992 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=3992 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=3992 ExecuteLoop: Cancel signaled - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=3992 Leave CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 12:31:43, Info                  DISM   PID=3568 TID=3992 Temporarily setting the scratch directory. This may be overridden by user later. - CDISMManager::FinalConstruct
+2023-07-12 12:31:43, Info                  DISM   PID=3568 TID=3992 Scratch directory set to 'C:\Users\OMEN\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2023-07-12 12:31:43, Info                  DISM   PID=3568 TID=3992 DismCore.dll version: 10.0.19041.746 - CDISMManager::FinalConstruct
+2023-07-12 12:31:43, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=3992 Leave CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Deleted g_internalDismSession - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Shutdown SessionTable - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 Leave DismShutdownInternal - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll:                                          - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll: <----- Ending DismApi.dll session -----> - DismShutdownInternal
+2023-07-12 12:31:43, Info                  DISM   API: PID=3568 TID=4312 DismApi.dll:                                          - DismShutdownInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll:                                            - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll: <----- Starting DismApi.dll session -----> - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll:                                            - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll: Host machine information: OS Version=10.0.19045, Running architecture=amd64, Number of processors=2 - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll: API Version 10.0.19041.844 - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll: Parent process command line: "C:\Windows\system32\cleanmgr.exe" /autoclean /d C: - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Enter DismInitializeInternal - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Input parameters: LogLevel: 2, LogFilePath: (null), ScratchDirectory: (null) - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Initialized GlobalConfig - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Initialized SessionTable - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Lookup in table by path failed for: DummyPath-2BA51B78-C7F7-4910-B99D-BB7345357CDC - CTransactionalImageTable::LookupImagePath
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Waiting for m_pInternalThread to start - CCommandThread::Start
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=8164 Enter CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=8164 Enter CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 CommandThread StartupEvent signaled - CCommandThread::WaitForStartup
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 m_pInternalThread started - CCommandThread::Start
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Created g_internalDismSession - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Leave DismInitializeInternal - DismInitializeInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Enter DismOpenSessionInternal - DismOpenSessionInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Input parameters: ImagePath: DISM_{53BFAE52-B167-4E2F-A258-0A37B57FF845}, WindowsDirectory: (null), SystemDrive: (null) - DismOpenSessionInternal
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Lookup in table by path failed for: DRIVE_C - CTransactionalImageTable::LookupImagePath
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Waiting for m_pInternalThread to start - CCommandThread::Start
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=5308 Enter CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=5308 Enter CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 CommandThread StartupEvent signaled - CCommandThread::WaitForStartup
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 m_pInternalThread started - CCommandThread::Start
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=1096 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=5308 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:00, Info                  DISM   API: PID=5588 TID=5308 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 18:36:00, Info                  DISM   PID=5588 TID=5308 Scratch directory set to 'C:\Users\OMEN\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2023-07-12 18:36:00, Info                  DISM   PID=5588 TID=5308 DismCore.dll version: 10.0.19041.746 - CDISMManager::FinalConstruct
+2023-07-12 18:36:00, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:00, Info                  DISM   PID=5588 TID=5308 Successfully loaded the ImageSession at "C:\Windows\system32\Dism" - CDISMManager::LoadLocalImageSession
+2023-07-12 18:36:00, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:00, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:00, Info                  DISM   DISM Manager: PID=5588 TID=5308 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Getting the collection of providers from a local provider store type. - CDISMProviderStore::GetProviderCollection
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Connecting to the provider located at C:\Windows\system32\Dism\FolderProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:00, Warning               DISM   DISM Provider Store: PID=5588 TID=5308 Failed to load the provider: C:\Windows\system32\Dism\SiloedPackageProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Connecting to the provider located at C:\Windows\system32\Dism\FfuProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:00, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Connecting to the provider located at C:\Windows\system32\Dism\WimProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Connecting to the provider located at C:\Windows\system32\Dism\VHDProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Connecting to the provider located at C:\Windows\system32\Dism\ImagingProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:01, Warning               DISM   DISM Provider Store: PID=5588 TID=5308 Failed to load the provider: C:\Windows\system32\Dism\MetaDeployProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 18:36:01, Info                  DISM   DISM FFU Provider: PID=5588 TID=5308 [C:\] is not recognized by the DISM FFU provider. - CFfuImage::Initialize
+[5588] [0x8007007b] FIOReadFileIntoBuffer:(1452): The filename, directory name, or volume label syntax is incorrect.
+[5588] [0xc142011c] UnmarshallImageHandleFromDirectory:(641)
+[5588] [0xc142011c] WIMGetMountedImageHandle:(2906)
+2023-07-12 18:36:01, Info                  DISM   DISM WIM Provider: PID=5588 TID=5308 [C:\] is not a WIM mount point. - CWimMountedImageInfo::Initialize
+2023-07-12 18:36:01, Info                  DISM   DISM VHD Provider: PID=5588 TID=5308 [C:\] is not recognized by the DISM VHD provider. - CVhdImage::Initialize
+2023-07-12 18:36:01, Info                  DISM   DISM FFU Provider: PID=5588 TID=5308 [C:\] is not recognized by the DISM FFU provider. - CFfuImage::Initialize
+2023-07-12 18:36:01, Info                  DISM   DISM Imaging Provider: PID=5588 TID=5308 The provider FfuManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+2023-07-12 18:36:01, Info                  DISM   DISM VHD Provider: PID=5588 TID=5308 [C:\] is not recognized by the DISM VHD provider. - CVhdImage::Initialize
+2023-07-12 18:36:01, Info                  DISM   DISM Imaging Provider: PID=5588 TID=5308 The provider VHDManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+[5588] [0x8007007b] FIOReadFileIntoBuffer:(1452): The filename, directory name, or volume label syntax is incorrect.
+[5588] [0xc142011c] UnmarshallImageHandleFromDirectory:(641)
+[5588] [0xc142011c] WIMGetMountedImageHandle:(2906)
+2023-07-12 18:36:01, Info                  DISM   DISM WIM Provider: PID=5588 TID=5308 [C:\] is not a WIM mount point. - CWimMountedImageInfo::Initialize
+2023-07-12 18:36:01, Info                  DISM   DISM Imaging Provider: PID=5588 TID=5308 The provider WimManager does not support CreateDismImage on C:\ - CGenericImagingManager::CreateDismImage
+2023-07-12 18:36:01, Info                  DISM   DISM Imaging Provider: PID=5588 TID=5308 No imaging provider supported CreateDismImage for this path - CGenericImagingManager::CreateDismImage
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 physical location path: C:\ - CDISMManager::CreateImageSession
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 Event name for current DISM session is Global\{7E7A4E66-88FA-4B1B-87B3-DD544AE9F070} - CDISMManager::CheckSessionAndLock
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 Create session event 0x6ac for current DISM session and event name is Global\{7E7A4E66-88FA-4B1B-87B3-DD544AE9F070}  - CDISMManager::CheckSessionAndLock
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 Copying DISM from "C:\Windows\System32\Dism" - CDISMManager::CreateImageSessionFromLocation
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 Successfully loaded the ImageSession at "C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E" - CDISMManager::LoadRemoteImageSession
+2023-07-12 18:36:01, Info                  DISM   DISM Image Session: PID=5680 TID=6488 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Initializing a provider store for the IMAGE session type. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E\OSProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:01, Info                  DISM   DISM OS Provider: PID=5680 TID=6488 Defaulting SystemPath to C:\ - CDISMOSServiceManager::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   DISM OS Provider: PID=5680 TID=6488 Defaulting Windows folder to C:\Windows - CDISMOSServiceManager::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E\LogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:01, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2023-07-12 18:36:01, Warning               DISM   DISM Provider Store: PID=5680 TID=6488 Failed to load the provider: C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E\PEProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2023-07-12 18:36:01, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:01, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:01, Info                  DISM   DISM Manager: PID=5588 TID=5308 Image session successfully loaded from the temporary location: C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E - CDISMManager::CreateImageSession
+2023-07-12 18:36:01, Info                  DISM   API: PID=5588 TID=5308 Target image information: OS Version=10.0.19045.2965, Image architecture=amd64 - CDismCore::LogImageSessionDetails
+2023-07-12 18:36:01, Info                  DISM   API: PID=5588 TID=1096 Leave DismOpenSessionInternal - DismOpenSessionInternal
+2023-07-12 18:36:01, Info                  DISM   API: PID=5588 TID=1096 Session id is: 2 - DismOpenSessionInternal
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Upgrade Discarded Files
+2023-07-12 18:36:01, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:01, Info                         pszWellKnownDirs:$WINDOWS.~Q;$INPLACE.~TR;$Windows.~LS
+2023-07-12 18:36:01, Info                         bCleanWindowsOld:0
+2023-07-12 18:36:01, Info                         bRemoveUninstall:0
+2023-07-12 18:36:01, Info                         bShowOnlyInUpgrade:0
+2023-07-12 18:36:01, Info                         bShowOnlyInESDInstall:0
+2023-07-12 18:36:01, Info                         bSilentCleanup:1
+2023-07-12 18:36:01, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Upgrade Discarded Files
+2023-07-12 18:36:01, Info                         IsProcessElevated - bResult: 1
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$WINDOWS.~Q
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$WINDOWS.~Q\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$INPLACE.~TR
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$INPLACE.~TR\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$Windows.~LS
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$Windows.~LS\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Return status: 80070003
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Initialize - No files to delete : Upgrade Discarded Files
+2023-07-12 18:36:01, Info                         Initialization status:1
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Upgrade Discarded Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Windows ESD Installation Files
+2023-07-12 18:36:01, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:01, Info                         pszWellKnownDirs:ESD\Windows;$Windows.~WS;ESD\Download
+2023-07-12 18:36:01, Info                         bCleanWindowsOld:0
+2023-07-12 18:36:01, Info                         bRemoveUninstall:0
+2023-07-12 18:36:01, Info                         bShowOnlyInUpgrade:0
+2023-07-12 18:36:01, Info                         bShowOnlyInESDInstall:1
+2023-07-12 18:36:01, Info                         bSilentCleanup:1
+2023-07-12 18:36:01, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Windows ESD Installation Files
+2023-07-12 18:36:01, Info                         IsWebSetupRunning - WebSetup Running: 0
+2023-07-12 18:36:01, Info                         IsProcessElevated - bResult: 1
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\ESD\Windows
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\ESD\Windows\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\$Windows.~WS
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\$Windows.~WS\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Iterating on: C:\ESD\Download
+2023-07-12 18:36:01, Error                        EnumeratePathEx: FindFirstFile failed for [\\?\C:\ESD\Download\*]; GLE = 0x3[gle=0x00000003]
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::CleanVolume - Return status: 80070003
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Initialize - No files to delete : Windows ESD Installation Files
+2023-07-12 18:36:01, Info                         Initialization status:1
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Windows ESD Installation Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - Getting plugin name
+2023-07-12 18:36:01, Info                         SetupClnLogInitializationInfo - session being initialized for Plugin: Windows Upgrade Log Files
+2023-07-12 18:36:01, Info                         Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:01, Info                         pszWellKnownDirs:Windows\Panther
+2023-07-12 18:36:01, Info                         bCleanWindowsOld:0
+2023-07-12 18:36:01, Info                         bRemoveUninstall:0
+2023-07-12 18:36:01, Info                         bShowOnlyInUpgrade:1
+2023-07-12 18:36:01, Info                         bShowOnlyInESDInstall:0
+2023-07-12 18:36:01, Info                         bSilentCleanup:1
+2023-07-12 18:36:01, Info                         bCleanupTemporaryInstallationFiles:0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Calculating the space for session: Windows Upgrade Log Files
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Space used : 0
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::GetSpaceUsed - Block status: 4
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Initialize - Not allowed to delete : Windows Upgrade Log Files
+2023-07-12 18:36:01, Info                         Initialization status:1
+2023-07-12 18:36:01, Info                         CSetupFilesCleanup::Deactivate - session deactivated for Plugin:Windows Upgrade Log Files, Client Process:C:\Windows\system32\cleanmgr.exe
+2023-07-12 18:36:05, Info                  DISM   API: PID=5588 TID=1096 Enter DismGetUsedSpaceInternal - DismGetUsedSpaceInternal
+2023-07-12 18:36:05, Info                  DISM   API: PID=5588 TID=1096 Input parameters: Session: 2, Type: 1,  - DismGetUsedSpaceInternal
+2023-07-12 18:36:05, Info                  DISM   API: PID=5588 TID=1096 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 18:36:05, Info                  DISM   API: PID=5588 TID=5308 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:05, Info                  DISM   API: PID=5588 TID=5308 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 18:36:05, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Connecting to the provider located at C:\Users\OMEN\AppData\Local\Temp\99C90557-0CB2-4FA7-9619-E32D00A7943E\CbsProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:05, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2023-07-12 18:36:05, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\Windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-07-12 18:36:05, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_SUCCESS
+2023-07-12 18:36:05, Info                  DISM   DISM OS Provider: PID=5680 TID=6488 Determined System directory to be C:\Windows\System32 - CDISMOSServiceManager::get_SystemDirectory
+2023-07-12 18:36:05, Info                  DISM   DISM Package Manager: PID=5680 TID=6488 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2023-07-12 18:36:05, Info                  CSI    00000001 Shim considered [l:126]'\??\C:\Windows\Servicing\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_OBJECT_PATH_NOT_FOUND
+2023-07-12 18:36:05, Info                  CSI    00000002 Shim considered [l:123]'\??\C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.2905_none_7dd39c4c7cb9dfa0\wcp.dll' : got STATUS_SUCCESS
+2023-07-12 18:36:05, Info                  DISM   DISM Package Manager: PID=5680 TID=6488 CBS is being initialized for online use. More information about CBS actions can be located at: %windir%\logs\cbs\cbs.log - CDISMPackageManager::Initialize
+2023-07-12 18:36:05, Info                  DISM   DISM Package Manager: PID=5680 TID=6488 Loaded servicing stack for online use only. - CDISMPackageManager::CreateCbsSession
+2023-07-12 18:36:17, Info                  DISM   API: PID=5588 TID=1096 Exit DismGetUsedSpaceInternal - DismGetUsedSpaceInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Enter DismCloseSessionInternal - DismCloseSessionInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Input parameters: Session: 2 - DismCloseSessionInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 GetReferenceCount hr: 0x0 - CSessionTable::RemoveSession
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Refcount for DismSession= 2s 0 - CSessionTable::RemoveSession
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=5308 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=5308 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=5308 ExecuteLoop: Cancel signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=5308 Leave CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Found the PE Provider.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Finalizing the servicing provider(DISM Package Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Package Manager: PID=5680 TID=6488 Finalizing CBS core. - CDISMPackageManager::Finalize
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Disconnecting Provider: DISM Package Manager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Releasing the local reference to OSServices. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Disconnecting Provider: OSServices - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5680 TID=6488 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Manager: PID=5588 TID=5308 Closing session event handle 0x6ac - CDISMManager::CleanupImageSessionEntry
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Disconnecting Provider: FolderManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Disconnecting Provider: FfuManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Disconnecting Provider: WimManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Disconnecting Provider: VHDManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Disconnecting Provider: GenericImagingManager - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   DISM Provider Store: PID=5588 TID=5308 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=5308 Leave CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Leave DismCloseSessionInternal - DismCloseSessionInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Enter DismShutdownInternal - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 GetReferenceCount hr: 0x0 - CSessionTable::RemoveSession
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Refcount for DismSession= 1s 0 - CSessionTable::RemoveSession
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Successfully enqueued command object - CCommandThread::EnqueueCommandObject
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=8164 ExecuteLoop: CommandQueue signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=8164 Successfully dequeued command object - CCommandThread::DequeueCommandObject
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=8164 ExecuteLoop: Cancel signaled - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=8164 Leave CCommandThread::ExecuteLoop - CCommandThread::ExecuteLoop
+2023-07-12 18:36:19, Info                  DISM   PID=5588 TID=8164 Temporarily setting the scratch directory. This may be overridden by user later. - CDISMManager::FinalConstruct
+2023-07-12 18:36:19, Info                  DISM   PID=5588 TID=8164 Scratch directory set to 'C:\Users\OMEN\AppData\Local\Temp\'. - CDISMManager::put_ScratchDir
+2023-07-12 18:36:19, Info                  DISM   PID=5588 TID=8164 DismCore.dll version: 10.0.19041.746 - CDISMManager::FinalConstruct
+2023-07-12 18:36:19, Info                  DISM   Initialized Panther logging at C:\Windows\Logs\DISM\dism.log
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=8164 Leave CCommandThread::CommandThreadProcedureStub - CCommandThread::CommandThreadProcedureStub
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Deleted g_internalDismSession - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Shutdown SessionTable - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 Leave DismShutdownInternal - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll:                                          - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll: <----- Ending DismApi.dll session -----> - DismShutdownInternal
+2023-07-12 18:36:19, Info                  DISM   API: PID=5588 TID=1096 DismApi.dll:                                          - DismShutdownInternal

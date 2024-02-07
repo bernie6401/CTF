@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ActionList xmlns="urn:schemas-microsoft-com:os-update-actionlist" SessionId="2023-07-12T11:32:58" Revision="1" SessionData="DesktopServicing" BuildInfo="vb_release.19041.1.191206-1406" CorrelationVector="j5syjyVXlUqBRX4l.1.1.21.1" Operation="DesktopServicing">
+    <Downloads>
+        <Package Id="Package_for_KB5027389" Reason="SafeOSDU" PayloadType="PSFX" FeatureId="SafeOSUpdate_KB5027389">
+            <Payload Hash="xcjA+oSjXG0G5PWn20mksTF+GAJ1JfUM7NyroV+7s7A=" DownloadSize="7419288" SourceName="Windows10.0-KB5027389-x64.cab"/>
+        </Package>
+        <Package Id="Package_for_RollupFix" Reason="CumulativeUpdate" PayloadType="PSFX" FeatureId="CumulativeUpdate_KB5028166">
+            <Payload Hash="Hee+89jms/KHUa5f6lAQdY4aJdJDvfvy/fqdWz3QrPE=" DownloadSize="760759390" SourceName="Windows10.0-KB5028166-x64.cab"/>
+        </Package>
+        <Package Id="Package_for_ServicingStack_3205" Reason="ServicingStackUpdate" PayloadType="Canonical" FeatureId="ServicingStackUpdate_KB5028318">
+            <Payload Hash="SxpY002CmePUgi7nsPOKc0L91ZIl7Z5W50gwbq1vUPk=" DownloadSize="15968511" SourceName="SSU-19041.3205-x64.cab"/>
+        </Package>
+    </Downloads>
+    <Plan>
+        <InstallFeature Id="ServicingStackUpdate_KB5028318" Group="Microsoft"/>
+    </Plan>
+    <Actions>
+        <InstallPackage Keyform="Package_for_ServicingStack_3205~~amd64~~19041.3205.1.1" InstalledSize="57045524" StagedSize="0" FilePath="SSU-19041.3205-x64.cab" Reason="ServicingStackUpdate" FeatureId="ServicingStackUpdate_KB5028318" Partition="MainOS" BinaryPartition="false"/>
+    </Actions>
+</ActionList>

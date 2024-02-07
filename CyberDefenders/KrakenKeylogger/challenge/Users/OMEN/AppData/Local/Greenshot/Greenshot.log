@@ -1,0 +1,558 @@
+﻿2023-07-12 11:09:46,674 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 11:09:46,721 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 11:09:46,799 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 11:09:46 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 11:09:46,956 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 11:09:46,956 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:46,971 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:47,049 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:47,049 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:09:47,549 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 11:09:47,549 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 11:09:47,612 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 11:09:47,956 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 11:09:48,050 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 11:09:48,050 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 11:09:48,424 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 11:09:48,424 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 11:09:48,440 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 11:09:48,440 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 11:09:48,440 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 11:09:48,455 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 11:09:48,455 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 11:09:48,721 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 11:09:48,737 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 11:09:48,737 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 11:09:48,752 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 11:09:48,924 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 11:09:48,940 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 11:09:48,940 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 11:09:49,159 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 11:09:49,159 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 11:09:49,175 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 11:09:49,175 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 11:09:49,175 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 11:09:49,175 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 11:09:49,175 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 11:09:49,190 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 11:09:49,190 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 11:09:49,205 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 11:09:49,205 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 11:09:49,205 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 11:09:49,221 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 11:09:49,221 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 11:09:49,221 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 11:09:49,284 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 11:09:49,284 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 11:09:49,284 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 11:09:49,299 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 11:09:49,299 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 11:09:49,315 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 11:09:49,315 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 11:09:49,315 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 11:09:49,315 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 11:09:49,331 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 11:09:49,331 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 11:09:49,346 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 11:09:49,346 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 11:09:49,346 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 11:09:49,362 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 11:09:49,674 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 11:09:49,690 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 11:09:49,846 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 11:09:49,846 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 11:09:49,862 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 11:09:49,862 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 11:09:50,034 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 11:09:50,049 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 11:09:50,049 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 11:09:50,049 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 11:09:50,065 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 11:09:50,065 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 11:09:50,065 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 11:09:50,081 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Unknown language en, trying best match!
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Found language en-US, best match for en!
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 11:09:50,081 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 11:09:52,987 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 11:09:53,049 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 11:09:53,065 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 11:09:53,112 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 11:09:57,578 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 11:09:57,578 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!
+2023-07-12 11:09:57,859 [Greenshot] INFO  - [Greenshot.MainForm] FirstLaunch: Created new configuration, showing balloon.
+2023-07-12 11:33:22,097 [Greenshot] WARN  - [ExternalCommand.SettingsFormDetail] Can't get the initial path via 
+2023-07-12 11:33:22,097 [Greenshot] WARN  - [ExternalCommand.SettingsFormDetail] Exception: 
+System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.InternalGetDirectoryName(String path)
+   at ExternalCommand.SettingsFormDetail.Button3Click(Object sender, EventArgs e)
+2023-07-12 11:33:44,812 [Greenshot] WARN  - [ExternalCommand.SettingsFormDetail] Can't get the initial path via 
+2023-07-12 11:33:44,812 [Greenshot] WARN  - [ExternalCommand.SettingsFormDetail] Exception: 
+System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.InternalGetDirectoryName(String path)
+   at ExternalCommand.SettingsFormDetail.Button3Click(Object sender, EventArgs e)
+2023-07-12 11:35:40,685 [Greenshot] INFO  - [GreenshotPlugin.Controls.GreenshotForm] Form was closed with OK: storing field values.
+2023-07-12 11:35:47,218 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:35:47,218 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:35:47,343 [Greenshot] INFO  - [GreenshotPlugin.Controls.GreenshotForm] Form was closed with OK: storing field values.
+2023-07-12 11:35:54,654 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:35:54,654 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:36:04,550 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 11:36:04,550 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:04:21,875 [Greenshot] INFO  - [Greenshot.MainForm] Exit: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:04:21 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 128, User object count: 47, 
+2023-07-12 12:04:22,734 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:04:22,734 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:04:22,750 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Released Mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08 for Greenshot
+2023-07-12 12:07:27,827 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 12:07:27,999 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 12:07:28,015 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:07:28,015 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:07:28,015 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:07:28,015 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Loading ini-file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:07:28,124 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:07:28,124 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:07:28,562 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:07:28 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 12:07:30,280 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 12:07:32,952 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 12:07:32,952 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 12:07:33,223 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 12:07:33,666 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 12:07:33,853 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:07:33,962 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 12:07:34,369 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 12:07:34,416 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 12:07:34,493 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:07:34,572 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 12:07:34,696 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 12:07:34,759 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 12:07:34,790 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 12:07:34,821 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 12:07:35,103 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 12:07:35,134 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 12:07:35,149 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 12:07:35,181 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 12:07:35,259 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 12:07:35,337 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 12:07:35,399 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 12:07:35,415 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 12:07:35,446 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:07:35,446 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 12:07:35,446 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:07:35,478 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 12:07:35,525 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 12:07:35,571 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 12:07:35,837 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:07:35,900 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 12:07:35,978 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 12:07:36,024 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 12:07:36,149 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 12:07:36,368 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 12:07:36,446 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 12:07:36,494 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 12:07:36,618 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 12:07:36,744 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 12:07:36,856 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 12:07:37,417 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 12:07:37,805 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 12:07:37,836 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 12:07:38,180 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 12:07:38,227 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 12:07:38,352 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 12:07:38,508 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 12:07:38,555 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 12:07:38,962 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:07:38,993 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 12:07:39,087 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 12:07:39,119 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 12:07:39,134 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 12:07:39,165 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 12:07:39,368 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 12:07:39,384 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 12:07:39,399 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 12:07:39,540 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 12:07:39,586 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 12:07:39,602 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 12:07:39,633 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 12:07:39,665 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 12:07:39,680 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 12:07:39,711 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 12:07:39,728 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 12:07:39,728 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 12:07:39,743 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:07:39,743 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:07:39,743 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:07:39,743 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:07:42,399 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 12:07:42,415 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 12:07:42,446 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 12:07:42,462 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 12:07:42,555 [Greenshot] WARN  - [ExternalCommand.ExternalCommandPlugin] Found missing runInbackground for jlhgfjhdflgh;ildfhgl
+2023-07-12 12:07:47,671 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 12:07:47,671 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!
+2023-07-12 12:12:45,352 [Greenshot] INFO  - [Greenshot.MainForm] Exit: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:12:45 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 26, User object count: 21, 
+2023-07-12 12:12:45,888 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:12:45,898 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:12:46,081 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Released Mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08 for Greenshot
+2023-07-12 12:20:45,634 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 12:20:46,228 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 12:20:46,259 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:20:46,259 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:20:46,259 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:20:46,259 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Loading ini-file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:20:46,682 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:20:46,682 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:20:47,948 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:20:47 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 12:20:52,594 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 12:21:00,800 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 12:21:00,800 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 12:21:01,815 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 12:21:05,498 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 12:21:06,574 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:21:06,686 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 12:21:07,544 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 12:21:07,701 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 12:21:07,788 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:21:08,060 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 12:21:08,617 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 12:21:08,713 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 12:21:08,976 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 12:21:09,490 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 12:21:10,216 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 12:21:10,409 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 12:21:10,683 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 12:21:11,129 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 12:21:12,499 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 12:21:12,712 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 12:21:13,143 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 12:21:13,725 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 12:21:14,079 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:21:14,079 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 12:21:14,079 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:21:14,429 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 12:21:15,188 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 12:21:15,495 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 12:21:16,553 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:21:16,977 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 12:21:17,395 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 12:21:17,675 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 12:21:17,854 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 12:21:18,009 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 12:21:18,248 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 12:21:18,552 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 12:21:18,758 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 12:21:19,130 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 12:21:19,358 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 12:21:19,769 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 12:21:19,944 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 12:21:20,157 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 12:21:20,516 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 12:21:20,645 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 12:21:20,869 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 12:21:21,103 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 12:21:21,525 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 12:21:22,022 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:21:22,402 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 12:21:23,080 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 12:21:23,179 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 12:21:23,220 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 12:21:23,426 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 12:21:23,735 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 12:21:23,854 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 12:21:23,934 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 12:21:24,014 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 12:21:24,196 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 12:21:24,263 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 12:21:24,314 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 12:21:24,403 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 12:21:24,608 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 12:21:24,738 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 12:21:24,816 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 12:21:24,818 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 12:21:24,842 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:21:24,854 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:21:24,855 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:21:24,856 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:21:30,596 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 12:21:30,642 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 12:21:30,671 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 12:21:30,751 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 12:21:38,611 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 12:21:38,611 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!
+2023-07-12 12:34:04,690 [Greenshot] INFO  - [Greenshot.MainForm] Exit: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:34:04 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 31, User object count: 21, 
+2023-07-12 12:34:04,925 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:34:04,987 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:34:05,284 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Released Mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08 for Greenshot
+2023-07-12 12:38:04,967 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 12:38:05,138 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 12:38:05,138 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:38:05,138 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 12:38:05,154 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:38:05,154 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Loading ini-file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 12:38:05,279 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:38:05,279 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 12:38:05,435 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 12:38:05 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 12:38:06,216 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 12:38:08,008 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 12:38:08,008 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 12:38:08,212 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 12:38:08,633 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 12:38:08,805 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:38:08,961 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 12:38:09,399 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 12:38:09,415 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 12:38:09,445 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:38:09,477 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 12:38:09,868 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 12:38:09,899 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 12:38:09,977 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 12:38:10,009 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 12:38:10,086 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 12:38:10,133 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 12:38:10,164 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 12:38:10,352 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 12:38:10,461 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 12:38:10,492 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 12:38:10,540 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 12:38:10,571 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 12:38:10,602 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:38:10,602 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 12:38:10,602 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 12:38:10,634 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 12:38:10,759 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 12:38:10,790 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 12:38:10,899 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:38:10,993 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 12:38:11,024 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 12:38:11,149 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 12:38:11,165 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 12:38:11,274 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 12:38:11,375 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 12:38:11,501 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 12:38:11,579 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 12:38:11,720 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 12:38:11,845 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 12:38:11,907 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 12:38:11,954 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 12:38:11,985 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 12:38:12,016 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 12:38:12,047 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 12:38:12,079 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 12:38:12,110 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 12:38:12,141 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 12:38:12,282 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:38:12,313 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 12:38:12,360 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 12:38:12,407 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 12:38:12,423 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 12:38:12,438 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 12:38:12,649 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 12:38:12,691 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 12:38:12,738 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 12:38:12,863 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 12:38:12,910 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 12:38:12,941 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 12:38:12,972 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 12:38:13,003 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 12:38:13,019 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 12:38:13,050 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 12:38:13,082 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 12:38:16,926 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 12:38:17,004 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 12:38:17,004 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 12:38:17,067 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 12:38:23,798 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 12:38:23,798 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!
+2023-07-12 19:47:56,706 [Greenshot] INFO  - [Greenshot.MainForm] Exit: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 19:47:56 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 31, User object count: 21, 
+2023-07-12 19:47:57,773 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:47:57,806 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:47:58,051 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Released Mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08 for Greenshot
+2023-07-12 19:52:14,000 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 19:52:15,516 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 19:52:15,571 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 19:52:15,593 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 19:52:15,609 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:52:15,656 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Loading ini-file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:52:16,244 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 19:52:16,244 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 19:52:17,406 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 19:52:16 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 19:52:21,032 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 19:52:26,974 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 19:52:26,974 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 19:52:27,500 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 19:52:29,713 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 19:52:29,813 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 19:52:29,906 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 19:52:30,941 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 19:52:30,969 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 19:52:31,022 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 19:52:31,131 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 19:52:31,688 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 19:52:31,813 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 19:52:31,922 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 19:52:32,047 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 19:52:32,235 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 19:52:32,323 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 19:52:32,344 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 19:52:32,501 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 19:52:32,579 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 19:52:32,720 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 19:52:32,876 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 19:52:32,969 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 19:52:33,188 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 19:52:33,188 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 19:52:33,188 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 19:52:33,344 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 19:52:33,407 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 19:52:33,438 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 19:52:33,595 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 19:52:33,657 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 19:52:33,704 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 19:52:33,767 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 19:52:33,845 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 19:52:33,954 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 19:52:34,079 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 19:52:34,141 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 19:52:34,204 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 19:52:34,267 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 19:52:34,461 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 19:52:34,773 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 19:52:34,845 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 19:52:34,860 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 19:52:34,993 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 19:52:35,045 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 19:52:35,142 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 19:52:35,220 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 19:52:35,266 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 19:52:35,407 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 19:52:35,439 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 19:52:35,485 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 19:52:35,516 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 19:52:35,516 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 19:52:35,548 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 19:52:35,688 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 19:52:35,766 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 19:52:35,875 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 19:52:36,063 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 19:52:36,126 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 19:52:36,235 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 19:52:36,250 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 19:52:36,266 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 19:52:36,313 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 19:52:36,423 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 19:52:36,454 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 19:52:36,454 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 19:52:36,501 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 19:52:36,628 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 19:52:36,628 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 19:52:36,628 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 19:52:43,311 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 19:52:43,405 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 19:52:43,405 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 19:52:43,546 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 19:52:50,592 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 19:52:50,592 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!
+2023-07-12 19:53:12,014 [Greenshot] INFO  - [Greenshot.MainForm] Exit: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 19:53:12 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 26, User object count: 22, 
+2023-07-12 19:53:12,530 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:53:12,566 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Saving configuration to: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:53:12,718 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Released Mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08 for Greenshot
+2023-07-12 19:58:13,718 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ProductName Greenshot
+2023-07-12 19:58:13,828 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Checking for portable mode.
+2023-07-12 19:58:13,828 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 19:58:13,843 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-defaults.ini
+2023-07-12 19:58:13,843 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:58:13,843 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Loading ini-file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot.ini
+2023-07-12 19:58:13,937 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Using ini file C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 19:58:13,937 [Greenshot] INFO  - [Greenshot.IniFile.IniConfig] Can't find file: C:\Users\OMEN\AppData\Roaming\Greenshot\Greenshot-fixed.ini
+2023-07-12 19:58:14,031 [Greenshot] INFO  - [Greenshot.MainForm] Starting: Software version: 1.2.10.6-RELEASE-c2414cf0149a1475ea00520effc01b40087c225c (64 bit), .NET runtime version: 4.0.30319.42000+, Time: 2023-07-12 19:58:13 +03:00, OS: unknown   (x64)  10.0 build 19045 revision 0, GDI object count: 0, User object count: 2, 
+2023-07-12 19:58:14,281 [Greenshot] INFO  - [Greenshot.Helpers.DestinationHelper] Greenshot has created & claimed the mutex Local\F48E86D3-E34C-4DB7-8F8F-9A0EA55F0D08
+2023-07-12 19:58:17,812 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Program Files\Greenshot\App\Greenshot\Languages
+2023-07-12 19:58:17,812 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Not adding non existing language path C:\Users\OMEN\AppData\Roaming\Greenshot\Languages\
+2023-07-12 19:58:17,844 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for language files with pattern 'language*.xml'
+2023-07-12 19:58:19,312 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\language-de-DE.xml
+2023-07-12 19:58:19,672 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 19:58:19,875 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\language-nl-NL.xml
+2023-07-12 19:58:20,515 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-cs-CZ.xml
+2023-07-12 19:58:20,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-de-DE.xml
+2023-07-12 19:58:20,797 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 19:58:20,875 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition French from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-fr-FR.xml
+2023-07-12 19:58:21,250 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-id-ID.xml
+2023-07-12 19:58:21,359 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-it-IT.xml
+2023-07-12 19:58:21,515 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-kab-DZ.xml
+2023-07-12 19:58:21,593 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ko-KR.xml
+2023-07-12 19:58:21,843 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-lv-LV.xml
+2023-07-12 19:58:21,937 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pl-PL.xml
+2023-07-12 19:58:22,109 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-pt-PT.xml
+2023-07-12 19:58:22,156 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-ru-RU.xml
+2023-07-12 19:58:22,219 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sk-SK.xml
+2023-07-12 19:58:22,344 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sr-RS.xml
+2023-07-12 19:58:22,516 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-sv-SE.xml
+2023-07-12 19:58:22,594 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-uk-UA.xml
+2023-07-12 19:58:22,656 [Greenshot] WARN  - [GreenshotPlugin.Core.Language] Fixing missing ietf in language-file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 19:58:22,656 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Fixed IETF to zh-CN
+2023-07-12 19:58:22,656 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-CN.xml
+2023-07-12 19:58:22,718 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-zh-TW.xml
+2023-07-12 19:58:22,859 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-cs-CZ.xml
+2023-07-12 19:58:22,891 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-de-DE.xml
+2023-07-12 19:58:22,984 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 19:58:23,078 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-fr-FR.xml
+2023-07-12 19:58:23,140 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-id-ID.xml
+2023-07-12 19:58:23,172 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-it-IT.xml
+2023-07-12 19:58:23,234 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-kab-DZ.xml
+2023-07-12 19:58:23,297 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ko-KR.xml
+2023-07-12 19:58:23,390 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-lv-LV.xml
+2023-07-12 19:58:23,437 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-nl-NL.xml
+2023-07-12 19:58:23,515 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pl-PL.xml
+2023-07-12 19:58:23,609 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-pt-PT.xml
+2023-07-12 19:58:23,750 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-ru-RU.xml
+2023-07-12 19:58:23,875 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sk-SK.xml
+2023-07-12 19:58:23,890 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sr-RS.xml
+2023-07-12 19:58:23,969 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-sv-SE.xml
+2023-07-12 19:58:24,016 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-uk-UA.xml
+2023-07-12 19:58:24,063 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-CN.xml
+2023-07-12 19:58:24,141 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-zh-TW.xml
+2023-07-12 19:58:24,171 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Czech from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-cs-CZ.xml
+2023-07-12 19:58:24,188 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Deutsch from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-de-DE.xml
+2023-07-12 19:58:24,250 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition English from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 19:58:24,296 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Français from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-fr-FR.xml
+2023-07-12 19:58:24,328 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Bahasa Indonesia from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-id-ID.xml
+2023-07-12 19:58:24,343 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Italiano from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-it-IT.xml
+2023-07-12 19:58:24,359 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Taqbaylit from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-kab-DZ.xml
+2023-07-12 19:58:24,375 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition korean from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ko-KR.xml
+2023-07-12 19:58:24,391 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Latviski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-lv-LV.xml
+2023-07-12 19:58:24,406 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Nederlands from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-nl-NL.xml
+2023-07-12 19:58:24,422 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Polski from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pl-PL.xml
+2023-07-12 19:58:24,453 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Portuguese (Portugal) from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-pt-PT.xml
+2023-07-12 19:58:24,484 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Русский from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-ru-RU.xml
+2023-07-12 19:58:24,516 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Slovenčina from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sk-SK.xml
+2023-07-12 19:58:24,547 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Српски from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sr-RS.xml
+2023-07-12 19:58:24,562 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Svenska from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-sv-SE.xml
+2023-07-12 19:58:24,578 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition Українська from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-uk-UA.xml
+2023-07-12 19:58:24,609 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 简体中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-CN.xml
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Added language definition 正體中文 from: C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-zh-TW.xml
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Searching language directory 'C:\Program Files\Greenshot\Languages' for help files with pattern 'help-*.html'
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\language-en-US.xml
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotExternalCommandPlugin\language_externalcommandplugin-en-US.xml
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotImgurPlugin\language_imgurplugin-en-US.xml
+2023-07-12 19:58:24,625 [Greenshot] INFO  - [GreenshotPlugin.Core.Language] Loading language file C:\Program Files\Greenshot\Languages\Plugins\GreenshotOCRPlugin\language_ocrplugin-en-US.xml
+2023-07-12 19:58:27,109 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin External command Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotExternalCommandPlugin\GreenshotExternalCommandPlugin.gsp
+2023-07-12 19:58:27,125 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Imgur Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotImgurPlugin\GreenshotImgurPlugin.gsp
+2023-07-12 19:58:27,140 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin OCR Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOCRPlugin\GreenshotOCRPlugin.gsp
+2023-07-12 19:58:27,156 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Loading the plugin Office Plugin with version 1.2.10.6 from C:\Program Files\Greenshot\Plugins\GreenshotOfficePlugin\GreenshotOfficePlugin.gsp
+2023-07-12 19:58:29,843 [Greenshot] WARN  - [GreenshotOCR.OcrPlugin] No MODI found!
+2023-07-12 19:58:29,843 [Greenshot] INFO  - [Greenshot.Helpers.PluginHelper] Plugin OCR Plugin not initialized!

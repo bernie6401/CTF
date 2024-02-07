@@ -1,0 +1,6 @@
+2023-07-12T07:43:19.042Z <Info> [5880] InstallerContext.cpp:117 webinstaller::InstallerContext::createCoreFramework:Create Framework
+2023-07-12T07:43:19.221Z <Error> [5880] Label.cpp:66 webinstaller::Label::initializeBitmap:Anti-Aliasing failed
+2023-07-12T07:43:19.222Z <Info> [5880] MainWindow.cpp:527 webinstaller::MainWindow::showInitialWindow:Showing Initial Window...
+2023-07-12T07:43:19.242Z <Info> [5880] MainWindow.cpp:169 webinstaller::MainWindow::OnCreate:All systems go
+2023-07-12T07:43:21.418Z <Debug> [5880] TaskManager.cpp:27 network::TaskManager::onExit:TasMabager: 0x00869D2C
+2023-07-12T07:43:21.741Z <Debug> [5880] TaskManager.cpp:27 network::TaskManager::onExit:TasMabager: 0x00869D2C

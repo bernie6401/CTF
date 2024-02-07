@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Locale name="zh-CN">
+  <EndPoints>
+    <OSSEndPoints>
+      <OSSEndPoint name="RulesRequest">
+        <!-- Defaults for Rules Query -->
+        <!-- TEAM OWNER: IPE Rules Engine -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v1/agentgateway" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseGenuineWindowsPhoneCert value="true" type="bool" />
+      </OSSEndPoint>
+      <OSSEndPoint name="RulesRequestUserSignals">
+        <!-- Defaults for Rules Query -->
+        <!-- TEAM OWNER: IPE Rules Engine -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v1/daemongateway" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseGenuineWindowsPhoneCert value="true" type="bool" />
+      </OSSEndPoint>
+      <OSSEndPoint name="CATUpload">
+        <!-- Defaults for CAT data upload -->
+        <!--TEAM OWNER: CAT -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v1/agentgateway/data" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseGenuineWindowsPhoneCert value="true" type="bool" />
+      </OSSEndPoint>
+      <OSSEndPoint name="CATUploadBinary">
+        <!-- Defaults for CAT binary data upload -->
+        <!--TEAM OWNER: CAT -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v1/agentgateway/binarydata" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseGenuineWindowsPhoneCert value="true" type="bool" />
+      </OSSEndPoint>
+      <OSSEndPoint name="IPEInstrUpload">
+        <!-- Defaults for IPE instrumentation data upload -->
+        <!-- TEAM OWNER: IPE Agents -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/ds/api/wplog" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseGenuineWindowsPhoneCert value="true" type="bool" />
+      </OSSEndPoint>
+      <OSSEndPoint name="Entity">
+        <!-- Defaults for uploading the suggestions/interests from email entity extraction -->
+        <!-- TEAM OWNER: CAT -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ssl-api.bing-int.com" type="url" />
+        <PPEServer value="api-ppe.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v1/agentgateway/entity" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+      </OSSEndPoint>
+      <OSSEndPoint name="Reminders">
+        <!-- Defaults for Reminders sync service -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ppe.platform.bing.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v2/intent/reminder" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+        <UseStrongAuthTokenIfExists type="bool" value="true" />
+      </OSSEndPoint>
+      <OSSEndPoint name="ContactPermissions">
+        <!-- Defaults for ContactPermissions sync service -->
+        <Server value="platform.cn.bing.com" type="url" />
+        <INTServer value="ppe.platform.bing.com" type="url" />
+        <PPEServer value="ppe.platform.bing.com" type="url" />
+        <IsSecure value="true" type="bool" />
+        <Port value="443" type="int" />
+        <Url value="/agents/v2/intent" type="string" />
+        <IsPersonalizationEnabled type="bool" value="true" />
+        <IsCompressionEnabled type="bool" value="true" />
+      </OSSEndPoint>
+    </OSSEndPoints>
+    <NonOSSEndPoints>
+      <NonOSSEndPoint name="Homepage">
+        <Server value="https://cn.bing.com" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="WebSearch">
+        <Server value="https://cn.bing.com/search" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="ProactiveContentUpdate">
+        <Server value="https://cn.bing.com/proactive/v2/spark" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="ProactiveV3">
+        <Server value="https://cn.bing.com/proactive/home" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="QueryFormulation">
+        <Server value="https://cn.bing.com/AS/API/WindowsCortanaPane/V2/Init" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="DeviceContent">
+        <Server value="https://cn.bing.com/devicecontent" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="Feedback">
+        <Server value="https://cn.bing.com/feedback/windows" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="Host">
+        <Server value="cn.bing.com" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookEndpointV2">
+        <Server value="https://cn.bing.com/profile/interests/v2/servicelist" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookServiceBaseEndpointV2">
+        <Server value="https://cn.bing.com/profile/interests/v2/service" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookConnectedServicesProviderEndpoint">
+        <Server value="https://cn.bing.com/account/permissions/provider" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookConnectedServicesBaseEndpoint">
+        <Server value="https://cn.bing.com/account/permissions" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookSkillsProviderEndpoint">
+        <Server value="https://cn.bing.com/skills/permissions/provider" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookSkillsBaseEndpoint">
+        <Server value="https://cn.bing.com/skills/permissions" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="NotebookAboutMeHomeEndpoint">
+        <Server value="https://cn.bing.com/aboutme/homepage" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="RemindersHomeEndpoint">
+        <Server value="https://cn.bing.com/reminders/home" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="TriggerlessReminderEndpoint">
+        <Server value="https://cn.bing.com/reminders/home/triggerless" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="TimeReminderEndpoint">
+        <Server value="https://cn.bing.com/reminders/home/time" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="LocationReminderEndpoint">
+        <Server value="https://cn.bing.com/reminders/home/location" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="PeopleReminderEndpoint">
+        <Server value="https://cn.bing.com/reminders/home/people" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="RemindersHomePageEndpoint">
+        <Server value="https://cn.bing.com/reminders/homepage" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="EditRemindersPageEndpoint">
+        <Server value="https://cn.bing.com/reminders/home/edit" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="TriggerlessReminderEndpointV2">
+        <Server value="https://cn.bing.com/reminders/home/create" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="TimeReminderEndpointV2">
+        <Server value="https://cn.bing.com/reminders/home/create/time" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="AccountPersonalization">
+        <Server value="https://cn.bing.com/profile/interests/v2/clearprofile" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="SnRLocalSearchEndpointWithUserLocation">
+        <Server value="https://cn.bing.com/api/v2/local/search?appid={appid}&amp;mkt={market}&amp;setlang={uilang}&amp;location={userlocation}&amp;count={maxresults}&amp;q={query}" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="LocalSearchV2">
+        <Server value="https://cn.bing.com/api/v2/local/" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="LocationAutosuggestEndpointWithUserLocation">
+        <Server value="https://platform.cn.bing.com/geo/autosuggest/v1?q={query}&amp;umv={maparea}&amp;mr={maxresults}&amp;ul={userlocation}&amp;appid={appid}&amp;device=ph" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="HmdsMessagesPull">
+        <Server value="https://platform.cn.bing.com/agents/hmds/v1/messages/pull" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="Domain">
+        <Server value="cn.bing.com" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="TEE">
+        <Server value="https://cn.bing.com/tee" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="COOBE">
+        <Server value="https://cn.bing.com/AS/API/WindowsCortanaCOOBE/V2/Init" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="Config">
+        <Server value="https://cn.bing.com/client/config" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="Family">
+        <Server value="https://platform.bing.com/agents/v2/intent/reminder" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="HelpPageEndpoint">
+        <Server value="https://cn.bing.com/spark/tips" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="InterestTracking">
+        <Server value="https://cn.bing.com/InterestTracking" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="GetCortanaApp">
+        <Server value="https://cn.bing.com/getCortanaMobile" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="VisionOnScreen">
+        <Server value="https://cn.bing.com/cortanavision/onscreen" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="CloudGraphCollection">
+        <Server value="https://cn.bing.com/CloudGraph/Collection/v1" type="url" />
+      </NonOSSEndPoint>
+      <NonOSSEndPoint name="LaunchSettingSnREndPoint">
+        <Server value="https://cn.bing.com/LaunchSetting/IsSettingQuery?q={query}" type="url" />
+      </NonOSSEndPoint>
+    </NonOSSEndPoints>
+  </EndPoints>
+  <SupportedFeatures>
+    <IntentExtraction>
+      <!--TEAM OWNER: MLX -->
+      <SchemaSupportedScenarios value="FlightReservation,ReservationPackage,ParcelDelivery,EventReservation,FoodEstablishmentReservation,LodgingReservation,RentalCarReservation" type="string" />
+    </IntentExtraction>
+    <MiscSupport />
+  </SupportedFeatures>
+</Locale>

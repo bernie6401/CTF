@@ -1,0 +1,167 @@
+[2023-07-12T06:19:01.215Z] [ message] [vmusr] [5996] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T06:19:01.230Z] [ message] [vmtoolsd] [5996] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T06:19:02.476Z] [ message] [vmtoolsd] [5996] Plugin 'hgfsServer' initialized.
+[2023-07-12T06:19:02.476Z] [ message] [vmtoolsd] [5996] Plugin 'hgfsUsability' initialized.
+[2023-07-12T06:19:02.476Z] [ message] [vix] [5996] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T06:19:02.476Z] [ message] [vix] [5996] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T06:19:02.476Z] [ message] [vmtoolsd] [5996] Plugin 'vix' initialized.
+[2023-07-12T06:19:02.483Z] [ message] [vmtoolsd] [5996] Plugin 'darkModeSync' initialized.
+[2023-07-12T06:19:02.485Z] [ message] [vmtoolsd] [5996] Plugin 'desktopEvents' initialized.
+[2023-07-12T06:19:02.559Z] [ message] [vmtoolsd] [5996] Plugin 'dndCP' initialized.
+[2023-07-12T06:19:04.134Z] [ message] [vmtoolsd] [5996] Plugin 'unity' initialized.
+[2023-07-12T06:19:14.188Z] [ warning] [vmtray] [5996] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Plugin 'vmtray' initialized.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'vmtray'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'unity'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'dndCP'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'desktopEvents'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'darkModeSync'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'vix'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'hgfsUsability'.
+[2023-07-12T06:19:14.188Z] [ message] [vmtoolsd] [5996] Unloading plugin 'hgfsServer'.
+[2023-07-12T06:23:41.021Z] [ message] [vmusr] [6776] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T06:23:41.162Z] [ message] [vmtoolsd] [6776] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T06:23:43.834Z] [ warning] [hgfsd] [6776] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T06:23:43.834Z] [ message] [vmtoolsd] [6776] Plugin 'hgfsServer' initialized.
+[2023-07-12T06:23:43.834Z] [ message] [vmtoolsd] [6776] Plugin 'hgfsUsability' initialized.
+[2023-07-12T06:23:43.834Z] [ message] [vix] [6776] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T06:23:43.834Z] [ message] [vix] [6776] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T06:23:43.850Z] [ message] [vmtoolsd] [6776] Plugin 'vix' initialized.
+[2023-07-12T06:23:43.850Z] [ message] [vmtoolsd] [6776] Plugin 'darkModeSync' initialized.
+[2023-07-12T06:23:43.850Z] [ message] [vmtoolsd] [6776] Plugin 'desktopEvents' initialized.
+[2023-07-12T06:23:43.974Z] [ message] [vmtoolsd] [6776] Plugin 'dndCP' initialized.
+[2023-07-12T06:23:46.224Z] [ message] [vmtoolsd] [6776] Plugin 'unity' initialized.
+[2023-07-12T06:23:56.334Z] [ warning] [vmtray] [6776] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T06:23:56.334Z] [ message] [vmtoolsd] [6776] Plugin 'vmtray' initialized.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'vmtray'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'unity'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'dndCP'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'desktopEvents'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'darkModeSync'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'vix'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'hgfsUsability'.
+[2023-07-12T08:05:53.124Z] [ message] [vmtoolsd] [6776] Unloading plugin 'hgfsServer'.
+[2023-07-12T08:07:53.138Z] [ message] [vmusr] [3700] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T08:07:53.138Z] [ message] [vmtoolsd] [3700] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T08:07:58.044Z] [ warning] [hgfsd] [3700] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T08:07:58.044Z] [ message] [vmtoolsd] [3700] Plugin 'hgfsServer' initialized.
+[2023-07-12T08:07:58.044Z] [ message] [vmtoolsd] [3700] Plugin 'hgfsUsability' initialized.
+[2023-07-12T08:07:58.044Z] [ message] [vix] [3700] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T08:07:58.044Z] [ message] [vix] [3700] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T08:07:58.044Z] [ message] [vmtoolsd] [3700] Plugin 'vix' initialized.
+[2023-07-12T08:07:58.044Z] [ message] [vmtoolsd] [3700] Plugin 'darkModeSync' initialized.
+[2023-07-12T08:07:58.044Z] [ message] [vmtoolsd] [3700] Plugin 'desktopEvents' initialized.
+[2023-07-12T08:07:58.091Z] [ message] [vmtoolsd] [3700] Plugin 'dndCP' initialized.
+[2023-07-12T08:08:02.997Z] [ message] [vmtoolsd] [3700] Plugin 'unity' initialized.
+[2023-07-12T08:08:13.072Z] [ warning] [vmtray] [3700] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T08:08:13.072Z] [ message] [vmtoolsd] [3700] Plugin 'vmtray' initialized.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'vmtray'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'unity'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'dndCP'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'desktopEvents'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'darkModeSync'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'vix'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:04:22.531Z] [ message] [vmtoolsd] [3700] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:07:12.887Z] [ message] [vmusr] [6604] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:07:12.903Z] [ message] [vmtoolsd] [6604] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:07:22.700Z] [ warning] [hgfsd] [6604] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T09:07:22.700Z] [ message] [vmtoolsd] [6604] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:07:22.700Z] [ message] [vmtoolsd] [6604] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:07:22.700Z] [ message] [vix] [6604] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T09:07:22.700Z] [ message] [vix] [6604] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:07:22.700Z] [ message] [vmtoolsd] [6604] Plugin 'vix' initialized.
+[2023-07-12T09:07:22.700Z] [ message] [vmtoolsd] [6604] Plugin 'darkModeSync' initialized.
+[2023-07-12T09:07:22.715Z] [ message] [vmtoolsd] [6604] Plugin 'desktopEvents' initialized.
+[2023-07-12T09:07:23.078Z] [ message] [vmtoolsd] [6604] Plugin 'dndCP' initialized.
+[2023-07-12T09:07:32.702Z] [ message] [vmtoolsd] [6604] Plugin 'unity' initialized.
+[2023-07-12T09:07:42.791Z] [ warning] [vmtray] [6604] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T09:07:42.791Z] [ message] [vmtoolsd] [6604] Plugin 'vmtray' initialized.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'vmtray'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'unity'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'dndCP'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'desktopEvents'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'darkModeSync'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'vix'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:12:45.734Z] [ message] [vmtoolsd] [6604] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:20:07.673Z] [ message] [vmusr] [2328] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:20:07.719Z] [ message] [vmtoolsd] [2328] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:20:14.517Z] [ warning] [hgfsd] [2328] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T09:20:14.517Z] [ message] [vmtoolsd] [2328] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:20:14.533Z] [ message] [vmtoolsd] [2328] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:20:14.533Z] [ message] [vix] [2328] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T09:20:14.533Z] [ message] [vix] [2328] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:20:14.533Z] [ message] [vmtoolsd] [2328] Plugin 'vix' initialized.
+[2023-07-12T09:20:14.533Z] [ message] [vmtoolsd] [2328] Plugin 'darkModeSync' initialized.
+[2023-07-12T09:20:14.548Z] [ message] [vmtoolsd] [2328] Plugin 'desktopEvents' initialized.
+[2023-07-12T09:20:15.142Z] [ message] [vmtoolsd] [2328] Plugin 'dndCP' initialized.
+[2023-07-12T09:20:29.696Z] [ message] [vmtoolsd] [2328] Plugin 'unity' initialized.
+[2023-07-12T09:20:39.946Z] [ warning] [vmtray] [2328] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T09:20:39.962Z] [ message] [vmtoolsd] [2328] Plugin 'vmtray' initialized.
+[2023-07-12T09:34:05.252Z] [ message] [vmtoolsd] [2328] Unloading plugin 'vmtray'.
+[2023-07-12T09:34:05.252Z] [ message] [vmtoolsd] [2328] Unloading plugin 'unity'.
+[2023-07-12T09:34:05.252Z] [ message] [vmtoolsd] [2328] Unloading plugin 'dndCP'.
+[2023-07-12T09:34:05.252Z] [ message] [vmtoolsd] [2328] Unloading plugin 'desktopEvents'.
+[2023-07-12T09:34:05.268Z] [ message] [vmtoolsd] [2328] Unloading plugin 'darkModeSync'.
+[2023-07-12T09:34:05.268Z] [ message] [vmtoolsd] [2328] Unloading plugin 'vix'.
+[2023-07-12T09:34:05.268Z] [ message] [vmtoolsd] [2328] Unloading plugin 'hgfsUsability'.
+[2023-07-12T09:34:05.268Z] [ message] [vmtoolsd] [2328] Unloading plugin 'hgfsServer'.
+[2023-07-12T09:37:47.169Z] [ message] [vmusr] [6164] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T09:37:47.247Z] [ message] [vmtoolsd] [6164] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T09:37:47.966Z] [ warning] [hgfsd] [6164] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T09:37:47.982Z] [ message] [vmtoolsd] [6164] Plugin 'hgfsServer' initialized.
+[2023-07-12T09:37:47.982Z] [ message] [vmtoolsd] [6164] Plugin 'hgfsUsability' initialized.
+[2023-07-12T09:37:47.982Z] [ message] [vix] [6164] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T09:37:47.982Z] [ message] [vix] [6164] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T09:37:47.982Z] [ message] [vmtoolsd] [6164] Plugin 'vix' initialized.
+[2023-07-12T09:37:47.982Z] [ message] [vmtoolsd] [6164] Plugin 'darkModeSync' initialized.
+[2023-07-12T09:37:47.997Z] [ message] [vmtoolsd] [6164] Plugin 'desktopEvents' initialized.
+[2023-07-12T09:37:48.107Z] [ message] [vmtoolsd] [6164] Plugin 'dndCP' initialized.
+[2023-07-12T09:37:56.857Z] [ message] [vmtoolsd] [6164] Plugin 'unity' initialized.
+[2023-07-12T09:38:07.008Z] [ warning] [vmtray] [6164] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T09:38:07.008Z] [ message] [vmtoolsd] [6164] Plugin 'vmtray' initialized.
+[2023-07-12T16:47:58.161Z] [ message] [vmtoolsd] [6164] Unloading plugin 'vmtray'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'unity'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'dndCP'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'desktopEvents'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'darkModeSync'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'vix'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'hgfsUsability'.
+[2023-07-12T16:47:58.176Z] [ message] [vmtoolsd] [6164] Unloading plugin 'hgfsServer'.
+[2023-07-12T16:51:35.760Z] [ message] [vmusr] [6716] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T16:51:35.776Z] [ message] [vmtoolsd] [6716] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T16:51:36.526Z] [ warning] [hgfsd] [6716] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T16:51:36.526Z] [ message] [vmtoolsd] [6716] Plugin 'hgfsServer' initialized.
+[2023-07-12T16:51:36.526Z] [ message] [vmtoolsd] [6716] Plugin 'hgfsUsability' initialized.
+[2023-07-12T16:51:36.526Z] [ message] [vix] [6716] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T16:51:36.526Z] [ message] [vix] [6716] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T16:51:36.526Z] [ message] [vmtoolsd] [6716] Plugin 'vix' initialized.
+[2023-07-12T16:51:36.526Z] [ message] [vmtoolsd] [6716] Plugin 'darkModeSync' initialized.
+[2023-07-12T16:51:36.542Z] [ message] [vmtoolsd] [6716] Plugin 'desktopEvents' initialized.
+[2023-07-12T16:51:36.635Z] [ message] [vmtoolsd] [6716] Plugin 'dndCP' initialized.
+[2023-07-12T16:51:47.657Z] [ message] [vmtoolsd] [6716] Plugin 'unity' initialized.
+[2023-07-12T16:51:58.484Z] [ warning] [vmtray] [6716] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T16:51:58.484Z] [ message] [vmtoolsd] [6716] Plugin 'vmtray' initialized.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'vmtray'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'unity'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'dndCP'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'desktopEvents'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'darkModeSync'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'vix'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'hgfsUsability'.
+[2023-07-12T16:53:12.421Z] [ message] [vmtoolsd] [6716] Unloading plugin 'hgfsServer'.
+[2023-07-12T16:57:58.312Z] [ message] [vmusr] [7108] Log caching is enabled with maxCacheEntries=4096.
+[2023-07-12T16:57:58.344Z] [ message] [vmtoolsd] [7108] Tools Version: 11.3.5.31214 (build-18557794)
+[2023-07-12T16:57:59.140Z] [ warning] [hgfsd] [7108] HgfsServerClientRdrCreateEvent: Error: Creating Global\HGFS_CLIENT_START_EVENT = 5
+[2023-07-12T16:57:59.156Z] [ message] [vmtoolsd] [7108] Plugin 'hgfsServer' initialized.
+[2023-07-12T16:57:59.156Z] [ message] [vmtoolsd] [7108] Plugin 'hgfsUsability' initialized.
+[2023-07-12T16:57:59.156Z] [ message] [vix] [7108] VixTools_Initialize: Toolsd running as user 'OMEN'
+[2023-07-12T16:57:59.172Z] [ message] [vix] [7108] QueryVGAuthConfig: vgauth usage is: 1
+[2023-07-12T16:57:59.172Z] [ message] [vmtoolsd] [7108] Plugin 'vix' initialized.
+[2023-07-12T16:57:59.172Z] [ message] [vmtoolsd] [7108] Plugin 'darkModeSync' initialized.
+[2023-07-12T16:57:59.172Z] [ message] [vmtoolsd] [7108] Plugin 'desktopEvents' initialized.
+[2023-07-12T16:57:59.297Z] [ message] [vmtoolsd] [7108] Plugin 'dndCP' initialized.
+[2023-07-12T16:58:05.078Z] [ message] [vmtoolsd] [7108] Plugin 'unity' initialized.
+[2023-07-12T16:58:15.281Z] [ warning] [vmtray] [7108] VMTrayToolsNotifyInit: Failed open VMToolsNewVersion
+[2023-07-12T16:58:15.281Z] [ message] [vmtoolsd] [7108] Plugin 'vmtray' initialized.

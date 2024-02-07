@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CompDB xmlns="http://schemas.microsoft.com/embedded/2004/10/ImageUpdate" CreatedDate="2023-07-12T11:32:58" Revision="1" SchemaVersion="1.0" BuildID="" BuildInfo="vb_release" OSVersion="10.0.19045.2965" Type="Device">
+    <Features>
+        <Feature Type="DesktopMedia" FeatureID="App.StepsRecorder~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="App.Support.QuickAssist~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Browser.InternetExplorer~~11.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Client.WOW64~" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="DirectX.Configuration.Database~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Education_en-GB" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Hello.Face.18967~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Basic~en-GB~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Handwriting~en-GB~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.OCR~en-GB~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.Speech~en-GB~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.TextToSpeech~en-GB~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Language.UI.Client~en-GB" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="MathRecognizer~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Media.WindowsMediaPlayer~~12.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.MSPaint~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.Notepad~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.PowerShell.ISE~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Microsoft.Windows.WordPad~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Internet-Explorer-Optional-amd64" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MediaPlayback" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MicrosoftWindowsPowerShellV2" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MicrosoftWindowsPowerShellV2Root" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-MSRDC-Infrastructure" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-NetFx4-AdvSrvs" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-Foundation-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-Foundation-InternetPrinting-Client" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-PrintToPDFServices-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Printing-XPSServices-Features" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-SearchEngine-Client-Package" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-SmbDirect" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WCF-Services45" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WCF-TCP-PortSharing45" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-Windows-Defender-Default-Definitions" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WindowsMediaPlayer" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OC-WorkFolders-Client" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OneCoreUAP.OneSync~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="OpenSSH.Client~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Print.Fax.Scan~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Print.Management.Console~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+        <Feature Type="DesktopMedia" FeatureID="Windows.Client.ShellComponents~~1.0" Group="Microsoft">
+            <Packages>
+            </Packages>
+        </Feature>
+    </Features>
+    <Packages>
+    </Packages>
+    <EnumeratedPackages>
+        <Package ID="Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1949"/>
+        <Package ID="Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.2965"/>
+        <Package ID="Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Foundation-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Foundation-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~10.0.19041.1889"/>
+        <Package ID="Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.19041.1566"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Basic-en-gb-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Basic-en-gb-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Handwriting-en-gb-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Handwriting-en-gb-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-OCR-en-gb-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-OCR-en-gb-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-Speech-en-gb-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-Speech-en-gb-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-gb-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-gb-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MediaPlayer-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-MediaPlayer-Package~31bf3856ad364e35~amd64~~10.0.19041.2965"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~en-GB~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.488"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1865"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~en-GB~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-GB~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Printing-PMCPPC-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1806"/>
+        <Package ID="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.906"/>
+        <Package ID="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.2604"/>
+        <Package ID="Microsoft-Windows-ProfessionalEdition~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-ProfessionalEdition~31bf3856ad364e35~amd64~~10.0.19041.2965"/>
+        <Package ID="Microsoft-Windows-QuickAssist-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-QuickAssist-Package~31bf3856ad364e35~amd64~~10.0.19041.2913"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.19041.746"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~en-GB~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~10.0.19041.2193"/>
+        <Package ID="Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~10.0.19041.2913"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-GB~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1682"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-GB~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-GB~10.0.19041.1"/>
+        <Package ID="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~" KeyForm="Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1"/>
+        <Package ID="OpenSSH-Client-Package~31bf3856ad364e35~amd64~~" KeyForm="OpenSSH-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.964"/>
+        <Package ID="Package_for_DotNetRollup~31bf3856ad364e35~amd64~~" KeyForm="Package_for_DotNetRollup~31bf3856ad364e35~amd64~~10.0.4614.6"/>
+        <Package ID="Package_for_KB5015684~31bf3856ad364e35~amd64~~" KeyForm="Package_for_KB5015684~31bf3856ad364e35~amd64~~19041.1799.1.2"/>
+        <Package ID="Package_for_RollupFix~31bf3856ad364e35~amd64~~" KeyForm="Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2965.1.8"/>
+        <Package ID="Package_for_ServicingStack_1704~31bf3856ad364e35~amd64~~" KeyForm="Package_for_ServicingStack_1704~31bf3856ad364e35~amd64~~19041.1704.1.4"/>
+        <Package ID="Package_for_ServicingStack_2905~31bf3856ad364e35~amd64~~" KeyForm="Package_for_ServicingStack_2905~31bf3856ad364e35~amd64~~19041.2905.1.0"/>
+    </EnumeratedPackages>
+    <Languages>
+        <Language Id="en-GB"/>
+    </Languages>
+    <Architectures>
+        <Architecture Id="WOW64"/>
+    </Architectures>
+    <ValuePair>
+        <Pair Name="Arch" Value="amd64"/>
+        <Pair Name="BuildBranch" Value="vb_release"/>
+        <Pair Name="CBSEdition" Value="Professional"/>
+        <Pair Name="CompactOS" Value="0"/>
+        <Pair Name="EditionVersion" Value="10.0.19041.2965"/>
+        <Pair Name="OSBaseVersion" Value="10.0.19041.1"/>
+        <Pair Name="OSVersion" Value="10.0.19045.2965"/>
+        <Pair Name="ServicingStackRevision" Value="2905"/>
+        <Pair Name="ServicingStackVersion" Value="10.0.19041.2905"/>
+        <Pair Name="SystemLanguage" Value="en-GB"/>
+        <Pair Name="WinREVersion" Value="10.0.19041.1"/>
+    </ValuePair>
+    <ValueSetPair>
+        <Pair Name="UserProfileLanguage" Value="en-GB"/>
+    </ValueSetPair>
+    <Registry>
+        <RegistryKey Name="HKEY_LOCAL_MACHINE\System\CurrentControlset\Services\OneSyncSvc"/>
+    </Registry>
+</CompDB>

