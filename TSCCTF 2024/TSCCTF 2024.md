@@ -1229,3 +1229,5 @@ print(answer)
 r.sendlineafter(b'Enter the answer: ', answer[:-1])
 r.interactive()
 ```
+## Reference
+[ywc大大的WP](https://hackmd.io/@ywChen/ryxg6zhFT#Babypwn2024-Nerf)
